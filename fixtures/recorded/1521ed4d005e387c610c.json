@@ -1,0 +1,477 @@
+{
+ "fetchedAt": "2026-10-08T11:03:51.638Z",
+ "params": {
+  "engine": "google_immersive_product",
+  "page_token": "CRd0lnicNVTJrutEEAXxA3zC3V_lyW6Pfa-y8DwknmdvIsdz7CQeEydfg-57IMESEGt-AxZ8C35CbKpaOl1dfY7q1D_ffP-R13-04UlOphsvkVgBhqsJ6GInWD93wzWb06nOfgM0gZEkjUBAAwrDCQygP6fJlLTXss5-RwGBUBBCAkMwGiAISpHw1ypPsra-5EZR5AN_Tb_ew6i1GMEBgACQJEnQKPFLfU7K_H8cx0iIQxIDGEmhNI7j9OchG3_4sZ_z4fEXcpynKR-K9vGaXoesTtpX0L5i7SvRvnZDPo7zkK_ItcmHNZ2P1x_Lbn33NwzFkPV7JIVhKEmjKwf687nOfiUoEicBjlM0RRMQBwj-ubtNH1X5ZZ7b_M-Psv2oLx9V-5Fffrom3a1I__72QxgijrulrOV1nc_biONmvQW6ZyyzRIS2UfqMvbzRW78REK2p5KOH-rEwtXkzPrWmvNty5e3D6107V_2xEZs4UB9W2M4eFiu-Nym66Cex0I6Rp14CodM1Sb9olwr4D7S23AaJ2jh0zzjhXmLD8mzTAymuhb6juT4ZYZ1sn-JrjIjnBIkNI7DVoM3YONClBBXNOBBB5Kto7sFOQ7NwH-iDFmZsgom9IynPFBEePjIu7qUVNLeyfQDHuBEdza96Q1QRF8RDdIlNX_CA5utIFkwXTyKSWCKq6GLz6bmbgpAB1hkKjhsRMaYvmiDWR5ndG2F7TUMd5B4xa9I0u1g1Gn5lRYsSHMVq7S8iWWPL-kk_axf15vEKHjeT6NnXeuX5TE_t2WugkwniFEjjMxBXnh6CegBVbYkYUxSeYl41POvLMg7FXwgjEpNjUOeNRyw6ExVmH3rWIJdLZVX7M97N5RtKQRQnKBxAikR_-jo5df73d4SjK_yWUQ0UhCIs4uYAxUsHKG3xBj-iXDnS6NtDllqVVHu_KVsmZhVFgJhmstZZGnbHDdpg7P5AuDgCEQHcC-qB47kuGxjqHJKj4RC7NLHeXxyDc7Yco6wngbE5-eAwmuAorrDlSks59AL7_sII3JZJEiiofSWF-HBqLibkpcdxxvHOp4_P1BczQUUzzvZ3d3mD8dyk9jya-rJf75D3F8kwpL1wYFjPEQ5CKGimqxj6dqWYJdTqswSHMCuOZE68udr2P0nINb5x2-FNMbc48Wn1zycKfiI2b87WxFGOzCrteTddaRnbgeCUcX9_f_kqGtcrHMcIDsoIrLFIvKMYkuYx7MHyhiTrsuzOrQLFm7kU-wPdnJa9mT5NxZZvcH_QM5mzfLxT-qYY04JHK6E4MljLI5WtZ61kljFXHPXjjj5JeVMbzYUbwnjfBVGI8Y2P1lC_axtpQaGCGxEwNVuVO8xwF6K0HgWk0-kRC-RpHwAzFAbM7mBCWjOqKeVEy4vncKQxRy4h8seHdfWlUKqMoHwWqqRVp4e43HhdsZ1pF-6ubgpsg-YosxwwTzg_2hSvDzMWavRdHIcYn29yJyToybvR6R46uz7dIFSJSHpa0Rxdl6zWeCzS3-UndWY3q3m0FAwkq2D1jp0I1SlCkrU2eyXBpNbyzHy4Y4fTwiQKbIaj7p2q6Ij0yf6gluGev3JFqFB98NT4UXiA2S_T95fDwcnTdR1uHNc2twyrVwx5anGp2GX-FcyHdUCMii7HcuOQve3pvPXswra9z6Lvx_oNkgNNuU_t5tGc1cC9kine0C2Ye0rRxTbheYly--kHkZzmqPkkNmX9LwmqEWY",
+  "more_stores": "true"
+ },
+ "raw": {
+  "search_metadata": {
+   "id": "6ac7789709a51aa849951982",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/gT2QHFdTlqwPau1KAuPfAgZJ6h7jcy12Y-yDm31yAMc/6ac7789709a51aa849951982.json",
+   "markdown_endpoint": "https://serpapi.com/searches/gT2QHFdTlqwPau1KAuPfAgZJ6h7jcy12Y-yDm31yAMc/6ac7789709a51aa849951982.md",
+   "created_at": "2026-10-08 11:03:51 UTC",
+   "processed_at": "2026-10-08 11:03:51 UTC",
+   "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=lXjHatvDG63f2roP28fKEQ&q=butterfly+cordial+2l+3l+5l+pressure+cooker+combo&gl=in&hl=en&cs=1&async=productid:2853668092827345321,catalogid:12507999530382001769,gpcid:3130999673316812828,headlineOfferDocid:13773404229226665815,imageDocid:13436949632367184448,isp:true,query:butterfly%20cordial%202l%203l%205l%20pressure%20cooker%20combo,mid:576462447878594204,pvt:hg,oapvfc:ErYCCvcBQUppVDR0STdqQ2pzZHB5Y1lYczZUekNlVkE0MkhHbU1VZEtlekszMkgwRHhULXowMmhqbkFkZWJyQXluU3ZIVUtINFVaZElsYUJnWEpNMGNnMnh2Vy1iQTk0YlZXTm45TnZOQURPU2c4MXVSMTV6Y3pHRjZoZ0Fma0ZOOWRJWldBZWNGa1FPZWF2YVJ1eU9pM1dXLWNrMXdBa3FqSGIzc0EyV0sxTnlEMThRV29sZkFSMVhqOFJ0T2ZrYnZPVEU2MVN0dWtnUG5aZG5hYnRDcmptWXA2Qm9ESTY5Z3NxMEFibHBLOXlocXN2eU5uMGtuT3hsOVhQYxIWbFhqSGF0dkRHNjNmMnJvUDI4ZktFURoiQURzcjlmUk9SdEFtWGszWFZoZU01U21JRG5sc19jZDJOUQ,xsrf:AF5tSO7m-U5xNAYfPqXUQrHgxhQhLm4pug%3A1791457429761,sori:0,mno:3,_fmt:jspb",
+   "raw_html_file": "https://serpapi.com/searches/gT2QHFdTlqwPau1KAuPfAgZJ6h7jcy12Y-yDm31yAMc/6ac7789709a51aa849951982.html",
+   "prettify_html_file": "https://serpapi.com/searches/gT2QHFdTlqwPau1KAuPfAgZJ6h7jcy12Y-yDm31yAMc/6ac7789709a51aa849951982.prettify",
+   "total_time_taken": 2.28
+  },
+  "search_parameters": {
+   "engine": "google_immersive_product",
+   "page_token": "CRd0lnicNVTJrutEEAXxA3zC3V_lyW6Pfa-y8DwknmdvIsdz7CQeEydfg-57IMESEGt-AxZ8C35CbKpaOl1dfY7q1D_ffP-R13-04UlOphsvkVgBhqsJ6GInWD93wzWb06nOfgM0gZEkjUBAAwrDCQygP6fJlLTXss5-RwGBUBBCAkMwGiAISpHw1ypPsra-5EZR5AN_Tb_ew6i1GMEBgACQJEnQKPFLfU7K_H8cx0iIQxIDGEmhNI7j9OchG3_4sZ_z4fEXcpynKR-K9vGaXoesTtpX0L5i7SvRvnZDPo7zkK_ItcmHNZ2P1x_Lbn33NwzFkPV7JIVhKEmjKwf687nOfiUoEicBjlM0RRMQBwj-ubtNH1X5ZZ7b_M-Psv2oLx9V-5Fffrom3a1I__72QxgijrulrOV1nc_biONmvQW6ZyyzRIS2UfqMvbzRW78REK2p5KOH-rEwtXkzPrWmvNty5e3D6107V_2xEZs4UB9W2M4eFiu-Nym66Cex0I6Rp14CodM1Sb9olwr4D7S23AaJ2jh0zzjhXmLD8mzTAymuhb6juT4ZYZ1sn-JrjIjnBIkNI7DVoM3YONClBBXNOBBB5Kto7sFOQ7NwH-iDFmZsgom9IynPFBEePjIu7qUVNLeyfQDHuBEdza96Q1QRF8RDdIlNX_CA5utIFkwXTyKSWCKq6GLz6bmbgpAB1hkKjhsRMaYvmiDWR5ndG2F7TUMd5B4xa9I0u1g1Gn5lRYsSHMVq7S8iWWPL-kk_axf15vEKHjeT6NnXeuX5TE_t2WugkwniFEjjMxBXnh6CegBVbYkYUxSeYl41POvLMg7FXwgjEpNjUOeNRyw6ExVmH3rWIJdLZVX7M97N5RtKQRQnKBxAikR_-jo5df73d4SjK_yWUQ0UhCIs4uYAxUsHKG3xBj-iXDnS6NtDllqVVHu_KVsmZhVFgJhmstZZGnbHDdpg7P5AuDgCEQHcC-qB47kuGxjqHJKj4RC7NLHeXxyDc7Yco6wngbE5-eAwmuAorrDlSks59AL7_sII3JZJEiiofSWF-HBqLibkpcdxxvHOp4_P1BczQUUzzvZ3d3mD8dyk9jya-rJf75D3F8kwpL1wYFjPEQ5CKGimqxj6dqWYJdTqswSHMCuOZE68udr2P0nINb5x2-FNMbc48Wn1zycKfiI2b87WxFGOzCrteTddaRnbgeCUcX9_f_kqGtcrHMcIDsoIrLFIvKMYkuYx7MHyhiTrsuzOrQLFm7kU-wPdnJa9mT5NxZZvcH_QM5mzfLxT-qYY04JHK6E4MljLI5WtZ61kljFXHPXjjj5JeVMbzYUbwnjfBVGI8Y2P1lC_axtpQaGCGxEwNVuVO8xwF6K0HgWk0-kRC-RpHwAzFAbM7mBCWjOqKeVEy4vncKQxRy4h8seHdfWlUKqMoHwWqqRVp4e43HhdsZ1pF-6ubgpsg-YosxwwTzg_2hSvDzMWavRdHIcYn29yJyToybvR6R46uz7dIFSJSHpa0Rxdl6zWeCzS3-UndWY3q3m0FAwkq2D1jp0I1SlCkrU2eyXBpNbyzHy4Y4fTwiQKbIaj7p2q6Ij0yf6gluGev3JFqFB98NT4UXiA2S_T95fDwcnTdR1uHNc2twyrVwx5anGp2GX-FcyHdUCMii7HcuOQve3pvPXswra9z6Lvx_oNkgNNuU_t5tGc1cC9kine0C2Ye0rRxTbheYly--kHkZzmqPkkNmX9LwmqEWY",
+   "more_stores": true
+  },
+  "product_results": {
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCn7cq0O3PXYMkqSAfJJr-htaCue0Ry05yg6E9oHNE3eU6YWdOyYtnaquhK6wC860SDdHzXvL7Saymio9DNUGO_OFnWlWAqhI_Z4yAJwOIlQkf7B9aCFAZz4DM",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfZIv8aHHkxUXyJO827UBoLdb-ul6I-l9cEWsPvdHVHHJOHZ03cZVSjLSJ9FLk3hQWwbBqp4Jp4oLvNLTj5zbNYPDtk6Lz",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQUCuona6chsnP-RU_My843_2RqeOIJt_tGWKcmri7yR5vq-4uoGUQlYEOv_IFLofVGlHRO21Mrk8HEZkJXkSqaMvoQjN7X0A",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8MuXwx-rgpf3l9MRWATBS534ITOI1PYKlLNRiKyrZD1U20dxY8XI_1chd4pk2Eb6mMasKiClKvczyJkUknHaDlo_tAeFMRQ",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTcty2CRe0Yw-ngwVY1U8_BEnFBamZGC6SnYwvF5sUTUtqoVjqdexoSiI5JM5YF4WtBu-dZUnd6QSdrIvJpygaMhsqxhF3klVzk-9WPq8",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJVZFU92A_lXDYoO5TJWgQ-MtwhmE3k0YfFRYQmuSWKAdwli8OqJrM4vAvEntj_Y3e6Y57GFKIffcD33phLV2aOjah9qyhTA",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtUyZtIpybhQvQs2-0kV7zXdeggq48IDuqN6ktvlegytLYIayZoEbfnGNrDA_6-tng6md2oEhN8YFk49kNtCUM5FK3mgNU",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT9pJn92opJ-urgsgbGrbqkdZWFftdUUJQeZ-Ns3qy_Csmw72LD06bxLadmWR7jc017vQHnWi9VmNA_XmuO6G8G5QacPp67",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrDIKJAAvv_RzeV9AdEpjhI6lM-QcD039UqE_NqdGHdI-uITlNYoF7ImvSACtGc2U1b0jAm6cyPFwU_b_H_13vx4OzrCeZpC1URk14K9eVW5lNWjCIot-Hzg",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSg7cW0fI1Ho9_sWjYPyBiTLgBQ6Q6NsW1i29t5iju_cTWp3vMtm-aqrf1REhKrYtVeNwJzCoRlgiFqREtWVdssdxpyY4-qHdhTNG6ejQHN1uXPgfDxEUPkkjo",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5K27ILdm3WSOzZsjfikKVIvptbmeqwYRZkX8zm7iss_ROzd9undcmQqR59e-V-0ivaM6S9W8mX7TCc9tbEK_PZECt1So3WXT_MxOB4MsQaGUwNJQQ5gTtAQ",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3gYJdMJQJ0z6_idGgyQnmxV25Ts5AdT_5mfg7cwvZWrDqGf-JbD7cJSggNDCnSkRLXqVoAwWO3q4INxdDFME23BypAfiGlvnjXD16BCjVWE0w2XDE-TKNOg",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQvTj7b3tMwJtMFvciBWQ16IzUxECDg359pCUeUKu39YJYAjAgmm6HgukXJcjx08WDKLdSSOI2d-sGotQTt6k0SVzNBbWNgHkGSUMkhQXOfqARpiHTye0FBds",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3FUgbs1y-_xxdiPShOKliTA8hzbOYdhg8AZro_3qV5oiwWNHgS095lsqDIc1mwn7DiNDKwplktR5g7w-RM08pKfLMZ9VLKjQUPhJgp5vcipX7JFIxzeWl-A"
+   ],
+   "title": "Butterfly Cordial 2L 3L & 5L SS Pressure Cooker Combo Stainless Steel",
+   "brand": "Butterfly",
+   "price_range": "₹3,391-₹3,866",
+   "stores": [
+    {
+     "name": "addmecart",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.addmecart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.addmecart.com/shop/kitchen-appliances/pressure-cooker/butterfly-cordial-2l-3l-5l-ss-pressure-cooker-combo-stainless-steel",
+     "title": "Butterfly Cordial 2L 3L & 5L SS Pressure Cooker Combo Stainless Steel",
+     "tag": "Most popular",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "3-day returns"
+     ],
+     "discount": "Usually ₹3,391",
+     "price": "₹3,099",
+     "extracted_price": 3099,
+     "original_price": "₹3,099",
+     "extracted_original_price": 3099,
+     "shipping": "Free",
+     "total": "₹3,099",
+     "extracted_total": 3099
+    },
+    {
+     "name": "Amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/Butterfly-Cordial-Stainless-Pressure-Cooker/dp/B097DLHMY6?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AXOGFIT0PZZ7G",
+     "title": "Butterfly Cordial 2L, 3L & 5L SS Pressure Cooker Combo | Stainless Steel | Induction & Gas Stove Compatible| ISI Certified| Triple Safety System|",
+     "tag": "Best price",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery"
+     ],
+     "discount": "Usually ₹3,391",
+     "price": "₹2,999",
+     "extracted_price": 2999,
+     "original_price": "₹2,999",
+     "extracted_original_price": 2999,
+     "shipping": "Free",
+     "total": "₹2,999",
+     "extracted_total": 2999
+    },
+    {
+     "name": "Zepto",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.zepto.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.zepto.com/pn/butterfly-cordial-2l-3l-5l-stainless-steel-outer-lid-pressure-cooker/pvid/9e96e468-97f4-42f9-ac9c-1ad0267872b3?srsltid=AU7gw4VjvxjyEpv6vbNj6_QrbkvCxCV6K8txf1wL50YqBiecobwl-I0_7z8",
+     "title": "Butterfly Cordial 2L, 3L & 5L Stainless Steel Outer Lid Pressure Cooker",
+     "details_and_offers": [
+      "In stock online",
+      "Free 10 min delivery"
+     ],
+     "price": "₹3,951",
+     "extracted_price": 3951,
+     "shipping": "Free",
+     "total": "₹3,951",
+     "extracted_total": 3951
+    },
+    {
+     "name": "Myntra - MNow",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=http://www.myntra.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "http://www.myntra.com/Pressure-Cooker/butterfly/butterfly-Steel-2026-Alloy-Steel-Pressure-Cooker/44304312/buy",
+     "title": "butterfly Steel 2026 Alloy Steel Pressure Cooker",
+     "details_and_offers": [
+      "In stock online"
+     ],
+     "price": "₹3,549",
+     "extracted_price": 3549,
+     "total": "₹3,549",
+     "extracted_total": 3549
+    },
+    {
+     "name": "Fliptwirls",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.fliptwirls.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.fliptwirls.com/shop/kitchen-appliances/pressure-cooker/butterfly-cordial-2l-3l-5l-ss-pressure-cooker-combo-stainless-steel",
+     "title": "Butterfly Cordial 2L 3L & 5L SS Pressure Cooker Combo Stainless Steel",
+     "rating": 1.7,
+     "reviews": 12,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "3-day returns"
+     ],
+     "price": "₹3,099",
+     "extracted_price": 3099,
+     "shipping": "Free",
+     "total": "₹3,099",
+     "extracted_total": 3099
+    },
+    {
+     "name": "Fetch N Buy",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://fetchnbuy.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://fetchnbuy.in/products/butterfly-cordial-2l-3l-5l-stainless-steel-outer-lid-pressure-cooker?currency=INR&country=IN&variant=45281994571944&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=367865669ac8",
+     "title": "Butterfly Cordial 2L, 3L & 5L Stainless Steel Outer Lid Pressure Cooker",
+     "details_and_offers": [
+      "In stock online",
+      "Delivery ₹750",
+      "30-day returns"
+     ],
+     "price": "₹7,800",
+     "extracted_price": 7800,
+     "shipping": "+ ₹750",
+     "shipping_extracted": 750,
+     "total": "₹8,550",
+     "extracted_total": 8550
+    },
+    {
+     "name": "amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/Butterfly-Stainless-Induction-Compatible-Certified/dp/B0FJSCQQL2",
+     "title": "Butterfly Cordial Plus 2L, 3L & 5L SS Pressure Cooker Combo | Stainless Steel | Induction & Gas Stove Compatible| ISI Certified| Triple Safety System|",
+     "rating": 4.1,
+     "reviews": 1490,
+     "details_and_offers": [
+      "In stock online"
+     ],
+     "discount": "Usually ₹3,391",
+     "price": "₹3,099",
+     "extracted_price": 3099,
+     "original_price": "₹3,099",
+     "extracted_original_price": 3099,
+     "total": "₹3,099",
+     "extracted_total": 3099
+    },
+    {
+     "name": "Myntra",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=http://www.myntra.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "http://www.myntra.com/Pressure-Cooker/butterfly/butterfly-Steel-2026-Alloy-Steel-Pressure-Cooker/44304312/buy",
+     "title": "butterfly Steel 2026 Alloy Steel Pressure Cooker'('Onesize\")\"'by Myntra'",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Sun–Tue",
+      "14-day returns"
+     ],
+     "price": "₹3,549",
+     "extracted_price": 3549,
+     "shipping": "Free",
+     "total": "₹3,549",
+     "extracted_total": 3549
+    },
+    {
+     "name": "amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/Butterfly-Induction-Compatible-Certified-Manufacturers/dp/B0F21LHVMF",
+     "title": "Butterfly Cordial 2, 3 & 5 Litres Outer Lid SS Pressure Cookers | Induction & Gas Stove Compatible | ISI Certified | 2 Years Manufacturer's Warranty &",
+     "rating": 4.1,
+     "reviews": 1490,
+     "details_and_offers": [
+      "In stock online"
+     ],
+     "price": "₹3,274",
+     "extracted_price": 3274,
+     "total": "₹3,274",
+     "extracted_total": 3274
+    },
+    {
+     "name": "Moglix",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.moglix.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.moglix.com/butterfly-curve-2-3-55-litre-stainless-steel-outer-lid-pressure-cooker-combo/mp/msn85808np6l92?srsltid=AU7gw4VI133rDxdAIu74AXWR50ND93eXGvBuIKRdc75mZ1FA8qzfDOEWg5o",
+     "title": "Butterfly Curve 2, 3 & 5.5 Litre Stainless Steel Outer Lid Pressure Cooker Combo",
+     "rating": 3,
+     "reviews": 38,
+     "details_and_offers": [
+      "Out of stock online",
+      "Free delivery between 13–15 Oct",
+      "7-day returns"
+     ],
+     "price": "₹4,317",
+     "extracted_price": 4317,
+     "shipping": "Free",
+     "total": "₹4,317",
+     "extracted_total": 4317
+    }
+   ],
+   "about_the_product": {
+    "features": [
+     {
+      "title": "Total Capacity",
+      "value": "5 litres"
+     },
+     {
+      "title": "Induction Ready",
+      "value": "Yes"
+     },
+     {
+      "title": "Heating Method Compatibility",
+      "value": "Induction, Gas"
+     },
+     {
+      "title": "Safety Lid",
+      "value": "Outer Lid"
+     },
+     {
+      "title": "Diameter",
+      "value": "26 cm"
+     },
+     {
+      "title": "Height",
+      "value": "17 cm"
+     },
+     {
+      "title": "Weight",
+      "value": "5800 g"
+     },
+     {
+      "title": "Width",
+      "value": "47.5 cm"
+     },
+     {
+      "title": "Highlighted Features",
+      "value": "Gas Compatible, Precisely designed weight set to regulate cooking steam pressure, Specially formulated food grade rubber with longer life"
+     },
+     {
+      "title": "Body Material",
+      "value": "Stainless steel, Food grade virgin aluminium"
+     },
+     {
+      "title": "Free Of",
+      "value": "Does not impart colour, taste or odour to the food (Specially formulated food grade rubber)"
+     },
+     {
+      "title": "Included Accessories",
+      "value": "Precisely designed weight set to regulate cooking steam pressure"
+     },
+     {
+      "title": "Color",
+      "value": "Steel"
+     },
+     {
+      "title": "Design Highlights",
+      "value": "Stay cool handle"
+     },
+     {
+      "title": "Durability Highlights",
+      "value": "Long life (Made through food grade virgin aluminium)"
+     }
+    ]
+   },
+   "videos": [
+    {
+     "title": "Watch Butterfly Cordial 2L, 3L & 5L Stainless Steel Pressure Cooker ...",
+     "link": "https://www.amazon.in/live/video/14f4c4a1cf1c468ab73c7fb2c21001cf",
+     "source": "Amazon.in",
+     "channel": "Amazon Videos",
+     "duration": "1:53",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTBD2UVH9Q23QKhbdamU2QgaBiHfUFFWypV1AXt7_0wN63w&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSf5B1qWGeCgpnQHpE6bo__Y3ikmxEgHPXVwg"
+    },
+    {
+     "title": "Watch Butterfly Cordial 2 L, 3 L & 5 L Outer Lid Pressure Cooker on ...",
+     "link": "https://www.amazon.in/live/video/13e7f7aeabc5477188acb2a7b2b521e9",
+     "source": "Amazon.in",
+     "channel": "Priyankka Arrora",
+     "duration": "0:50",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQ-3h1vfnaVLpK3-qRuO8904gxSiKd_ivvJzzXbASLVGNjQ&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQI4EINR--AN2MUKM8rfjDv87cLzDrs6Tp9Iw"
+    },
+    {
+     "title": "Butterfly Pressure Cookers Combo Set . . .",
+     "link": "https://www.instagram.com/reel/DbGTYz7vtpi/",
+     "source": "Instagram",
+     "channel": "SPARK DEALS",
+     "duration": "0:15",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfj56tpybTj0qWx0nEslJN-JXRMmdkCQWESfzLd_8DNDTHA&s"
+    },
+    {
+     "title": "Butterfly stainless steel cooker Review ...",
+     "link": "https://www.youtube.com/watch?v=D-XOZNaq0gs",
+     "source": "YouTube",
+     "channel": "SKP REVIEW ",
+     "duration": "4:07",
+     "thumbnail": "https://i.ytimg.com/vi/D-XOZNaq0gs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mEinuiHGJlj0Azwze2CdBglQw-EA"
+    },
+    {
+     "title": "Butterfly Stainless Steel Pressure Cooker 5.5 लीटर | Unboxing & First ...",
+     "link": "https://www.instagram.com/reel/DS6W_IriIvS/",
+     "source": "Instagram",
+     "channel": "Manisha's Kitchen Art",
+     "duration": "0:32",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoeVGT8_jGmsWOLsIa_6S6eFvtlvBioF0q3BK5w0IJvqoDYA&s"
+    },
+    {
+     "title": "Product Link In Below 👇 https://link.amazon/B00s5OKVo Butterfly ...",
+     "link": "https://www.instagram.com/reel/Dc31a3Rv5ZO/?hl=hu",
+     "source": "Instagram",
+     "channel": "lucky Smart hub",
+     "duration": "1:12",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpme2wkgzudsEJstELZgSgXQ81tgfMOuIIBEydpoi27XIs0w&s"
+    },
+    {
+     "title": "Get 3 pressure cookers for the price of 1! 🍲 This Butterfly Cordial ...",
+     "link": "https://www.instagram.com/reel/DYOdZydh_g9/",
+     "source": "Instagram",
+     "channel": "NAJLA SHAFEER🍉",
+     "duration": "0:29",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRuyRbAafmxLIKHKZQXATI-hajS4c6Q3jNZy-8Dq0rwc36A&s"
+    },
+    {
+     "title": "Product Link In Below 👇 https://link.amazon/B00s5OKVo Butterfly ...",
+     "link": "https://www.instagram.com/reel/Dc31a3Rv5ZO/?__d=1*",
+     "source": "Instagram",
+     "channel": "lucky Smart hub",
+     "duration": "1:12",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpme2wkgzudsEJstELZgSgXQ81tgfMOuIIBEydpoi27XIs0w&s"
+    },
+    {
+     "title": "butterfly stainless steel pressure cooker|| cordial cooker",
+     "link": "https://www.youtube.com/watch?v=rg-flK0cIJM",
+     "source": "YouTube",
+     "channel": "SKP REVIEW ",
+     "duration": "2:36",
+     "thumbnail": "https://i.ytimg.com/vi/rg-flK0cIJM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lMLGswRtV5qTMf8sFxDVJ6QYeqBg",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR-U9dFpJU4LHyfankoxL1lOuuV9m6WiPsN-Q"
+    },
+    {
+     "title": "butterfly friendly 2L 3L 5L induction and LPG Gas pressure cooker ...",
+     "link": "https://www.youtube.com/watch?v=tUHDdboGQ-c",
+     "source": "YouTube",
+     "channel": "SHT Zone",
+     "duration": "5:26",
+     "thumbnail": "https://i.ytimg.com/vi/tUHDdboGQ-c/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kvl2yeekgL5_ypUbmjvtpRfxtYGA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQh-xjoxVoB9jErmYaSfhQhpCz6qpJKe0EbMg"
+    },
+    {
+     "title": "Product Link In Below 👇 https://link.amazon/B00s5OKVo Butterfly ...",
+     "link": "https://www.instagram.com/reel/Dc31a3Rv5ZO/?__d=1%3Futm_source%3Dig_embed!",
+     "source": "Instagram",
+     "channel": "lucky Smart hub",
+     "duration": "1:12",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpme2wkgzudsEJstELZgSgXQ81tgfMOuIIBEydpoi27XIs0w&s"
+    }
+   ],
+   "more_options": [
+    {
+     "title": "Butterfly Cordial 2 Litres 3 Litres & 5 Litres Pressure Cookers",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROcgeHMKDDPzwhotwd0Dk-CkSo53gfMP29p-PK8oD1C7Q_zNIGW2Rn5DM8WegIJqgUsZaoLZouhTnvD4LPjJizaKj3Wchit6pPQ46VPdz0dtn9S7Ocz_TXmQ",
+     "price": "₹2,541",
+     "extracted_price": 2541,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Ww5mu3icJVTJ0qvGFU4qL5CXuKu_dIuGZspOzEiiGRsQGxXzKAkhJAFP4_pv7Cpnabu8zmvYizxL0PWmT_f5qs_wneF_f_vnZ17_3oWNFo9PSWWoghyuFskVe9n-uR-u2SMd6-xXkqMphuEInuRIloI0RYKf03iMu2u5opAkKY6mCYKHkOdJmqHBL1UeZ119yc2iyAfpmtbZbwCygKYgoFgGEMR6YQHzn_ocl_l3_FeWIQFFUzRLQJrkSZakuR9vj3yY_yCSxzjmQ9HNH-l1yOq4-yC7D6r7oLuPfsjv98eQr8i1zYdVnJPrj2X_tsgBluc4nmd5yEHAcWsC38519gvNMpBZU-EBBwkOQob61j_Hz6r8LLvP-vJZdZ_55adr3D-L9M-_f5OHVBSfqWDjvvclh3Db7oyw7zkqUvMW3Q5BBM0AaWipsOtlenSxx1yKhnBRVOTZK-aYuQwq7DudL_cMOtu00whj2nQMWlDrAKHKfeWc4n5wiAkdL11rX_DoBaMaL1GbkvTiBbsgXrImWiIzDap9QjodbpCXYnoOlw44IdKTrkdIigpMpHPQRpKLe-gTfmGDjHaWnYu7aMSK0hgdf3Ux3Ueqf0-Vah8RVeUTxhwD1CJ8fyXkpEbhcTSCysy1neLg-5JJmelrvnLwdk5GdFag-edURTADiuu3tJIpVZMsVWt3yIklNGcBwDG1q47Av9hUFibAF025JGw8QcfRwwRXN1dV5pVDzWunDmH6iSVjzIJqsIN7rLeKnFI6HXXKDikGTIE_Jp6iJaqDsCe0XgvJI8AE8ivdUdN_T_eh-IPYKvTomiz2WF8j5Xs7babSRrNxsYRRl-Nas_-1tgSANAspkmX5n95NU-d__iN2kS59oaTtzgRkqPBF1J545dKTrDHhwT-ynnY0uOesqd2O2d38tuy2kaDrMk8ZlmCf1WGfbEBLCYcT7UGCJ2TyVbAzhDnSTAq4pzgxXXqfxvYXSvhwTdFdnYlb_ftL3jqidnK3huzqnvwGSls_3WThjW5l8R1XHPPy7lapIRya9mLxkjonDwh7n0uW1FcyeQcy0fH3L22z_h93Nwmka73qPfE2opqmepBPWwG78kkOZcPydBOtdr8nncUsxbDxOrtZkTA5_YXaesaq_4sqZj1XzTuKYZW6tV4g_RVQxFeW_0pvVt07GQsCkckqY3lZnjrdu4EW9fvh9fb-F7XiTRfFreyCrSyYkyq5uqkaeCucbDzEWZ9lL3GlMdo8SuV24tpmOljpYumO9uQPJ5Rpou3DXr-1xT0tJFDJRbKlOomoHJR1qlVGYpGgZM8160jWZnsRhzA69MExpKTWBzWPXsZGnQCvQ_NIWoaz03rK9Ca6tOeC59JxjmSmOQSkFcoD5fR8zNgPYOjlyGkTdkXGfBw9WpGS2b76aqhWZlAuxU41qmZWpqeEdMcd9-H-6qWkY3Iia5UDheXz3KWwPj2o0OBeyn2I4OOp9XIMGvzk0gPv7m_phmBLQkVpxYlcXQpGiwXi9tIW9ixsVLoyUnJgBJ2q98JI79wiZAR7c9BjSu1sbOXDizo10zbW-XZIEG6qY0Lc4sNpV4YH6SoWoc7egsWQ7vJMPvwyfRfkdHLzdN2ZG9dz3uXcCqjaMk0H1WKf-VfycVrbx6y48l5uXObmYCTZSx923euh-H6EnjwzcKy3GE_MiXbLH_RMx0M_UV6Tgsmx-PN0zJ3FD45amgNroTdl_W3I7j-sa7b47_8BQ6YaBg"
+    },
+    {
+     "title": "Butterfly Cute 2L, 3L & 5L SS Pressure Cooker Combo | TRIPLY Base | Induction & Gas Stove Compatible| ISI Certified| Triple Safety System",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKIB-XZUBASM_AWXiC9yQj3P2vFaTWN5mtTAgDbw4hweP1MZCJOt1o4LvjjPggXwIZuANrK3CDzzYCztq3vlc8GqCdhAy1TCIMcYtVV2OdiODInyYWqfGFfQ",
+     "price": "₹5,533",
+     "extracted_price": 5533,
+     "reviews": 6,
+     "rating": 4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Ren8SnicdVTLrqvIFU2UH8hP3NGRryiqKCAz3mCb99NMEOZtsI0xNhjla85Nt9QZdkcZ5zduK8q3BHdnGpVUj72q1l61a9f-zx_-_Fk0_-yik5qOT1HBsCSHq0Uy5U6yf-qHa_7Ixib_hWQoiDFDsCRD0hBRkAQ_ZemYdteqyf8BSIqgWZalIAEZkiAAjdmf6yLNu-ZSmGVZDOI1e-8DJKAZxGKCINeGMIWovzfntCr-h1MYAwAQRIigKYJZPaEfbo9ieH0njo9xLIaye31k1yFv0u6D7D5g90F1H_1Q3O-PoViRa1sM63A-Xn-o-pXyFwggsSrDNIQAM2CVz3w7N_nPFI0RJhGiGZqhWLSK-dY_x8-6-qy6z-byWXefxeXHa9o_y-zXP_5bemiCcNME2-_7QHQIN-oix7PnQ1RNx1a--8SVcJZaKNQMFX5QG4B_5kodOmcHOVC-Ba1TprB-GGeDNLrqZYa14xCHxThxZBBS2I98EC-ObqjdlIG4zZcYeaJN6W2H_LMGImhgrzM0X61AIYFbdpIVV4xVF8TPiIxb4-yMEexje-HJ41JPxiJrvgCueiB7pt8JZhTwjr-VXJWbfX8i_Dbmna7e5rAui3BsCpE_hT6IcgUAV839uNv2thdMKy_Wxc4MzjVRSNq8rp_xOVYLBaTFOi882bHbYDJlXnGCaomJDNnnbeCHs7yPci8lCUqHFakH_Mm9xHs7NK5-ZIyu2mNXmaM8atGB7MYiZEi3rcbYN_Qw7LcHf3wcxWBKpfsrgA4ftGOfKzHhhZkrk0BL27rOWufkrPSxF5hHwC37KLimhDwozZZ3VGONcexkRM0f_Np0wl6Lof1yg-4SKLUSetsuF8DJaHPnb_N9KL8TnEyNrkn7Hh2opHRv581c2cZLv1j8qElpo9p_ATQLEEUjSNI0--M725ri1z-lrqGJX6DIbU1ARjJbxm3CypeepPXZH4ID7akHnXm-VKXb4u2aClXHxbymSSzULd4-K8PuuAEt5PcJ5SGCJSRyKukXQoWhmhC4SXo0XWqXpfYXyH-4puCuzgRO-20lcY6gJi6nS67mSW-gsrXkJvFvlJOEt640ZaXtrVYiNJzai8WKyuv4QKgPmOOSBXIubUEuOMFuUjfr-XF7E0EWqEGzI94kimkqeynheN-VEimSdMvTTGPl_e3SeUpDTKeIZfPyiAvqC-Q8fbX_Hiq89qvlrWJYR81aJ4j6uv7JrzT7ldqstvdlLAQEnNf6MlmeMt-7gRK0-356e_89tO-vJ3CSCziJN2dFdDVT0X2OT2x_SPM-zydhDWO8eVTyLWHa07y3ssXSHPXJ7hMjVwU7QL12a8t7VoqglsojBzuRqB0j7xSrioXyaBx3zEkp2sZsL8IQxfs-PERQbAPQsMakb5QZsBoyD6SlO1u1h6Y3U5X9KlkmG1-xhE_7kLQiaYBOz6bYfgBdq0ZGnX1XwObj4FGyeHzZ10CJlNoMq6XcKnp9esnzUzQ0xx130e7qZaRjMgJtVQP0pfOry1CTPGCkM5N8H2L0eKq9lIKT_2SyPevubtmGoCtCMbKaEZim4vXW54nbpC70md8oVK1n5IB5DTY7fqS2bhlh3t7stRQqne1bxTDB5DRzqca2w9HwT_XhSNzSfbKtor14FcpIo2_hoot36UU-gip7P0iSuEW2FtuN6znv5-R4o-bwqUNKucuDK_lI1vQxa6a6VxsX3xzfEO2lj7pueshBEBtPFg8M7S3602cEu2X3Wq75Qz9D75SB2bHY83wonCUID2pWAGuhNlXzbcjv35ElJAATmCYwRWKKYSgCIwbDv1qOKSb_B1yLevmv_wL3MTj0"
+    },
+    {
+     "title": "Butterfly Curve Stainless Steel Pressure Cooker",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1HFX9fswnYnBhFw-ihrCZHcX2LSnBI1dLnVb54MqXGJBHCFxd4lyGFnTpgssDheMXfYqmqkU2UZu44Wkazv5_jSnTWqdcwcHnTvA4_1kJr-Knez1cALIp",
+     "price": "₹1,380",
+     "extracted_price": 1380,
+     "reviews": 23,
+     "rating": 4.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=h3kn0XicdVU50uu4EXbZF3DgK0z0l14RJMHFmbiTEncSXBIV9w2UKGqlyqf5n2eqxuGMy7Gv8SbwWUy9Se0EaPTX6P56KeA_f_jzZ9X9C8e9ll3vkspQNTmfHJKrd7L78zSfyltx7cpfSQ5SDMMRPMmRLEVDigQ_F9k1w6emK_8JaJ6mGZqgWQYCguUhQRK_tFVW4u5Y2XVdzdKpeNuRDANJwNA8ZBmWXK0A_Y9uzJrqO_4rRwOWAxwLSBqsziieAD-eb9W8fCPy2_VazTVePorTXHYZ_iDxB4U_IP6Y5upyuc3VipyGal63MT_92EzfI1Irb8hxkKT4lT5kV_nr2JW_rARohqQhyRM0ZAFL0F-n-_WzbT4b_NkdP1v8WR1_OmXTvS5---Nf5NNDEi8P0Q2nCUke4fepFrw8IwxLJg2wmFEeTnslDkaTLkJLTinjlGKLMZGVubGy5GMZub0CS-UEcw2d0OrQxfyQDQC6qAyjoR3TMCUthOdUs4QsngI3BGHVK8gH_JAgg4pkCK1jq3hHIbE0rFhH4-GGxuIBHPi4pW3ZO3tK6kdxCYLBOFfjc4-0kA5W0ySUYarSdBA9xzQoO29InYSQHwkw1BJw1zI0tJCEY3RMlnBIiArLSx5h0ycVOeg9HGp4QqMHQ6K0qz59FbHgIGl4ZBhD_5UiMy6eYSColoYufoC9VJlkNMJ7DtJzOU61idzF7Mu6lJ-7gLJ6k-D7UpncfAQvC7WUSU5e-TIsU0V1QgLCjp4wGpXY64ASyF6dySWuML6m8elRIoVee6CHSrlPxsuzwB6Tq-0xHfiLR-K26mVqraliR9c4PwpZJrmERYW-QgI9G9q2GLzeI6CZBsjOwfa1j9EpI5RZ7QzB06zFjtIgULAZKEpdha1XhtcEUQPpRXxn4oIMZfeVkFfh78_LXH8jtgq8-jaTSQy6QyQtarSHNaUve665R6xwFrZ_BSwP1imjKZLliJ_eY9pVv_0p8y1d-oGStoYNyFjh63Q48MpxIlnzGc4oYQMtMbn7oqnYYIwzGhq8TQVdl3nKdAR3VOddvgEDJewPMKAJnpDJR80uNF1Zmk0B_5Dltg93Reb-QAkfvi36azBxq38_yVtP1A7-1pR9PZDfQOPqh7MsvNGtLL55ZRkvG-dWjem5H44OL6lLfqPpCXH5q0BKKRugFD20e2ib9f7VOEugQBrqdsTbiWrb6l4-bIXQlw9yLJtOoNvW6vd70mXGUgyb0Txf1jlTwR-obWCu-t9LxazrqnmzmNddd1aBhl8ARXxh-S9ws-reyTg0EJmyNV8PJ1CfFzxDUb_sH-_ov5dWPOuiuJV9sJUF-6lKvm6rZrgVDm44Z-VUlg9xLWO6uTXK-cAN_XPvFC9H97Q7vz9YpSa6iJ7081BfiloCrVznWwpLROtZJVadJhXr3Mp3XK9WQ2cPR3GO0_0UJTElDQh0vPUwN-oT8DptJ6RjeoY2UXbwhI271DxXXJdUZvp9RDqxPFPexGeMewOm3lw57Rn6ImPfkgAqUr64J6TGamtHzas2VLPtF-V5lyzd86-7eHcKCtKzOZF1mpkK5XHBBd0dblRscg_lMqf07a5Ncgb68M4Ve97fnYsNwTaEahUtJ3JdI5hDKBDnh_ZiR2GjwtYsyJkRdKrbCVdo-HXMCO5mr2eUit3QqeYHdeif20znhzm3wr5NcuKc7Q9GE--lk1jHOnuOXqZ0kRfyhpri3ZDDwa-K9ZXe-IH3budWsNot02NarXclOpG3wzo-dss1l2bjM2cvtCT3NcUYP24KQql155mZY4OXeQ850R34vV7q4Tw9qaAvwNNz-PGZVN4LRYlWVMB5wU3TfZ3LyzfaEQ__6xv4m-PZ0uH_gOtnUP_7v1gSSxM"
+    },
+    {
+     "title": "Butterfly Cordial Induction Base Aluminium Pressure Cooker with Outer Lid",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQYvebyXnTr2S53X1OHJRoxh5X_Ay93tXwRgr2j7_5cWZiA2AYfgayYI_IGwWIS115mfnn78RcFr68CcDu9BSK_bvDs9F2B-oDSpdRF-HKTZT-3C2SR14gqCQ",
+     "price": "₹1,009",
+     "extracted_price": 1009,
+     "reviews": 2,
+     "rating": 3.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=89w4onicdVXJzqtGFm6lXyCLvMJd_fJVFUUB1TsmYzCDmQrMxmIGg3_beMIoT_PfJFKyTKJe92vcLPpZGt-sWyVVnTqf6jujTv33H99_lO2_-3i_Sq93ReNQxQzHDSNUa9X99TQci1t-bYs_GAEjjhMAYQSGRyxGDPw1T69pf6zb4k_II8wjghDEHCaIQRizvzdlWvTte-lUVTkox3xmwRgRYV6EAMASlhV47rf2kNblN_hPCARIZpjlMYIs4dmZ6OfzrRyeX0F2u17Loeqfb_lxKNq0f2P6N9S_4f7tNJSXy20oZ-TYlcN8HLLjz_XpGyUUABI4zAMeEwwZnufBl0Nb_I55juUYzLM8mQUCePTldL9-NPVH3X-07x9N_1G-_3JMT_cq_-u7H9TjQ5EvD9kNTyeqeMDf9325dJ95H-J8oqwZ0KrsvYsZ4r0bLJOoo3oBxkMZjdt02bhWSHvv0B_8fouTAz140L74kQoSlXQxWI5BSDZ55IIEUmQjO_Q03PpBx9A-uQUMVMKwV3zooaS7PJwgZNOIPtNOB7lia9EBPIMQWhZ1J4sxTna_fZo-eERaP-XIsxJmZLL33kii5JEojVKubDfvGjcKjUfGGBdLs1sPXB8Jc2FTtXB8tTC33Qj9ZcNGgR2HEZnoITGysJG2k80UXb9P9nYXdvY9DF3s9rbjTZITqt4lCyl1lsQ3aWGXy4RzQXHxmMYKo8eYdC7joy1TUrs3aSIl1FhHB9x7aoMyOKt6CW5jEcfIULdBcihjenaUwrHU4hkAAm2NvGdg2TpBUqXhKGeTZCfAHkMopTZjsDFQRxfqIAzyMdXsazbZEtXofUuLW6mI_pKBeto1Td55ew9gKwmok0FxMmN6TMFy0FpD8lb204mSMANeY6EQ-OHpPWZmf6PjdUvtyt4bbjp5OOkb9NN4GaqvQFziq-9wqcLRO6bKU4tMXCH9aQr1PeKlsyT-C_IEsnOvIYYXwC-vNm3Lv_6Z-raufEKKaDiQiZekSrodWb6fGN4aw4Fu-WC1tYT7c6X1BmecaVf3YiLpukqQtZHcgzasswXskGTucMACAlTmUfFPli3tlYOgv0szx8frPHU_IenNd2R_NiaL-rebKnryaueLlurrgfoCalffnVXphYqq_PIrTYlqnBstZod9974hivbMbix7okI25XRZqAYsZI-uH6vF_P5qnBWY0xVt1-BFojmOZqo7UQp9dafGqrUJdMeeeb8FXaQ84viUJaSoMq7En5AYWLP-71Rx8z5rXl4M86lvZoHFnyECn3nyGS9m3SuYDQtlrmis6bEJtPHSD1jWL-bjZf3v1MpnXZZF1YeiKjmjpvi6o1mhKO3ccEiLU1E85DmNyeJWL887oduP5iafNrq3uhNzZxcr2aXsST931SWvFNioVSaiXgGNZxe9tqkTucrsbC3stbJrne5dHuLEPEXbGCkdhS2xH9ZCGyHRWWfLbCzPWJ2QE4y4dp8VEfLrM1G5vRkxm1gdkHciKefeoKXXV2E1hr7MObdtgJdK9nSPVIu1xonqqTI0q9k_l-NdsXXPv67j9THIGc8RZH5TDyhUD88-Z9vdDcWW8FhehoS93VcnNYX78C7kJvHX53wB-Bpodt4IstDWktWFEjg_VhN_kBYabqycGThJR-1aumLDr2JOchemniKtd8NNOTzQbj-KqU66IbPDfbPNwDk1d0Ydm8pRrmKdP0eTpVzUJ3Ojdf4qyG7nl_k8pRd-4L3KKUp2I3L7ntWqdUGPzG03t4_TCPWlXvjc2QttxZ1Ocd8_bktKE_tOuEHgg8m6h4LsdsTUCz0cTiMK9jkcvQ05jNvSm2i0XeUl3Ex4UbdfhuLyld3IO4j5efZzHIKA5xDmIAPIjxvPUXb_B5w_g-o__wOfQkkn"
+    },
+    {
+     "title": "Butterfly Orchid 2 Litres 3 Litres & 5 Litres Pressure Cookers",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyhE7h68bgoeOMWcRuxZgVh_aglAR6sJtDFZSdnYREnQXgCluufHV-jR4TEdDAdTxflZxMf155A7tE2AS-2c0pNLX64Cq7JaY3Zgg26DkZJteqOImEy4TB",
+     "price": "₹6,791.95",
+     "extracted_price": 6791.95,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PYavf3icJVRJsuO4EbXDF_AlavVDFQBBcPCO8yBxHkRxw-BMipREUZRE6jSOX-6O6F52O7z2NboXPoupqg0SyBd4-TKRyP_95e-fZfufPjqq6fQQFQpVxHixCabaSs4vw3gp7vnUFr8TDEYUxQCWYAgakRgR8Jc8ndL-UrfFvyGJaQLTJAQ0TQASshhQvzVlWvTtubSqqhzFS76yQJaCFI0AQTMspAkCs-Sv7Smtyx8wS1MMxWAMKZKkKRoAiv7pei_H5Q-Q3aepHKt--cgvY9Gm_QfRf6D-A_cfw1jebvexXJFLV46rOWWXn-oh_y4MQRoyFGYJFpMkw9KA-HZqi98wTZEUwbAUWmUwAAL0bXhMn039Wfef7fmz6T_L88-XdHhU-Z9__SaNuSA8ct4JhiEUXeAF8uSrxuyDWC2C-RH2vG1KeAn2-pydBxShvi9P8dYgCuwfdcmTL1OuFMH-pOEMuCiFupdFhRco0-SLBZER2C_9fMnVocoiuXV6bkmJGwo7XDn78JmqeuWBQdsr4S1-mc_iVRzDQHuWoa6UpwNpErArRD0Kgylwg2aJZbPNfWmxlBi4Z32XEnAyPSiYPgcyKGH_dJmz7jl7Qdjuz_pgQtcqpDDwiHoOQEy4rw5HKPQOR_nmhQPYH_uzf-rvfvckcwmrEZQXB0wgj1wy2wcw7XPCU6Abn-OVa8CppE8eAOQ-HPQyAChea-AenTlWeTkMw202a1EWNFdPkRdXMVW_m3szwI9ANKZi34zO_pZqnSzlSMNx75524WU2ZJ5aQ90smQ0dGFeZ2oDYg6dQdZ1Qyf8138bqD8DJePIsSkrutfD0N_fyutNwl7s7ImJaRvKW-h-QZt8NS6K1DeHP765pyz__lnqmJn5BIqdbkIhktoq7hJXPA0EbczCGB9pXDwbzWFSl1yn9GnZ1z8W8pkksMmzeOSnjNtvADvG7BPskYIFEPCt6IcnSVC0EvSTNLA9v89T5gvgPzxK8NZjAad9PEucKauJxhuRpvvQGakdLrhL_RjlJeOtKU1bSr40SkeOxO9usqCzZnSSHkMleeSgXkg4LwQ23T3Wz3p_0qwjzUA3bLXiTKJal7KSE4wNPSqRIMmxfs8yV93vSRUojik5Jli2qjCrxF8T5xur_USpqXVfPW8W4Ws1eNyT-ChH4SrNf8Wb1vZOxSShQRWO8nravzLd-xIJ22z3f0X-UVrhqgsBJHuQk3poV0dMsxQg4PnGCMS2GongKaxnjzb2WrwnTHeednb9szVUf7C4xC1VwQnLQrl11yysRNlKVcagXQeOaRa_YdSxUmZltmaNSdq3VnYUxinfD_hAhsQthy5pPY6PMkNVI60DYhqurA7L8GdfOUrFMPi2xRB13e8KOpBG5A5tSzh0aWj0x6hx4AmXdDz6WxWxxLqESKY21r1-VrhjNcZHnh2hqrjdto-3FzwnXYgTarkcUSKelz8k2uaPIYJ7ybYzJ-0MdpBQegweT71hve803gK6BYuYNIzBtzRtdwIPrU33RJ36j4MbIiZHiNdRu-QnrXhVRvLPZaSlSeiewy_GJkuPMpRrbjZkZHJtDBq7pLtHraCdehCrS6Ov-ZYg3aSHuYZ2_HyRJvDJfh-bG8933c3K82XDUsSeValuEF-KerO1jNUx9qzcedXUDU3ReQ9T3z_v6gWPzwVIjQ_sv4xEwgtOxO63QgnGYkX_M4eza7Gk-lO4r3B_UvIT2C2_q9ttY3P65jtnqv_8H3oQYnQ"
+    },
+    {
+     "title": "Butterfly Stainless Steel Cute Pressure Cooker with Glass Lid",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZxsyQiLlXwSRkJr_N-3jL4xJtDGGA-n5aDR8NsW56mLEKCg_-eYOWI_oTdEX7LoKolOhZScwziPGY735dV8ufQfUY-Hs6waG7ihuo4J6i9-N3-vwuxYg4",
+     "price": "₹1,394",
+     "extracted_price": 1394,
+     "reviews": 6,
+     "rating": 4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4qvwwnicdVVJruu4FQ2SDWSQLfzRgz9EkWqYmdXLtnqRkjUR1MuSbMtyb9Rq3k8VUBlWgoyzjV-DrCVyVaaZ8JL34PKc24D8zx_-_Fnt_jXEnZFdborOw5qdji4r1mvV-3mcjuW1uOzKf7AiB3leZDArsgJEHGTBz0V2yYZjM6McLyIeYB5DJGLIIgz5X9oqK4fdoXLqupqUY7Er_wkgYgWEOY6DGDAY8YgBf9_ts6b6H85DDKEwRyNm5kAci8GPp2s1Pb8z-fVyqaZ6eH4Ux6ncZcMHO3zA4YMbPsapOp-vUzUjx76aZrPPjz82Y_FWxmIIAIIMQlAUZvWQ-7bflb9wAo94lhOQKIhgZkXMt_F2-Wybz2b43B0-2-GzOvx0zMZbXfz6x7-ox7sin--yR8aRKj4TsO0u73xjE1MzeUm6T9oTjceEaMXdUvxnFJVjuAeGr0huQXCcDLiLgdb6h_JVggGV6oPQrmfCbjAsto1i5nxP6NhFRNtUXUssplT9SBtzLVHLaOXGDN76AK8t2I7Zi57snrmTiLs4Ed1ke8xaXeJ4h5ELIozyPXeNDsOVEnJPAtDZtFVywz9uD9QJB8mr9nSge3sgDAB-J21sluph_1D8oewCRnsRo4eZftEtaKMtsV8eXT6sHmdeWO63zBGWLLUKqD79gxRkTDsQI0kcpb2TvrWJWjp5rI2JfgGZYl8J1FDBlhztJJQrqzVRk32wf0wJ-7Dp_gytofVLAihVL5JNSpBp2kR0zSMhHZPQYrcRYX39YhX6QK2Y7gMyuBHBGWUf90KRHBKB1u4xVx38a7kfSaE2KOukJOpWZz8sRx9YyNak1upIoLHAzPq2LXq_8xnOSkLq5GD5mnt4zBht0ncryTfspxMlJGFGueoBayvlITj4ICKXvgCaT8jllvUmooMG__Y4T_V3Zqlxl8Dh1fTayPdwca1OG5PrC3_DxuJOVINn81cgYIDmWYPsPGw_vad0V_36pyywTeULVJYrB7CxhuukT7F2GFnBepCJboXQ2Fri7Wnow4pfnWjfDMtEMk0VQ8uVvL0-rfMF6KG0SbkQMZhR2XstPBGqbMOBIEiz3Am4dZF5X6D0EThyMJPJS_O3k7r0ZSMNlpYamKH6BhrPTE-q9EaXqvzWlWVYXZ1aPUZT1x9crOjP_IrQSMX8VVCtVFeglH26vhuLOf6yOimgoAbdrZn3Jbrj6Bs1XUokUFM1Vi03NB17vve3pMtMgLyQIYzLOucr7gtchtbs_71U_LzOnreKabamO28Q9xVA5quAv3KL2fdOxkVA5svWet3dUH-ch4mTzfPm_mb_vbTyyZTlpRqApSo5D10JTEe3yFJKPTJl5ViWd3kuY7K4NtopFfvusXGLl2v6xg1vUrs0ZI-i0Tz19bmoFdCqdb6Eg8K0vl0Outskcp3b-Vrs9KrfOf1BnuJkM0bbGCo9BTts362F_gDYRM6WdS1_ZYzQCR9c4z1rLBaXZ6Ly3SZi3VidoD_ijPeuwDKbi2g8SCDzznUbcpqSP70j1WO9daLmVa90q-2e2uOm2KYfXNbx-hgWrO-IsuA2EyTq_jkUaJdeYWyJd-08Jeh6M0Y1Ax25icUGB-tTsWCEhtHtohVlcddIVk8k5nQ3XsJeWuhcaxXsxEsm3K2lC7cK6piXvMXGzKA-eMStpjtMu8cyM3E_5Tbp2m3OnLJNumrijXKU69gUTtHLUs7qk73Spng3JE2Dqpgf6UUQ-u92LiW7XfLdgPR6XdIje03n8XFasTk3i4A_-cRWvNcYD8P9qlGa2DfMT6IQvqwbEWWvxxuzNMk0PmDYFeDhu3j_2Fb-i0Zbo6iA--IWze7bVJ6_I1dOAc_wAsNzLM-JIsfwSOThD67vKOn_AefPoP73fwFcdUpb"
+    },
+    {
+     "title": "Pigeon Special Silver Stainless Steel Induction Base 3 Outer Lid Pressure Cooker",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMVt9YpDJq31KEvCV6ichexZiFXk8ug1uRpUYA-vhBz0oEQhOGliNya6arYbCT6nTrKQY_OIIwQNZ1TgxyS5izbO30BQiR9uOu_gEseXRoDlo62DIbzVRM",
+     "price": "₹3,039",
+     "extracted_price": 3039,
+     "reviews": 117,
+     "rating": 4.3,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=z1VsOXicdVXJsqvIEXXYP-CFf6FXN_SCohi9E1AMEvNQIDYEMwIkEEISUvhr7nN3RHvZ7vDav_F64W8xer21NzXkiTonKyuz8j9_-PNnefxXH7VqOt8lhYEVOQ02yVV75Pw8TkNxy-dj8U-SoyHDcARPciQLKRqS4Oc8ndN-qI_Fr4AlWMgQNMGzBMUBwBM09UtTpkV_PJdWVZWTNOQrC88ADnI8ywLIkAwgOB7-43hK6_I7_CsgORbykCQgAXmWWilJ9sfLrZye34jsNs_lVPXPj3yYimPaf5D9B-w_6P5jnMrr9TaVKzJ05bROp2z4sR6_U9IEwQKCoWiOp-mVEULu6-lY_EKzDLX6wFMQrpqAIfmv433-bOrPuv88nj-b_rM8_zSk473Kf_vjX9DwkMTrQ3SCccSSS3iwOLmgj_TwCuKXMHutPLht8MxPcWiF4JwDzGCw083AVYxgIVw8Oik2kd-aqeXnZEA010Mba7kf0_kJzQffNPPWrbI-AMUT7Mpgl2bBvJhd3OUIv-JQHnAw3xy4A_hUnA-RLBey8TJD2opRHHlRR1phX7nnbinD_mCqaM5Qb1vheHcRWtKAoDw8-mHkPDDAN4y52UOjYfSmaKI5MAGf4nPcZQjoBhwW47QoxTkWXJKgUik-uz2_L6SO9KID7Um7IQ_5yJVyGJ_iye9zOg5m35DlvnjhS9kVcaBgLQ13l1RCVCh1r1iRe1_t2wgWiwsF7AYdzFTspWQDD-Hj5Z1c10f9Mw1m0ldlGKpoiUhwD5UF5kQ9x6AxHLh9GmDEKR49Sy6cNJJ3fhuTMXo8TL_x_d6l0mA5YazNcScbnhKHHjQrTGJsdIQnk0BLu6bJO7d1CdqIfWxlYPvSIzykhDwpx53gqubTCuNAD3o571cNNZ7dXlgsNHslHp45MVBhK18OJDj_fblO1TdiK9OzZzEoudXiw9_cyouu0V3u6mTEHTnkPeu_ApYHFM1SkGQ58NM7TY_lb39KPVOTfoDSdmcBMpL5Ku4SXj6PJGsswYQPrK8eDO7-VJV-x-wuuKv7bSxoGuKhYQvOSZn22QZ0UNAT2qcInkDko2KfFFWaqgWBl6SZ5dH7PHV-gMKHZ4neKiZute87tHVFNfG2BvI0H72B2tGSCxLe6BaJb7_SlEe7S6NE1NR2Z5uXlGd2o6gRc9krx3KBdqAQXbx_qJv1_Ly7SCDHKj7uiTeJYlmKjpKtEHgoQREybF-zzJX3-6WLdC1GNqV4vqgypqR_gFvfWO2_h4pZx9Xy9mJaZ81eFxT9BUDiC8t_oTer7X0ZmwIiUzTG62H7ynLtJ1rUrvrjrf57aMWLJopb5IEtEqxFkTzNWstxKyROMKXFWBQPcQ1jvLnV8iXhunbR7fxla6565_XELFTRwdSoXbrqmlcSaFCVbWEvEY1rFr1i17FYZWa251ql7I5WdxanKNbH8BBBqcPgyJsPY6MsgNco60DahrtTR2j5C107z4rn8vkZI6bVQ9KO0ATdkU8Z5wYMrZ45dQk8kbFuB5-WpezpDFiJlMYK61e1U4ymfcrLXTI115v30X5YPxTX4kTWricYoNOzz6ljcoORwT3k6xRTt7s6ohS0wZ3Ldd7bX_INwdaEYuYNJ3LHWjC6QCAuD_XFnoSNQjdGTk6MoMHjXpjpnVdFjOBsdC2FSu8Edjk9YNIu21Tjuykzg7Y5ZMQl1ZNdHenSIFaRxl7ClyFd0ZO84Tp_P0iSeGW-_tIbz3ffz7kVzGbLtD2lVPsCD-QtWdPHarj6Wm885uIGpuS8xqjvHzcZ49i888zEsf7LuAec6HS8rhVaMI0L9NscLK7Nn5ZD6b5weFDzEtgvelMfv07F9Rtli8n_agN_s11LSv4PuDaD6t__BcEITDI"
+    },
+    {
+     "title": "Butterfly Aluminium Outer Lid Pressure Cooker",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRr8cRagOk8OXVziuVsOKHCgCAiBeWBRq-ZHBudLUIf9qS9Ne1ZHomoKZ1wquBu0Rs_n3RI8W5C9JPmin1aM-6AjheWVQKMb6mDw81dfB78Mwuskb9uhPX_",
+     "price": "₹1,796",
+     "extracted_price": 1796,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mJQZpHicJVRJ0qtGEm5HX6Av8VZ_6AVFMfaOeRIgpgKxIZgRlCSEkIR0Gsf_2o5wL90RvfY17IXPYuS3qSG_zC-zMrPyz3_867M-_B8nvZ7Pd1ljYENO5x3JNZbi_TJO5-pWzofqfyRHQ4bhCJ7kSBZSNCTBL2U-5_jcrijFEzwABGQ5mmUpgocE_WtX5xU-nGq3aepJPperGkMBml31GJJhIAEpCsD_Ho55W3-HIcnyK83KQ5GrJwby1E-XWz09fyeK2zzXU4OfH-V5qg45_iDxB8QfNP4Yp_p6vU31ipyHelq3Y3H-qR3fjDRHUxQDAARr1DQNeZb5djxUv9IsQzEkTTMrzjAs4Lhv433-7NrPFn8eTp8d_qxPP5_z8d6Uf_zwTZlKSbqXoheNI5J9Iugdo1AHGGipEcvDHETVvTqd5yjBloN9345oAhGzUcnIRomI_B4HKFwtVTHKY0eO4tQKNFPzQ5Go8TB7R9xEqnm2TwgFWPR9OY0Q8K39oD58vZLQsUoC3cfpcX6W-pnyiCWOEptyUXq3dfURS8TTI2jRl3Fk6-bJxpXpyNhBhGOnp9FLVT_21W5rKyWZ6p1VKyqNYlVGajWW5KhGRGp4PSa9AOhhbL7COHqEAMfeoIACqA5SjJcDRW8PWhIlymt_vNIhoWp5hJY09F8OMfY14pWoV9My8d3iGIHyZC5-PJL-saUCUFmRinKkVE3eO1PsG0kRdZdAU5--5ujhsGAnou-RbM9V3E1efM2NQVVKaNAp9l_1gJJ6mLU9iB5IVa0grECtOV6JRcZLfCtXlP8s16n5nRBUeg5cWq0y0xc3jMU6RCry0sFc3ONgv6ZO-DdgeUDRLLV2G0f-_G6aQ_3HP_PAMeQvUBZMF5CJyjfpkPHqaSRZe4kmtGdDfW9z96euYZMxL2hosZCKhqHw0N6J3lGbrGIDBihuMzpcfwChkI-GfVJU7eguBEGWF25AW2XufYHiR-BKwepMEoy_b4rgS3oWCLYSGKHyBlrPyC6K-EYFRXrHlee8Yl46LaGmfjjteFl7FjeKGhFXvMq1kIoJKslH1kPfrPazeZFBiXR0sIg3iea62lbJBDEKlExJFHsXGq6z8v796CpnIcPmFM9XTcHU9BcohPYq_54qZl1XyTuKad2N3Xqg6K8AEl9Z_iu9WWXvx-woIDFVZ78eu1BbrniiJeO6fby9f0-tdDEkSVACICiiu2hyYLiaHQli5kVTXo1V9ZDWNKabW6teMm7ol-2ufO0MX7_z28ypdMlD1GhchuZaNjLolKYQIJaJzncqrO3aVGoKp7C4XquHgzucpClJt2O8T6A8IHDgnYe90RbAG5S7J3e2b-ojdMOFbr1nw3Pl_EwVpt_G5C5RJuiPfM54N2Ab7czpSxRIjHvbh7QqF0_vjLRE69y4fTWmZnf9U13usmP4wWwl1jksSd_lJHbXTjBSjk9cUofsBhObe6jXKaVud31UctBHd67c8oF1KTcE2xKaU3acxB1a0R4ikbg89Bd7FDca3dklOTGiAQ-WONNm0CSM6G22Rg417EW7enrArF-E3OCHqXCivtsXxCXfZmabbOWz1CQGe4lftnxVnuQNteW7IFkW1OU6MzdB6L_LKYhOJzA9prTGqtCZvGVr-7gd117bTcBc_MiRvdeYYPy4qQilzp1nJo4NX_Y94iRv4LdGZUTTuMCwL8Hi7_jjsq_9F4r3elmD3YvetIdvU3X9cR2zzW9_AUZHFtU"
+    },
+    {
+     "title": "Butterfly Blueline 2 3 & 5 Litres Outer Lid SS Pressure Cookers",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSA_930QIdFFY7p-qrLcGFMKyy0Tnp4hfmWuMgbdwU408QFPYy_s_FX-YPB5H___zzAYv3PzaXnGDkgXFcmfJC7dpKmySz5YKLYuEr8r1U",
+     "price": "₹4,989",
+     "extracted_price": 4989,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7obAn3icJVRJsqtGFq2K2kBt4o9e6AeZkDQ1Ez2SANEKMSGApBMpCSEkAatxvF92hGtoOzyubdiDWkuh70nezHMiz23j_u9v__wsmt9JdNLT4SlrLF3C_rqHfLlVnJ-7_oof-dDgXyGPaJblKQHykKMZREPwc54OKblWC4sg5BmG4jiBhzxgGIETfqmLFJPmUthlWfTyNW_wb4BhOY4FEDAUxQsUx_MI_Kc5p1Xxnf-VoRCgaUYAFKIoBHmKFX68PYp--oPKHsNQ9CWZPvJrj5uUfEDyQZMPRD66vrjfH32xMNe26Bdzzq4_Vt1bEXAQQBYxy4kEiFiBYr6dG_wL4liGhYhhFpSDAkLgW_ccPuvqsyKfzeWzJp_F5adr2j3L_M-_f1P6XJKeuegEXRfKLuX5m4MFOsYF8Tk9v2arRYpLkUMcxmPeOqNDwjql6xaf3EtGBXMe1TtvDmkThBtXiXtfec32YTwf2vASe6D3T7FbaOEFR9YGU8Mda66BTyFygXAPADFcgPvggG9Ba6VZFFBuaMAcIpBp4-RBTFuHWFy0z5iO7axtJ_PiokB1r5kCLlgZu6Ad0kx3HdPHdhC65i4iJAzMyT9vvMIDBMtWGh9y5IF8cs-oyc48DLTYz4LX5M_VmIddfCShVJyIeogwys7KYAEi53owhXSFshN5hWpO-YdBwS1DZZFKh4FK2YqbZoFQFwqh_EhsQ0KmAIjHbDSiLKhvnqZOrmbpfjsSK0DPQDYHfKh753BPjVZVctpAMTFh0AqiA_NXMJM5bBcL3b1_OYK87XyfxLWlKv8e7335B7VW0eDZSMXJxhVX7JazqFgUpGYz2ufWnPt6_S_ACYBBHENDjoc_vYemKf78R-pZhvyFltcbG8BIFcq4TQT10kHOHIM-PHK-fjT556RrZMNubmFbkXUsGoYi0OZedM5av81WoKXFXYJ8hhIoBb5KbmKYwtJtGnhJmtke2uap84UWPzxb8hZn0tr4_lLWrqQn3tpUPMNX3kTlGMlNEd_sWpHecaWpoGxutRYx_am97AVZm7IHw3Qhn815qGJlA7DkhtuXvlr-D5ubDPJQD5st9RbRbFvbKclaDDwlUSLF3PuGbS2635PGKUezXMoIAi4ztkBf6LVvLvhfpWKXc0HeUfSLNfbLhUFfAU195YSvaLVg72T2DJBYXJvza-9r4530SDLuu9fb-1-llW6GJK0VD6wV0R412TNszQzWYuIEfYo7jF_SUsZ49ajUW8K3p3G3z-e94epPYZdYWJeckOmMW1ve81IGtVJma5rIVO1amGj7KpbKzMq2_Ekr2sZuL1IfxbvucIxouQ1BI1gvc6WNQDAY-wj3prvRO9r2R1Q5Uynw-TDFCnvaHeA-Unra7YSUdR7ANKqB18fAk1j7cfSRKmeTcw21SKvtQzWXG82sT5M6PmXLcL1hG22vfg5dm5e4fdXTgXKeSM40yYOOTP6l3vuYeTz1TknBKXjy-U7wtrd8RXEVpVl5zUt8U4lmG4jU7aXP3Flcaag2c9izokE3W3FAG6-MWNFZ7YyU1ogT7Iv-RSencZ0aQttnVnCqjxl1S3fJpop28lUqI4O7HWZTvisTfIRV_m5IknhFvuzMlee773auRatesyfCaOUWh1f4SJbxsWu-ulcrj725gSU7c7dsjddDDcPYegpsz3P-bD4DXnJaYWdgI-i7kfZPORjdvXAej4U7h4ejnhdgP6NV1Xzr8f2HZc2W__0_JToa5Q"
+    },
+    {
+     "title": "Butterfly Trion Triply 3L Pressure Cooker |Induction Base Halo Crown Spill Filter",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWlTdBbLdtlWR6NGrRhDr88bBJ1_CehUHYEaO5-Tg24_V-gqXPY3gutKFrj_7M0UD66DlepLjs8YWPq_JI6HEOZByUHKrAYw0W7TY4oOM9bZvXgMgcIzvN",
+     "price": "₹2,449",
+     "extracted_price": 2449,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ya7YLnicJVRJruNGEm2jL-BL1OpDBWYmk0PvOA8S51HcEJxJkfqiKEqidBrjV9uAvawyvO5r2Is-i6nyJiMyXmbEiwHx_3_9-FF1fwzxQc3mm6hQqIbTyYZMvZWcX8fpVF6LuSu_QQYjimIIFjKQRiRGEPxaZHM2nJoVJUmChiRJYUDTJMGwJA2_tlVWDt17ZdV1NYmnoit_BwRLEBixiAEUSTKrDuFv3TFrqu_4VxJQFFrfIAKzmCUxpH8-X6vp8SeRX-e5murh8VacprLLhjc4vKHhDQ9v41RdLtepWpFTX02rOOann5txdfgNYwpDBFkGE5CkaQKw5JfjGgjTFElBFsCVLEOvTKgv423-aJuPZvjo3j_a4aN6_-WUjbe6-OuHL9JUCMKt4J1gHEPRJTw0jAlhPBIx9Nx4T_iRqZcQL85anOqQ6P5xoQyo1348ToEc-s7RJFylXIpBupvPgSxR2EXv5i3q70v8NGfzvfQKP9SywHhUx7AvI4IMgYuK3t1F0RzGaEBGLBGlkuilr8eWtOyrQ_8IwZ4IpVILlHJ0_ZXR4PJ-2N-DUA58VbYjsezzAMS50nqhsgi5QgD3qS0ZbPuCADtT1olcTNRESXYBdHvvWFLGGrNUCOiHK5chnIOYx1aw8K7MhlWA-UQtlj0ER78DkgPc3oTJ6MMeBsfxGvR74Kqh6wyuEvS67zxlKlFA5gug2z_NR9UD0z_KB4PX4jxoz54iP1zFVP1-GcwA3wLRmMuonZzokmm9LBVIw8lg7l2I3T0Y7iZsUTQ40PVlFEazuI8W0TkGuIqL_y6Xqf6T4GQ8exaWy1R3-Q21pU0i4Vmh0xfr2BvPqeX-A2gWkJgmEaQZ-MtraLrqr39nnqmJn5DI6RaAsczWSZ-y8vsIaWMJpnBP--reYG4PVRl0Sj-HfTNwCa9pEosMm3eOyrTNN6BH_C7FPrnOsATvNf0gycpULQS8NMstD2-LzPmE-DfPErw1mMBp328S5wpq6nGG5Gm-9AIaR0vPEv9COUl48coyVtLPrRKT06F_t1lReeRXkhxDJn8WoVxKOigFN9ze1c36f9bPIihCNey2xMuJYlnKTko5PvCkVIolw_Y1y1z9fk-6zGhE0RnJsmWdUxX-hDjfWO3_lIpaz9XyYjGtUrNXhcSfASI-0-xnvFltr2RsEghU2RrPu-0ry2WYsKBddvdX9H9KK5w1QeAkD3ASby2K6GmWYgQcnzrBlJVjWd6FtYzJ5trI55TpD8vOLp625qo3dpeapSo4ITlq576-FLUIWqnOOTSIROua5aDYTSLUuZlvmYNS9Z3VvwtTnOzGaB8jsQ9Bx5p3Y6MsgNVIaw9tw9XVEVn-ghvnUbNMMT8SiTrsImjH0oTckc0o5woMrZkZdQk8gbKuex_LYv5wTqESK60VNc9aV4z28JCXm2hqrjdv4-3JL6BrMQJtNxMKpONjKMguvaLYYO7yZUrI600dpQwcghtT7Fhvey42BN0Qilm0jMB0DW_0AU-c7-qTPvIbBbdGASeK11C35Wese3VM8c5mp2VIGZzArqY7Sg8Ll2lsP-VmcGj3OXHOdqnexDvxJNSxRp-jpyFepAe8hk3xakiaelWx7syN57uvdnK82XLUYSCVeluGJ3hN1_GxWqa5NBuPOruBKTrPMR6G-1UOw8S8sdTE0P7TuAWM4PTsTluX0DQuyD8UYHFt9rguKPcZRnu1qID9xJum-zKVl5_WNVv_728gIRY5"
+    },
+    {
+     "title": "Bergner Sorrento Stainless Steel Outer Lid Pressure Cooker Set 5 L Cooker + 2 L and 3 L Cooker with Common Lid",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiQEE85a0Ow_8Hj-CpfQ0rHXnWycBlnRBSG-qgsyMoFv-i8aQmNKm9c87DbjhyTkYQGUAErVnrV80FsWe5MheiOOebw6_137PYGH09gN2rw18AlFtvnKN_",
+     "price": "₹3,975.07",
+     "extracted_price": 3975.07,
+     "original_price": "₹8,810",
+     "extracted_original_price": 8810,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-IyU23icJVRJzus2Eu5GX6Av8VY__CCKmtg7zZKteaBkbQzNkiXbkjzJOk3wv06A9DIJsu5rJIs-S8svIFhFVoFffVUs1P_-9s_Psv29j49aentIKgMrcro4JFftZPfnYboU9_zWFr-SHA0ZhiMQyZEspGhIgp_z9Jb2l7otfgMkghRiaYqDgOEQghxifmnKtOjbc2lXVTlJl7wtfoGAQ4ClOAISBGLBCvmf9pTW5XfvrwBxHMNCgiY5huLYdXM_jvdyev1BZPfbrZyq_vWRX6aiTfsPsv-A_QfdfwxTeb3ep3L1XLpyWtUpu_xYD29EBNaFAAA0R7HsSpKhvp1WHvQKzpArY4Roilol82143D6b-rPuP9vzZ9N_luefLunwqPI___5NnnJRfOSCGw4DljzCD2t6f8KqEYFj1M1kApubDxWiVLCdx8nei5MkPDXbXPYiMyrGPTkIZS-ccdgsuKPt8NSRVguUTONJf-lh0Ce0hZHlEkObnRvFPyu2LQlxsSS7Ut3aoZJYnmxVKUavQEVX79h0aVQEJqFQVmfd3F54par-sjQcYGk7GXEfmZr8xLI-h3ECLBJVPk4EH3tBifE-PMpL2SHXI4BnRPM2j4pkD7zWD-nZJcGIFUR7moKtxV18lb7kkRXuI0B5JMCZgmf_9FyCc5PmXb5kIJEDRdkWx17Hx4ZKFUW0yCewtCLBkuBguYZJ6IUhSZv7WOn8Hg3ZrMdZ2Iy-qrw81dKCbu6tkH6EknkromZyo2uqd4qcQ51OestItEK0FGH0OsUrom1QRsVSaEPnR0VUQH5Jo_zf83Wq_iB4hb75Np09n_64sU1OJrqTWj2kRyGgS14ZkfsvwCJA0SwFSZaDP72bpi3__EfqW7r0BUr81gZkrKAq6Q5IOQ8ka87hhPdsoO1N7vHS1H7LbEfc1T2fCLouI2g6gntSp122AR0UjAMdUAQiZPJZsS-KKi3NhsA_pJnt07s8db9A4cO3RX8NJvL695vMe6J28HlT9vVAfjtqVz-MsvD28rL45pWmSN6OjRpT07E7O0hSX9mdogbMZUuOlULegkL08O6pbdb3t-0ogRxruN0RbxDVtlVDPvBC6MsHOZZNJ9Bta8X9nnSRspBhUwqhosqYkv4C-cBc7X-VilnlanmzmFatO-uBor8CSHxl0Vd6s9reyTgUEJmiMZenE6jztZ9oUb8az3f0v0orjroo8rIPeFmwZ1XydVs1Q144uOGUFkNRPMW1jMnmXivjgeuOs-Hki6N72gMZB6vQRBdTgz521TWvJNDIVcbDXiIazyp61akTscqsbMcd1bJr7e4sTnFiDNE-hlKHQYusp7lRZ4B0yt6TjulttQHawUzX7qtCXH57JTJzNCLSieUJegNKGfcOTL2-cdoc-iJj3_cBrUjZy71gNVYbO6qXaquazfGlzA_J0j3_tot3lyAnPZsTWaeeYCifXn1OtYc7jE3uqVynhLo_tEFOwTF8cLmB_N2Ybwi2JlQrbziRa2vB7EKBGJ_awp6EjUo3Zk5OjKDDdifc6K1fxYzgbgw9hWrvhk45PeHhOPOpjrops8Jjs8-IMTUO2zo2pItYxTo7RospXeUXecd1_v6Qw8Ev83VmbvzAe38nL1gNzxx7Sq12Bb6Q98PaPnbD1dd64zOjF1qSuwxx3z_vCsaJ9UDMxLHBYj5CTnQ7ZOiFHk7DDINjDmbPQad5X3oLjvZaXgJnoTd1-20qrj-sY7b67_8BxD0YYg"
+    },
+    {
+     "title": "Prestige 2L+3L+5 Litres Svachh outer lid Aluminium Combo Pressure Cooker with 2 Lids",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGEKOZUTTbcAwzz_NyJR2B0x6B8_wIkcHpjsCdhGnTRCLiz06w6CjSQKRLYy5TniUawX7q2UkEEBlyGqiUP6axeqS-_NQOZmSPbT2GGZ9p1pNQvbCc8YOo",
+     "price": "₹3,259",
+     "extracted_price": 3259,
+     "reviews": 2,
+     "rating": 5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fYGrsHicdVXJ0qu4FU4lL5BFXqFXf_kWQozZMQ82wkwCs6EAMdhggzEeq5_mv-mu6iw7qazzGrcXeZbgvttkc450vtIZP0n_-cOfP6v9v_rkYObzTTU4WNPTsKWFeq15v4zTQK7lvCf_oAUWcpxAibRA85BhIQ1-KfM574dmT_4JWJZmWEoQWY6hOFYAIgS_tlVO-v2pcuu6mtShXLyIkBOZRUAGsBwFRA5wf98f86b6DtMCL_AQ0JQIBUCLi1P2p_O1mp7fqOI6z9VU98-PcpjIPu8_6P4D9h9s_zFO1eVynaoFGbpqWtSxGH5qxvKdGKR5mhdYmmNZlgE8AwX263FPfmV5juHot2A4kYVQZL6Ot_mzbT6b_nN_-mz7z-r085CPt7r87Y9_0Ya7qlzuiheNI1Z9KsD6UMa2msbpuKOxUnRoDrt-V8I0TJMRlUcR4w5AFxMDmYjaRO15E5MOn9oOHfV10RPPN5h71Duvshuhd0B6HKawMG2PhMhCsW4gWrcwZeco8fs01g8JjF450AfURc-Q7hmityjSKDqKLBCr_Uwoa3YooJcaefhHHfrHhxVjZ94lFghOcpIbYA4PEkWAPoUH7emE3d2PWI8ckYoNlkojMPg49XaUD8Oob0nYBm4ytpsYrQM19dCp3QUv1MVR8yAG5soOqwEFYqdr8zjGG-c4uml8YZZaLuVLojAQw7RDIz6KXRC1vU9hGpvOHIbEI2bEIIA0YoB-ye-VJzYsonGIovsc6GLrxACkNDBzavdA8XguDxEoTP3qRLMfHv0kT8ZnigemMHS97H0Qx2hw4nb2tTn3E_tUYhsHJ9QSXQ9RaHO7VxfoNLDyrm3Lzj_4FOukIXYLIL02CR5ySp-MvS37Jnq6ceoTnKIUy2EYsyAOW9_XUIyjUSlO5OYffYB1Uf7b4zLV3yhJZ-fAZYv7PTivXEfQqO5o1Df1RmRxKOtN7P0V8CJg2IV8CxXhz2-a7qvf_pQHyFJ_gKpku4BOdLFOu0zUTyPNO49owjs-NHeOcHuaRm9z9hl3TS-lsmVpInS2snc0pnWxAh2UNxkbMpRIafS95p8MUyHThSDI8sIN2HWZez9A-SNwlWAJpkjW7ztN8hUzCyRHC6xQewONZ2VnTX6jkqa888pzUbPPrZEw06E7bUXVeBZXhhmxULxKrBPNBkTx8fpurpbzs31WQYlNvF9TbyeG6xobLZPkKNAyLdGcbWi5aPH7e9Ek5yHH54wokrrgKvYHKIXOYv_eKm6Ri-WdxbRoa7ssGPYLgNQXXvzCrhbbu5gtAxSOtM7rvg2Nx6WfWMW6bO7v6N9bq5wtRZG0AEia7D4MNbBcw4kkOfOiKScjIXdlaWO6ujb6ORO6w2OzLV9byzdv4iZDxFQ8zIzWuasvZa2CVqsLCfYq1fqI9Ma2SZW6QMVaOBhVt3e7kzIl6WaMdwlUOwz2Iro7K-MBRItxd_TW8W1zhG74YBvvWYtCOT9TjTtsYnqbaBP0RzHnvCtwrGYWzEcUKJx73YWsrhZPb8BGYrRu3Lxq23Daw1N_3FRk-cG8TtZDWNK-Kyj8tplgpB2ffcnssytMHOGuX6aUud7MUcvBIboJ5UYM1udyRfENZaCyFRRh38hOF8nU-W6--KO8MtjWKemJky24X8szawd1wsneamPl0Oi9aFtNd5gdHlJuid1UoOjQ7grqnG8yu0k26qDUicWf45ejXrQnfcVN-R5IlgVVubzSqyD03-OUZNRK3KFnjHpN8EBfs4U-bis0l2YVcGc_Qqr3GpO-v191vNzGm8hNAh--nFskKF4nbixiRdP4gOGhBA9_Kx4fu8p_4XhnlhXYvthVs_86kcs3Zqtk_-sb-HHru2r2f8DlM6j__V-tC0nN"
+    }
+   ]
+  }
+ }
+}

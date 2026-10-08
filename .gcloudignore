@@ -1,0 +1,7 @@
+node_modules
+.env*
+data
+video
+tests
+fixtures/synthetic
+.git

@@ -1,0 +1,340 @@
+{
+ "fetchedAt": "2026-10-08T11:03:36.161Z",
+ "params": {
+  "engine": "google_shopping",
+  "q": "philips gc1011/01 steam iron",
+  "gl": "in",
+  "hl": "en",
+  "google_domain": "google.co.in"
+ },
+ "raw": {
+  "search_metadata": {
+   "id": "6ac77889ff596e9e6713fe29",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/t2siN_nrYzxrWRBUbImrPj8p21BDgSHm1z8thjWKves/6ac77889ff596e9e6713fe29.json",
+   "markdown_endpoint": "https://serpapi.com/searches/t2siN_nrYzxrWRBUbImrPj8p21BDgSHm1z8thjWKves/6ac77889ff596e9e6713fe29.md",
+   "created_at": "2026-10-08 11:03:37 UTC",
+   "processed_at": "2026-10-08 11:03:37 UTC",
+   "google_shopping_url": "https://www.google.co.in/search?udm=28&q=philips+gc1011%2F01+steam+iron&hl=en&gl=in",
+   "raw_html_file": "https://serpapi.com/searches/t2siN_nrYzxrWRBUbImrPj8p21BDgSHm1z8thjWKves/6ac77889ff596e9e6713fe29.html",
+   "total_time_taken": 0.37
+  },
+  "search_parameters": {
+   "engine": "google_shopping",
+   "q": "philips gc1011/01 steam iron",
+   "google_domain": "google.co.in",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "philips gc1011/01 steam iron",
+   "shopping_results_state": "Results for exact spelling"
+  },
+  "shopping_results": [
+   {
+    "position": 1,
+    "title": "Philips GC1011/01 1200 W Steam Iron",
+    "product_id": "5973694254515699392",
+    "product_link": "https://www.google.co.in/search?ibp=oshop&q=philips gc1011/01 steam iron&prds=catalogid:5973694254515699392,productid:17741770143127069994,headlineOfferDocid:10716211435040885012,imageDocid:17860770316609286552,rds:PC_9372850512829160267|PROD_PC_9372850512829160267,gpcid:9372850512829160267,mid:576462875000591743,pvt:hg&hl=en&gl=in&udm=28",
+    "immersive_product_page_token": "cDq9K3icbVS5rutGFhzM_MAE_oCbTPSgh-7mfi8UcJXIK5Li1iSVEGRzESVuIqkV8zX32Qbs0DbgzJjfsIP5FuthJnRwokJVHZxCnf_-7Z8fRf1rHR3W6VRsjew-M1a_ZaxiqkXnh2Hs8zOZ6_wXyHH0cwCkKYg4wAqCQP9A0jlt-qrOf2YEjmIFGjE0A5knSAnop32R5k3dFXZZFqPSk68qgIMsgk8RBtCA5xkA0Y91m1bF_3GOZ8HThYIsCwTEswyDvoz59DvayolAcejJYCDikQBZgFju31vXVpK_xr47nYvx_tuwr5t6mD5VBAII_4U0AD9Nc5G2n-qx776rhqfvz39B_9LW-U8Mx9Is4jkGAMAIkKOpL8Nl_thX357PTfGfj6r5qLuPffNRdN_36XApyR9__0btr4o8XWUnGAasuMCjJJlEOA4bEQYaLu2VIHtQ01Mft_lxb3gUHncQD-QOQIpucQSMyA8CKjxCJQPCFHTqXBwH7DQGcKmGsdRcdloCQ8X10hD38cFIN34MwoNxih4WKBSjKzCZPUBuBOa61wixdbzhiLJoDKt70WnncL1_bILZjh-a4WPxydldMLgN0SO_eCHe-KoRm1F-Dqhmdg54FSGMvMDFu-i5J9xBX2k2oRbTOdUcd6ixnryz4-PZbYQNQW65CzHOV-bNDW8xWat0GGlSHOCNQw2md8ixVwOUN_vHrhGMTLNKL-wfzqPxXKxRcecanp9fQ0UqPYUAF-cPOxpUK8o9ssJj2mqXHWV4JsjPFmXoRLVCEwhscWhWVnBkfIpcXSW4mof98yoMLlr67mPtkbVWWQRCTQ7Y9B-SY4JmYz3wYDWG7IZz44bGNaccygG8p6EmTo_7PUHY8VqDyRVsZ1CEfosfaaC5q9qQ3LV1t8NdkK7mNAtmtVg1adY0z2SkwUUB5R4HKkLwUoSQ-vY2jeXvQNSY2bMZFGyZZiNqHa614jBzh4yWu3PrsHfnFXICpJmvZeMp7nvS98e6-OMfe8_SlaVo2BBFWhrZNHADZ31YR-WaYnaDOrDDkBUy2t_Qg57LeDsrhR1WHJclMlLoy7ZIrWepIlGU1lpS3tp4TNTj-jGHWZLaoN4iWLvByXl78WzZW8qi_vaSJF5BzmOx8Hx3uxQlay-yh1RkeFHV73NIj_c7v_dO2rDrDZ5MNGMod92iiBXrdaWXwQA0p5UAKsGiWtzDTTWB1h47d408fuoW18yyzXN8s9MFSqTL7JL1010VXXmdeKKperqvLuXK0ZOTKr29iKq8FNNUUI2xGONqYrXat3axh_f92K0yXlewUNaoMt2RCGbwYGS02Bg-OUgG5YpvLyvbXm3URJQCT03USDW3vm5by-dVqaJkQU4xWZ4KJSTFq28u_5cCy9PCq7wcX_XtUmA-Q4r-DFn-M0TM4tVbWsdkPDRymT3SMW4MSbQOBHv828vXqOTTVZZF1aMqVbJvK8VTt7piTZs1b2Qxva6UbqhH14fgrgyM39DHVX6yD73jjkfnfYqljvdJ_VCUS2YXW67jLkKSn1LktSs3XhX8pepE3tIOKBFAi65DJKWHMeo372eeF4N38WT0frHenN8ZCyWRtsjNgqz3umSRRqgX9-1aGsXi5p10MgFrJxhWOKV9RqlVFuwDB8v0gXlHCtleZ1Om7xu9hCM9rObHCm2xv70WCRHy-24GmiokDZ9xC0WF7_MVredafFgCm6W-Oc0To0-2tCgd9j0bzgJJZFeig0DP0HWP1DArj8TOkKYkvTIHYi_6hibm75PE8-RqZDTjXohv68DXnm_zaopVuwi7sG43OOVdhpyji8Ag60pZbLuovJ2saFPgd1solOpA2zjrtFJAun0ekKBuraP29qLgZcWO8s0sjeQoOrrSnISUtOXE1HZ7uqtu_yc84EuH",
+    "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cDq9K3icbVS5rutGFhzM_MAE_oCbTPSgh-7mfi8UcJXIK5Li1iSVEGRzESVuIqkV8zX32Qbs0DbgzJjfsIP5FuthJnRwokJVHZxCnf_-7Z8fRf1rHR3W6VRsjew-M1a_ZaxiqkXnh2Hs8zOZ6_wXyHH0cwCkKYg4wAqCQP9A0jlt-qrOf2YEjmIFGjE0A5knSAnop32R5k3dFXZZFqPSk68qgIMsgk8RBtCA5xkA0Y91m1bF_3GOZ8HThYIsCwTEswyDvoz59DvayolAcejJYCDikQBZgFju31vXVpK_xr47nYvx_tuwr5t6mD5VBAII_4U0AD9Nc5G2n-qx776rhqfvz39B_9LW-U8Mx9Is4jkGAMAIkKOpL8Nl_thX357PTfGfj6r5qLuPffNRdN_36XApyR9__0btr4o8XWUnGAasuMCjJJlEOA4bEQYaLu2VIHtQ01Mft_lxb3gUHncQD-QOQIpucQSMyA8CKjxCJQPCFHTqXBwH7DQGcKmGsdRcdloCQ8X10hD38cFIN34MwoNxih4WKBSjKzCZPUBuBOa61wixdbzhiLJoDKt70WnncL1_bILZjh-a4WPxydldMLgN0SO_eCHe-KoRm1F-Dqhmdg54FSGMvMDFu-i5J9xBX2k2oRbTOdUcd6ixnryz4-PZbYQNQW65CzHOV-bNDW8xWat0GGlSHOCNQw2md8ixVwOUN_vHrhGMTLNKL-wfzqPxXKxRcecanp9fQ0UqPYUAF-cPOxpUK8o9ssJj2mqXHWV4JsjPFmXoRLVCEwhscWhWVnBkfIpcXSW4mof98yoMLlr67mPtkbVWWQRCTQ7Y9B-SY4JmYz3wYDWG7IZz44bGNaccygG8p6EmTo_7PUHY8VqDyRVsZ1CEfosfaaC5q9qQ3LV1t8NdkK7mNAtmtVg1adY0z2SkwUUB5R4HKkLwUoSQ-vY2jeXvQNSY2bMZFGyZZiNqHa614jBzh4yWu3PrsHfnFXICpJmvZeMp7nvS98e6-OMfe8_SlaVo2BBFWhrZNHADZ31YR-WaYnaDOrDDkBUy2t_Qg57LeDsrhR1WHJclMlLoy7ZIrWepIlGU1lpS3tp4TNTj-jGHWZLaoN4iWLvByXl78WzZW8qi_vaSJF5BzmOx8Hx3uxQlay-yh1RkeFHV73NIj_c7v_dO2rDrDZ5MNGMod92iiBXrdaWXwQA0p5UAKsGiWtzDTTWB1h47d408fuoW18yyzXN8s9MFSqTL7JL1010VXXmdeKKperqvLuXK0ZOTKr29iKq8FNNUUI2xGONqYrXat3axh_f92K0yXlewUNaoMt2RCGbwYGS02Bg-OUgG5YpvLyvbXm3URJQCT03USDW3vm5by-dVqaJkQU4xWZ4KJSTFq28u_5cCy9PCq7wcX_XtUmA-Q4r-DFn-M0TM4tVbWsdkPDRymT3SMW4MSbQOBHv828vXqOTTVZZF1aMqVbJvK8VTt7piTZs1b2Qxva6UbqhH14fgrgyM39DHVX6yD73jjkfnfYqljvdJ_VCUS2YXW67jLkKSn1LktSs3XhX8pepE3tIOKBFAi65DJKWHMeo372eeF4N38WT0frHenN8ZCyWRtsjNgqz3umSRRqgX9-1aGsXi5p10MgFrJxhWOKV9RqlVFuwDB8v0gXlHCtleZ1Om7xu9hCM9rObHCm2xv70WCRHy-24GmiokDZ9xC0WF7_MVredafFgCm6W-Oc0To0-2tCgd9j0bzgJJZFeig0DP0HWP1DArj8TOkKYkvTIHYi_6hibm75PE8-RqZDTjXohv68DXnm_zaopVuwi7sG43OOVdhpyji8Ag60pZbLuovJ2saFPgd1solOpA2zjrtFJAun0ekKBuraP29qLgZcWO8s0sjeQoOrrSnISUtOXE1HZ7uqtu_yc84EuH",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=cDq9K3icbVS5rutGFhzM_MAE_oCbTPSgh-7mfi8UcJXIK5Li1iSVEGRzESVuIqkV8zX32Qbs0DbgzJjfsIP5FuthJnRwokJVHZxCnf_-7Z8fRf1rHR3W6VRsjew-M1a_ZaxiqkXnh2Hs8zOZ6_wXyHH0cwCkKYg4wAqCQP9A0jlt-qrOf2YEjmIFGjE0A5knSAnop32R5k3dFXZZFqPSk68qgIMsgk8RBtCA5xkA0Y91m1bF_3GOZ8HThYIsCwTEswyDvoz59DvayolAcejJYCDikQBZgFju31vXVpK_xr47nYvx_tuwr5t6mD5VBAII_4U0AD9Nc5G2n-qx776rhqfvz39B_9LW-U8Mx9Is4jkGAMAIkKOpL8Nl_thX357PTfGfj6r5qLuPffNRdN_36XApyR9__0btr4o8XWUnGAasuMCjJJlEOA4bEQYaLu2VIHtQ01Mft_lxb3gUHncQD-QOQIpucQSMyA8CKjxCJQPCFHTqXBwH7DQGcKmGsdRcdloCQ8X10hD38cFIN34MwoNxih4WKBSjKzCZPUBuBOa61wixdbzhiLJoDKt70WnncL1_bILZjh-a4WPxydldMLgN0SO_eCHe-KoRm1F-Dqhmdg54FSGMvMDFu-i5J9xBX2k2oRbTOdUcd6ixnryz4-PZbYQNQW65CzHOV-bNDW8xWat0GGlSHOCNQw2md8ixVwOUN_vHrhGMTLNKL-wfzqPxXKxRcecanp9fQ0UqPYUAF-cPOxpUK8o9ssJj2mqXHWV4JsjPFmXoRLVCEwhscWhWVnBkfIpcXSW4mof98yoMLlr67mPtkbVWWQRCTQ7Y9B-SY4JmYz3wYDWG7IZz44bGNaccygG8p6EmTo_7PUHY8VqDyRVsZ1CEfosfaaC5q9qQ3LV1t8NdkK7mNAtmtVg1adY0z2SkwUUB5R4HKkLwUoSQ-vY2jeXvQNSY2bMZFGyZZiNqHa614jBzh4yWu3PrsHfnFXICpJmvZeMp7nvS98e6-OMfe8_SlaVo2BBFWhrZNHADZ31YR-WaYnaDOrDDkBUy2t_Qg57LeDsrhR1WHJclMlLoy7ZIrWepIlGU1lpS3tp4TNTj-jGHWZLaoN4iWLvByXl78WzZW8qi_vaSJF5BzmOx8Hx3uxQlay-yh1RkeFHV73NIj_c7v_dO2rDrDZ5MNGMod92iiBXrdaWXwQA0p5UAKsGiWtzDTTWB1h47d408fuoW18yyzXN8s9MFSqTL7JL1010VXXmdeKKperqvLuXK0ZOTKr29iKq8FNNUUI2xGONqYrXat3axh_f92K0yXlewUNaoMt2RCGbwYGS02Bg-OUgG5YpvLyvbXm3URJQCT03USDW3vm5by-dVqaJkQU4xWZ4KJSTFq28u_5cCy9PCq7wcX_XtUmA-Q4r-DFn-M0TM4tVbWsdkPDRymT3SMW4MSbQOBHv828vXqOTTVZZF1aMqVbJvK8VTt7piTZs1b2Qxva6UbqhH14fgrgyM39DHVX6yD73jjkfnfYqljvdJ_VCUS2YXW67jLkKSn1LktSs3XhX8pepE3tIOKBFAi65DJKWHMeo372eeF4N38WT0frHenN8ZCyWRtsjNgqz3umSRRqgX9-1aGsXi5p10MgFrJxhWOKV9RqlVFuwDB8v0gXlHCtleZ1Om7xu9hCM9rObHCm2xv70WCRHy-24GmiokDZ9xC0WF7_MVredafFgCm6W-Oc0To0-2tCgd9j0bzgJJZFeig0DP0HWP1DArj8TOkKYkvTIHYi_6hibm75PE8-RqZDTjXohv68DXnm_zaopVuwi7sG43OOVdhpyji8Ag60pZbLuovJ2saFPgd1solOpA2zjrtFJAun0ekKBuraP29qLgZcWO8s0sjeQoOrrSnISUtOXE1HZ7uqtu_yc84EuH",
+    "source": "Amazon.in",
+    "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+    "multiple_sources": true,
+    "price": "₹1,179",
+    "extracted_price": 1179,
+    "rating": 4.4,
+    "reviews": 33,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyAo00Z5FAaP18FfKFV3fKBniUGHpHuC2e6xA1qXn_-HzHO_ghEwgY4B07ewMwiFSvm2_ba1_dj-Be_9YRtdj1fg1cvlrEfTWntPVkiq85qtsAxgZpP3stcg",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wEQ853icDclJDoIwFADQEzFUxSkxphgqiVGJs24aKG2pQyn2C-qpvI630bd9308BYOzQ87hm95cBnjuQad-VFlJQzGXlzbNFaYzSclyN_jfEi3wwZesXLn3_FBCcJqhPxIzs2mIWarWdxiZ-TFq8-8SoOmjqxO94SWURNfLYCf0eb-aNIuv61qJZimh-dkJOB8cV5GckJGL19R6JzV5Dsruoqh9UYPFTnkzStsDkD1BLPuw",
+    "delivery": "Free delivery"
+   },
+   {
+    "position": 2,
+    "title": "Philips GC1010 Steam Iron",
+    "product_id": "11418136498567911464",
+    "product_link": "https://www.google.co.in/search?ibp=oshop&q=philips gc1011/01 steam iron&prds=catalogid:11418136498567911464,productid:13633531136096265588,headlineOfferDocid:8041863189961315963,imageDocid:18373587164649896738,rds:PC_10748178568471383865|PROD_PC_10748178568471383865,gpcid:10748178568471383865,mid:576460815489407633,pvt:hg&hl=en&gl=in&udm=28",
+    "immersive_product_page_token": "23x7HXicdVTJruvGEQ2cH8jCH3A3WT3ogd0cRN4LLTg1B4nzJGpDkM1RIimKpK4owV9zn23AWToGsgvyG_Yi3xI9e-usCoXTVafr1PDfv_zto2j-1eyPajoVtp7dZ9o827RZTA3v_DSM5_yK5yb_BZAMSdIkeFqCYyBD0yz7E07ntD1XX2FAAfaJURxLM2vu6TLUz3WR5m3TF1ZZFqN0xk3-T5Z4vmNIwHIcA0hAcwz5j6ZLq-J3-BfAkmuSZteAob6m4pg1yX4Z8-lXyhYTQKwpFqyfBCy1BiRLsgz9ne1aUvJ_wB8u12K8_3uom7YZpk8VBgQAf4eIAJ-muUi7T8147n-oht-Z_yT-S9fkP9Pr518IFtAUy1HE-qnCl-F9_qir76_XtvjPR9V-NP1H3X4U_Y_ndHgv8W_ffCufb5I43UQnGIZQcglfQTtPXpwimntXccVi72rOKQZYkklLdi0c5FGOQjtuA-IQLI0bocVEIV2cQrdQ2HsWIP9wJ-i8y6lMWRRDNneWnIf50bjHRO7lcuiYEChYXpDTGVQUnAkMMAz3Ao3h4mHQBrg3icLXW18NkaWYqkmcYNGbkas4s0G0oRcAaML8EIOwC_euEZAIxkf5lqs6k5M6MAnQpREN9qDdmicw4aO7xD46pEHdGcp0O7SDZUW6ZKCcKFqEsmc9eJ9L5gPVh2iW_bZtcSjUQYuWkJiX3A8oA9VaJC9h0NEDVvLBCtoYBxg6D6E3JcHDIUcYwJ1SUt_HLUfvfOeewXl_IFsXyw6IAm6_C8x9RiAp7OWbD2o6Be6cB8YjfSDG6Vrdg9whDZERQLC1_Jgy_HoO5dMShPESgMOpkNs-k2oqUM0yh67rhq2WErKHYBunp7p-quh4nU7nUmhlgAd-Fz7SALlKowuuat6t6OAZkDayo54eHsLWlLnuWbOdK7oVIYfA3TKYCLnfL9NY_krwiJ49i4aBTbc7HvVhg4rjvD5mlNhfO4e5O6_guUAUvaae40iuf8Tn86kpfvtr7ZmatOF1C8A9SvcWRbiBox7VfamS9GGQB2YYskKE9QIf1FzG9iwVVlSt11kiQol6t4vUJAGz53lBRUm5dPGYyCf1MUdZklpEY0PQuMHFeXvxLNHbiLz29pIkXoGvY7HyfNfe8IJZ88wx5WmWl7X7HFHj_c7W3gUNh7PO4omidemumSQ2Y62ptDIYiOc4CgQsiVW1uke7aiI6a-xdFXrs1K9umWkZ13ix0hVMhPfZxeqTXeZdUU083pA9zZc3YuVoyUUW3l54WdzwacrJ-liMcTUxqPHNQ-yF9XnslYzVpJArG1gZ7og5I3jQIlztdB8fBZ10-bcXxbKUnZzwQuDJibyXDdvXLHPzVJUsSobISTrLU64EuHj1jc0fXXieA-5V3Iyvmr3h6M-ApD4Dhv0MIL169TbmKRmPrVhmj3SMW13gzSMOPfbt5WurxMtNFHnZIytZsBZF8mRbk8xpp7J6FlNqJfVDM7o-IO7SQPstdVLyi3U8O-54crZTLPSsj5uHJL1nVmGv-_U7l-SXFHqd4sZKwb5XPc-a6AgTjujgbdgL6XHcn3fbK8vywZa_6Ge_UHfXLW3CZI9WuVFgtdYEE7dcs7rbqjDyxeJdNDwR5oHTzWhKzxkpV1lQB04oUkd6CyVs32ZDpO47rQQjNSjzQ4F26Nu3IsFcfj_MBJK5pGWz9UqSwXa-QXVu-IfJMVnqG9M80dpkCavSYbbZcOVwIroCFQRaBm81lKOsPGErg0hKztIc8Gfe1xGfbyeBZfFNzyjafce-pRE-ClB4M_iqW0V91HS7MGVdGl_37xwNzRtpMt2q8g6ihKbA723AlfJAWWHWo5KDmnUdICfb5gm9vUjhpmJGcTFKPTnxjia1Fy7FXTnRjdVd7rJ7_h8GS0k7",
+    "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=23x7HXicdVTJruvGEQ2cH8jCH3A3WT3ogd0cRN4LLTg1B4nzJGpDkM1RIimKpK4owV9zn23AWToGsgvyG_Yi3xI9e-usCoXTVafr1PDfv_zto2j-1eyPajoVtp7dZ9o827RZTA3v_DSM5_yK5yb_BZAMSdIkeFqCYyBD0yz7E07ntD1XX2FAAfaJURxLM2vu6TLUz3WR5m3TF1ZZFqN0xk3-T5Z4vmNIwHIcA0hAcwz5j6ZLq-J3-BfAkmuSZteAob6m4pg1yX4Z8-lXyhYTQKwpFqyfBCy1BiRLsgz9ne1aUvJ_wB8u12K8_3uom7YZpk8VBgQAf4eIAJ-muUi7T8147n-oht-Z_yT-S9fkP9Pr518IFtAUy1HE-qnCl-F9_qir76_XtvjPR9V-NP1H3X4U_Y_ndHgv8W_ffCufb5I43UQnGIZQcglfQTtPXpwimntXccVi72rOKQZYkklLdi0c5FGOQjtuA-IQLI0bocVEIV2cQrdQ2HsWIP9wJ-i8y6lMWRRDNneWnIf50bjHRO7lcuiYEChYXpDTGVQUnAkMMAz3Ao3h4mHQBrg3icLXW18NkaWYqkmcYNGbkas4s0G0oRcAaML8EIOwC_euEZAIxkf5lqs6k5M6MAnQpREN9qDdmicw4aO7xD46pEHdGcp0O7SDZUW6ZKCcKFqEsmc9eJ9L5gPVh2iW_bZtcSjUQYuWkJiX3A8oA9VaJC9h0NEDVvLBCtoYBxg6D6E3JcHDIUcYwJ1SUt_HLUfvfOeewXl_IFsXyw6IAm6_C8x9RiAp7OWbD2o6Be6cB8YjfSDG6Vrdg9whDZERQLC1_Jgy_HoO5dMShPESgMOpkNs-k2oqUM0yh67rhq2WErKHYBunp7p-quh4nU7nUmhlgAd-Fz7SALlKowuuat6t6OAZkDayo54eHsLWlLnuWbOdK7oVIYfA3TKYCLnfL9NY_krwiJ49i4aBTbc7HvVhg4rjvD5mlNhfO4e5O6_guUAUvaae40iuf8Tn86kpfvtr7ZmatOF1C8A9SvcWRbiBox7VfamS9GGQB2YYskKE9QIf1FzG9iwVVlSt11kiQol6t4vUJAGz53lBRUm5dPGYyCf1MUdZklpEY0PQuMHFeXvxLNHbiLz29pIkXoGvY7HyfNfe8IJZ88wx5WmWl7X7HFHj_c7W3gUNh7PO4omidemumSQ2Y62ptDIYiOc4CgQsiVW1uke7aiI6a-xdFXrs1K9umWkZ13ix0hVMhPfZxeqTXeZdUU083pA9zZc3YuVoyUUW3l54WdzwacrJ-liMcTUxqPHNQ-yF9XnslYzVpJArG1gZ7og5I3jQIlztdB8fBZ10-bcXxbKUnZzwQuDJibyXDdvXLHPzVJUsSobISTrLU64EuHj1jc0fXXieA-5V3Iyvmr3h6M-ApD4Dhv0MIL169TbmKRmPrVhmj3SMW13gzSMOPfbt5WurxMtNFHnZIytZsBZF8mRbk8xpp7J6FlNqJfVDM7o-IO7SQPstdVLyi3U8O-54crZTLPSsj5uHJL1nVmGv-_U7l-SXFHqd4sZKwb5XPc-a6AgTjujgbdgL6XHcn3fbK8vywZa_6Ge_UHfXLW3CZI9WuVFgtdYEE7dcs7rbqjDyxeJdNDwR5oHTzWhKzxkpV1lQB04oUkd6CyVs32ZDpO47rQQjNSjzQ4F26Nu3IsFcfj_MBJK5pGWz9UqSwXa-QXVu-IfJMVnqG9M80dpkCavSYbbZcOVwIroCFQRaBm81lKOsPGErg0hKztIc8Gfe1xGfbyeBZfFNzyjafce-pRE-ClB4M_iqW0V91HS7MGVdGl_37xwNzRtpMt2q8g6ihKbA723AlfJAWWHWo5KDmnUdICfb5gm9vUjhpmJGcTFKPTnxjia1Fy7FXTnRjdVd7rJ7_h8GS0k7",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=23x7HXicdVTJruvGEQ2cH8jCH3A3WT3ogd0cRN4LLTg1B4nzJGpDkM1RIimKpK4owV9zn23AWToGsgvyG_Yi3xI9e-usCoXTVafr1PDfv_zto2j-1eyPajoVtp7dZ9o827RZTA3v_DSM5_yK5yb_BZAMSdIkeFqCYyBD0yz7E07ntD1XX2FAAfaJURxLM2vu6TLUz3WR5m3TF1ZZFqN0xk3-T5Z4vmNIwHIcA0hAcwz5j6ZLq-J3-BfAkmuSZteAob6m4pg1yX4Z8-lXyhYTQKwpFqyfBCy1BiRLsgz9ne1aUvJ_wB8u12K8_3uom7YZpk8VBgQAf4eIAJ-muUi7T8147n-oht-Z_yT-S9fkP9Pr518IFtAUy1HE-qnCl-F9_qir76_XtvjPR9V-NP1H3X4U_Y_ndHgv8W_ffCufb5I43UQnGIZQcglfQTtPXpwimntXccVi72rOKQZYkklLdi0c5FGOQjtuA-IQLI0bocVEIV2cQrdQ2HsWIP9wJ-i8y6lMWRRDNneWnIf50bjHRO7lcuiYEChYXpDTGVQUnAkMMAz3Ao3h4mHQBrg3icLXW18NkaWYqkmcYNGbkas4s0G0oRcAaML8EIOwC_euEZAIxkf5lqs6k5M6MAnQpREN9qDdmicw4aO7xD46pEHdGcp0O7SDZUW6ZKCcKFqEsmc9eJ9L5gPVh2iW_bZtcSjUQYuWkJiX3A8oA9VaJC9h0NEDVvLBCtoYBxg6D6E3JcHDIUcYwJ1SUt_HLUfvfOeewXl_IFsXyw6IAm6_C8x9RiAp7OWbD2o6Be6cB8YjfSDG6Vrdg9whDZERQLC1_Jgy_HoO5dMShPESgMOpkNs-k2oqUM0yh67rhq2WErKHYBunp7p-quh4nU7nUmhlgAd-Fz7SALlKowuuat6t6OAZkDayo54eHsLWlLnuWbOdK7oVIYfA3TKYCLnfL9NY_krwiJ49i4aBTbc7HvVhg4rjvD5mlNhfO4e5O6_guUAUvaae40iuf8Tn86kpfvtr7ZmatOF1C8A9SvcWRbiBox7VfamS9GGQB2YYskKE9QIf1FzG9iwVVlSt11kiQol6t4vUJAGz53lBRUm5dPGYyCf1MUdZklpEY0PQuMHFeXvxLNHbiLz29pIkXoGvY7HyfNfe8IJZ88wx5WmWl7X7HFHj_c7W3gUNh7PO4omidemumSQ2Y62ptDIYiOc4CgQsiVW1uke7aiI6a-xdFXrs1K9umWkZ13ix0hVMhPfZxeqTXeZdUU083pA9zZc3YuVoyUUW3l54WdzwacrJ-liMcTUxqPHNQ-yF9XnslYzVpJArG1gZ7og5I3jQIlztdB8fBZ10-bcXxbKUnZzwQuDJibyXDdvXLHPzVJUsSobISTrLU64EuHj1jc0fXXieA-5V3Iyvmr3h6M-ApD4Dhv0MIL169TbmKRmPrVhmj3SMW13gzSMOPfbt5WurxMtNFHnZIytZsBZF8mRbk8xpp7J6FlNqJfVDM7o-IO7SQPstdVLyi3U8O-54crZTLPSsj5uHJL1nVmGv-_U7l-SXFHqd4sZKwb5XPc-a6AgTjujgbdgL6XHcn3fbK8vywZa_6Ge_UHfXLW3CZI9WuVFgtdYEE7dcs7rbqjDyxeJdNDwR5oHTzWhKzxkpV1lQB04oUkd6CyVs32ZDpO47rQQjNSjzQ4F26Nu3IsFcfj_MBJK5pGWz9UqSwXa-QXVu-IfJMVnqG9M80dpkCavSYbbZcOVwIroCFQRaBm81lKOsPGErg0hKztIc8Gfe1xGfbyeBZfFNzyjafce-pRE-ClB4M_iqW0V91HS7MGVdGl_37xwNzRtpMt2q8g6ihKbA723AlfJAWWHWo5KDmnUdICfb5gm9vUjhpmJGcTFKPTnxjia1Fy7FXTnRjdVd7rJ7_h8GS0k7",
+    "source": "Ankur Electricals",
+    "source_icon": "https://serpapi.com/searches/6ac77889ff596e9e6713fe29/images/XFRXp5esdzGNMUbk8vU2aMPRHVHBcBAg7OHaYUBS4zg.png",
+    "multiple_sources": true,
+    "price": "₹1,399",
+    "extracted_price": 1399,
+    "rating": 4.5,
+    "reviews": 6,
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTU45afHkqW7th1KyAR7NjY7wHafz70P7yq8Tf3wnKti1n9IkYLbSw7R2bv6QGYJamhUdUpimhP163Lc2weICt1xrXTtu34sUcT1SrIXW36vFjpcjUpxaiSYw",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6zgLu3icDclhCoIwGADQE5XNmSshIoLKEil1lD_n1DbDNfXLaafqOt2m3t_3_QgA3XmWVSjejhqKfAKZsqf3DhhIPuXP2urEU2up7utm9T9vE-bLPU-oM2fl4dFcCQh0GjcRCauUmAMr32R2JmOzSEps1AkkUkv_kQZZbEhkZ7172adHVguaUy1rcUYuDrhtCn8LaGhvCbyw01GeoLj1b1fs9rtK84rqgck4NT-Skz8U",
+    "delivery": "Free delivery"
+   },
+   {
+    "position": 3,
+    "title": "Philips GC1010 1200-Watt Comfort Steam Spray Iron",
+    "product_id": "907552070433044081",
+    "product_link": "https://www.google.co.in/search?ibp=oshop&q=philips gc1011/01 steam iron&prds=productid:907552070433044081,headlineOfferDocid:907552070433044081,imageDocid:6941620642447017371,rds:PC_10748178568471383865|PROD_PC_10748178568471383865,pvt:hg&hl=en&gl=in&udm=28",
+    "immersive_product_page_token": "u16Gh3icdZM5juzWFYZteANeQieOHuqBvByK7EYFnIcuXpKXY1VCkJdjcSySNcKLEVoDIIVS4MzwNiQYXotbdmonJ_lx8AHnP9-__vDnj6L5WxOf9HQpHDN7rAwcHQYWSyO4P07zmF_w2uQ_88SWYQCxJWiKImia4Mgfcbqm3Vg1-Tc_10Wad81Q2GVZzPKI_-fCT02fVsV_0l9YniZZQLA0oOktQW6pLfntnC-_0o6UkMSW5sgtx7AcvSUpjuJY5q8OsuXk_4Tfny_F_Pj7VDddMy1fKkwSJPkXoBLkl2Ut0v5LM4_D99X0Cf7m2_73MV3Xj7r67nLpin98VN1HM3zU3Ucx_DCm07XEv_3xn8rFkKSzIbnBNIUyInxtqkPAX0PdBDEB7ZQgmVRZb0dgggzkD9ipkh12NxwqwCfCKY1I66hOLFbNE-7dp68h8SjDk-2rNm752ALdFYW1k3X4hsAdIL2GmXKn8VDrboziw-mTGoZ3-BTHA4GiTFW9NJwOVtyNR4J8pu06WhTyvQGFfk8_bS1UjsoR5VHIYo10Ql-1sG_akWaeilMLrLBljpTCxGCyfZJHvsawudYFGahTi4R0HmM60GEf-Yi1NRMhpZZhACFWa8cNjo7bMtdA6UKLWNsozo0cHJ52FNCBry5uz5xDlW8j32ViEnW-X9EwmlRPdgGK-Ed-6kKoTSvu4Zy3apsHqMsjAgREQB6VaYFE3UQtemKFfA8iPtiH4jMPVbUIj9d0wJ4KukPa1jUGoev1JpPLoZ2RAun34TMNVKQ1poh0-LCjo5-GSPeiuvGVWoFhDfIYBqnGT5Fy9wOwur4Oqe_uy1z-Sggqs3o2AwKH6faCOoSNWpzW7SmjpeHSu-zDfSW3PEkzW_rz4ajtD3gc26b47U-1Bw15J5g2CWI1jW2aQIGrn_S41CnmOCkTO01ZIYH6Dp70Wh6cVS7sqNpus0QCMn11ihRSJBsLgqirSXnvD3OitPpzjbIktYnGAWSDgrP79uLZkreTBOPtJUm8Al_mYuP5yNkJIqwF9pQKDCcoxmON6Pnx4GrvrE7H0eTwQjOm_DAgheHBaCqjDCZCdXuRACWxqTaPaF8tRG_PA9KBxy3D5pZB27oc7na6AYl4XRHWP-mKgCQ98QRL8Qxf2UmVayRnRXx7ERRpJ6Qpr5hzMR-qhVUbHx4PXliP86BlnCGHfNmAykIz5q3gyUhgszd9fBJNCglvL5pta3slEcTAUxIlVizHN2y4-7wqVZQskVNMlqd8SeLi1bd2_23hU3j-VdrNr4az45mvJEV_JVnuKwmYzau3g20ynzqpzJ7pfOhMUYAnHHrc28vvVUnnmyQJikdVimjfNdlTHEOGy17nzOxA65U8TM2MfJJ4yBPjd3Sr5Wf7NLpobt335SAOnI-bpyxfM7twtsP2yif5OQVer6GDVnDXahA4qJ5AwhM9uE2xmJ7meNy_XzhOCN6Fszn6hb6_vDMQJLG6ya0C67UhQtzxzebh6OIsFHfvbOCFgEfehNGSjhmlVFlQB24o0SfmHcjYua2WRD_2RknO9KStTw18au7cigTz-eO4EqrCJx2XbTfyp0jrDehrIzwhz2apby3rwhiLLW5Kl33PpguPEwmJdBAYGbjVQImyssV2BlQ5GeU1EEbBN1Uhf19EjsM3M6MZdMW-bRC-GqjhzRKqfhMNUdPvw5RDDL7EV54B8EZBtt9U3lGS1SXwB4fkS2Wi7TAb1JIHhn2ZAK84sFXfXuRwV7GzdLdKM2kF15C7M5_ivlyYxu7PDwWN_wZMmSrA",
+    "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u16Gh3icdZM5juzWFYZteANeQieOHuqBvByK7EYFnIcuXpKXY1VCkJdjcSySNcKLEVoDIIVS4MzwNiQYXotbdmonJ_lx8AHnP9-__vDnj6L5WxOf9HQpHDN7rAwcHQYWSyO4P07zmF_w2uQ_88SWYQCxJWiKImia4Mgfcbqm3Vg1-Tc_10Wad81Q2GVZzPKI_-fCT02fVsV_0l9YniZZQLA0oOktQW6pLfntnC-_0o6UkMSW5sgtx7AcvSUpjuJY5q8OsuXk_4Tfny_F_Pj7VDddMy1fKkwSJPkXoBLkl2Ut0v5LM4_D99X0Cf7m2_73MV3Xj7r67nLpin98VN1HM3zU3Ucx_DCm07XEv_3xn8rFkKSzIbnBNIUyInxtqkPAX0PdBDEB7ZQgmVRZb0dgggzkD9ipkh12NxwqwCfCKY1I66hOLFbNE-7dp68h8SjDk-2rNm752ALdFYW1k3X4hsAdIL2GmXKn8VDrboziw-mTGoZ3-BTHA4GiTFW9NJwOVtyNR4J8pu06WhTyvQGFfk8_bS1UjsoR5VHIYo10Ql-1sG_akWaeilMLrLBljpTCxGCyfZJHvsawudYFGahTi4R0HmM60GEf-Yi1NRMhpZZhACFWa8cNjo7bMtdA6UKLWNsozo0cHJ52FNCBry5uz5xDlW8j32ViEnW-X9EwmlRPdgGK-Ed-6kKoTSvu4Zy3apsHqMsjAgREQB6VaYFE3UQtemKFfA8iPtiH4jMPVbUIj9d0wJ4KukPa1jUGoev1JpPLoZ2RAun34TMNVKQ1poh0-LCjo5-GSPeiuvGVWoFhDfIYBqnGT5Fy9wOwur4Oqe_uy1z-Sggqs3o2AwKH6faCOoSNWpzW7SmjpeHSu-zDfSW3PEkzW_rz4ajtD3gc26b47U-1Bw15J5g2CWI1jW2aQIGrn_S41CnmOCkTO01ZIYH6Dp70Wh6cVS7sqNpus0QCMn11ihRSJBsLgqirSXnvD3OitPpzjbIktYnGAWSDgrP79uLZkreTBOPtJUm8Al_mYuP5yNkJIqwF9pQKDCcoxmON6Pnx4GrvrE7H0eTwQjOm_DAgheHBaCqjDCZCdXuRACWxqTaPaF8tRG_PA9KBxy3D5pZB27oc7na6AYl4XRHWP-mKgCQ98QRL8Qxf2UmVayRnRXx7ERRpJ6Qpr5hzMR-qhVUbHx4PXliP86BlnCGHfNmAykIz5q3gyUhgszd9fBJNCglvL5pta3slEcTAUxIlVizHN2y4-7wqVZQskVNMlqd8SeLi1bd2_23hU3j-VdrNr4az45mvJEV_JVnuKwmYzau3g20ynzqpzJ7pfOhMUYAnHHrc28vvVUnnmyQJikdVimjfNdlTHEOGy17nzOxA65U8TM2MfJJ4yBPjd3Sr5Wf7NLpobt335SAOnI-bpyxfM7twtsP2yif5OQVer6GDVnDXahA4qJ5AwhM9uE2xmJ7meNy_XzhOCN6Fszn6hb6_vDMQJLG6ya0C67UhQtzxzebh6OIsFHfvbOCFgEfehNGSjhmlVFlQB24o0SfmHcjYua2WRD_2RknO9KStTw18au7cigTz-eO4EqrCJx2XbTfyp0jrDehrIzwhz2apby3rwhiLLW5Kl33PpguPEwmJdBAYGbjVQImyssV2BlQ5GeU1EEbBN1Uhf19EjsM3M6MZdMW-bRC-GqjhzRKqfhMNUdPvw5RDDL7EV54B8EZBtt9U3lGS1SXwB4fkS2Wi7TAb1JIHhn2ZAK84sFXfXuRwV7GzdLdKM2kF15C7M5_ivlyYxu7PDwWN_wZMmSrA",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=u16Gh3icdZM5juzWFYZteANeQieOHuqBvByK7EYFnIcuXpKXY1VCkJdjcSySNcKLEVoDIIVS4MzwNiQYXotbdmonJ_lx8AHnP9-__vDnj6L5WxOf9HQpHDN7rAwcHQYWSyO4P07zmF_w2uQ_88SWYQCxJWiKImia4Mgfcbqm3Vg1-Tc_10Wad81Q2GVZzPKI_-fCT02fVsV_0l9YniZZQLA0oOktQW6pLfntnC-_0o6UkMSW5sgtx7AcvSUpjuJY5q8OsuXk_4Tfny_F_Pj7VDddMy1fKkwSJPkXoBLkl2Ut0v5LM4_D99X0Cf7m2_73MV3Xj7r67nLpin98VN1HM3zU3Ucx_DCm07XEv_3xn8rFkKSzIbnBNIUyInxtqkPAX0PdBDEB7ZQgmVRZb0dgggzkD9ipkh12NxwqwCfCKY1I66hOLFbNE-7dp68h8SjDk-2rNm752ALdFYW1k3X4hsAdIL2GmXKn8VDrboziw-mTGoZ3-BTHA4GiTFW9NJwOVtyNR4J8pu06WhTyvQGFfk8_bS1UjsoR5VHIYo10Ql-1sG_akWaeilMLrLBljpTCxGCyfZJHvsawudYFGahTi4R0HmM60GEf-Yi1NRMhpZZhACFWa8cNjo7bMtdA6UKLWNsozo0cHJ52FNCBry5uz5xDlW8j32ViEnW-X9EwmlRPdgGK-Ed-6kKoTSvu4Zy3apsHqMsjAgREQB6VaYFE3UQtemKFfA8iPtiH4jMPVbUIj9d0wJ4KukPa1jUGoev1JpPLoZ2RAun34TMNVKQ1poh0-LCjo5-GSPeiuvGVWoFhDfIYBqnGT5Fy9wOwur4Oqe_uy1z-Sggqs3o2AwKH6faCOoSNWpzW7SmjpeHSu-zDfSW3PEkzW_rz4ajtD3gc26b47U-1Bw15J5g2CWI1jW2aQIGrn_S41CnmOCkTO01ZIYH6Dp70Wh6cVS7sqNpus0QCMn11ihRSJBsLgqirSXnvD3OitPpzjbIktYnGAWSDgrP79uLZkreTBOPtJUm8Al_mYuP5yNkJIqwF9pQKDCcoxmON6Pnx4GrvrE7H0eTwQjOm_DAgheHBaCqjDCZCdXuRACWxqTaPaF8tRG_PA9KBxy3D5pZB27oc7na6AYl4XRHWP-mKgCQ98QRL8Qxf2UmVayRnRXx7ERRpJ6Qpr5hzMR-qhVUbHx4PXliP86BlnCGHfNmAykIz5q3gyUhgszd9fBJNCglvL5pta3slEcTAUxIlVizHN2y4-7wqVZQskVNMlqd8SeLi1bd2_23hU3j-VdrNr4az45mvJEV_JVnuKwmYzau3g20ynzqpzJ7pfOhMUYAnHHrc28vvVUnnmyQJikdVimjfNdlTHEOGy17nzOxA65U8TM2MfJJ4yBPjd3Sr5Wf7NLpobt335SAOnI-bpyxfM7twtsP2yif5OQVer6GDVnDXahA4qJ5AwhM9uE2xmJ7meNy_XzhOCN6Fszn6hb6_vDMQJLG6ya0C67UhQtzxzebh6OIsFHfvbOCFgEfehNGSjhmlVFlQB24o0SfmHcjYua2WRD_2RknO9KStTw18au7cigTz-eO4EqrCJx2XbTfyp0jrDehrIzwhz2apby3rwhiLLW5Kl33PpguPEwmJdBAYGbjVQImyssV2BlQ5GeU1EEbBN1Uhf19EjsM3M6MZdMW-bRC-GqjhzRKqfhMNUdPvw5RDDL7EV54B8EZBtt9U3lGS1SXwB4fkS2Wi7TAb1JIHhn2ZAK84sFXfXuRwV7GzdLdKM2kF15C7M5_ivlyYxu7PDwWN_wZMmSrA",
+    "source": "Indian on shop",
+    "source_icon": "https://serpapi.com/searches/6ac77889ff596e9e6713fe29/images/XFRXp5esdzGNMUbk8vU2aAdcHIznI0l0uq4ADqxoKgg.png",
+    "price": "₹1,065",
+    "extracted_price": 1065,
+    "rating": 4.5,
+    "reviews": 6,
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVJrIq2g7SYERO3TKzJB0SqMUPahX37EEbWVx_QnqCcujGP_LLNP7BzFj8F8yKCaZ4HWXqg7RmBL0ZenYZ3_aYrlNWXZeM",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/f1h5g3icDcnbCoIwAADQL0olg5kQkaKWt0zLy15kTplKzk0XpB_Sv_U3dV7P99MKwWZdlhuKp4WJpt6IiqoSmQUSHZbwOMhzOzLWUXLkh__pp7DeOzhJ3enCtwQkhRVf1bu3uoaS8OARoTZXgWVVWfoub5Sb-NU7Uen7YQSM1e41W1s8E8HdOcs5AfFg-ApsaAHVEhXTM8xy2AQ_cpI1Dw"
+   },
+   {
+    "position": 4,
+    "title": "Philips Gc1015 Steam Iron",
+    "product_id": "3726766633410067407",
+    "product_link": "https://www.google.co.in/search?ibp=oshop&q=philips gc1011/01 steam iron&prds=catalogid:3726766633410067407,productid:17364342868990344044,headlineOfferDocid:5033176955708458688,imageDocid:2320362027512780139,rds:PC_12860295163292030594|PROD_PC_12860295163292030594,gpcid:12860295163292030594,mid:576462901076846130,pvt:hg&hl=en&gl=in&udm=28",
+    "immersive_product_page_token": "5kjqA3icdZPLrqvYEYaj5AUyyAPsSUZHPlprcd9bHnA1YAMGFmAzQdzB5mbAF6x-mn26W-oMO5Eyi_Ia3YM8S9zqaTKt-qt-1f-p_vOHP3_m9T_rw0mNp3yvJ8tMmf2eMvOp5u2fhrHPrulcZ_-ADEGTBIlYmuU4QJAkIMmf0niOm76ss78TDKIZmqYJgoQA0AwJmJ-rPM6ausutoshHqU9fMgoQBGRojqIYwJLUaxn7t7qNy_z3NiIQIGgEEENBxLAAEty3MZt-IfdiBF_WAHEUpAnEvWSA4sjv9o4lRf-n-cPlmo_Lv4aqbuph-lKmEED4V6QA-GWa87j9Uo9990M5pL9d9z_mv7V19jPF0CSNOAABQ7MkDQnwbbjNn1X5_fXa5P_-LJvPuvusms-8-7GPh1uR_vrHv8j9XRKnu2h7w-BLDnBb6pxjeUml8LkLuDABw9nuBCo9N0qMvdkIqCBTHddt9SY7-QoGVJhCHxiSARwAb_hVM1xIBq2uJCdFPAB7SaDf2sSgpU9vyZ7CcgSm7p1DkAWVib3GjmF4jqF5cyFLYhS2YUsSlnq8e1ipHFWeg8Nghif9gv2sMwAHvYOP7aB_5D47536JvECnPUn3PdB04WZoAl-fYvmhJGfYuch4Joceui0nxRtnMl86Hw1yin3JUoVDcKisoxdu3W4IcWN26aZqj40f2ERmHk9mHZzD0VcdBcOqyQN5wZ0DXzvvKTKVoy9sjJPeGyfHsTu_zZ7m7J9DIetSIpF9CncmkUtmZUnVw1crfMTePXw6oisPz8QfAhu_ouq82YfZgp-VEx6UzlEr1fJML1HD2WipbRhUQ642bY5NGUsmFXuPED-bxZCq1n3K8xGwroKaY3yuqhT59osLlUm-lUAe4tZ_xp7ibGpdcFRzsYLQe90aJ7jxgk5Qg01YY5QFsSIAX9YDH_nmi2f3_WMai18Ar1Cza1HI21PNjlc6v1by08ycElLsrq1NL_Y7ZDhIUgwJGZZgfkz7_lznv_6pck1NWvO6BdFBiQ8WCRzPVk_qoVAJKhzkgR6GJBdR9UBPci6O-1nKraBkmCQSkUTe9nlsEpA-8LygKlHxaI9jJJ_V5xwkUWyBeo9g7XgX--PNtUR3LfLax1sUuXl6HfOVi539mhfMiqdPMU-xvKwtc0COy8JW7kUZwl5n04mkdGnRTCI1j1pdaoU3AMVuBYAKsCpXS7ArJ9Ba4wsHctmpW90T0zKux4cVr1Ak3GYnVV_uMu-IauTyhuxqWF6Lpa1FF1n4eONlcc3HMSfrYz4ey4lWamyGR9ev-rHbJKwm-VxRo9JwxpQzvCclotVOx-lJ0AmH_3jbWNZmJ0e84LlyJB9kY481y1y_UiXyggYZQSVZzBUwzd-xsf6dwuvnuXdxPb5r-zVHfYUE-RXS7FeIqNW7uzbP0XhqxCJ5xuOx0QXePKW-y368_YZKvNxFkZddopQF67GRXHmvSea0U1k9OZJqKXVDPToYgkUaKNyQ5012sU697YxnezsdhY7Faf2UpFti5XumY25clF1i5LYb57jJ2VvZ8aypnFDEgRbdh4MQn8ZDv9teWZb3tvxF73Gu7q5bykTRQVllRp6qlSaYacPVq2WvCiOfP9yLlk7ADDndDKa4Twi5TLzKs32RPFFbJKX7-2yI5LLTCjiSw2Z-btDex_t7HqVctoQzUGQuatiEWUky3M53pM41_zQ5OomxMc0TpU2WsCpsepsMVy6NREcgPU9L0L1CcpAU59RKkCJFvTR7fM9jXeGz7SSwbHrXE5Jybim2NIAVT_HvBl-2q6AL6nbnx6xDpdfDjaOQeSdMul2VbihKyuThbg-5Qh5Iy086peCQZl0HxMl786x8vEn-uqRH8WEUenTmbU1qLlyctsVE1VZ7WWSn_y9tw0yV",
+    "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5kjqA3icdZPLrqvYEYaj5AUyyAPsSUZHPlprcd9bHnA1YAMGFmAzQdzB5mbAF6x-mn26W-oMO5Eyi_Ia3YM8S9zqaTKt-qt-1f-p_vOHP3_m9T_rw0mNp3yvJ8tMmf2eMvOp5u2fhrHPrulcZ_-ADEGTBIlYmuU4QJAkIMmf0niOm76ss78TDKIZmqYJgoQA0AwJmJ-rPM6ausutoshHqU9fMgoQBGRojqIYwJLUaxn7t7qNy_z3NiIQIGgEEENBxLAAEty3MZt-IfdiBF_WAHEUpAnEvWSA4sjv9o4lRf-n-cPlmo_Lv4aqbuph-lKmEED4V6QA-GWa87j9Uo9990M5pL9d9z_mv7V19jPF0CSNOAABQ7MkDQnwbbjNn1X5_fXa5P_-LJvPuvusms-8-7GPh1uR_vrHv8j9XRKnu2h7w-BLDnBb6pxjeUml8LkLuDABw9nuBCo9N0qMvdkIqCBTHddt9SY7-QoGVJhCHxiSARwAb_hVM1xIBq2uJCdFPAB7SaDf2sSgpU9vyZ7CcgSm7p1DkAWVib3GjmF4jqF5cyFLYhS2YUsSlnq8e1ipHFWeg8Nghif9gv2sMwAHvYOP7aB_5D47536JvECnPUn3PdB04WZoAl-fYvmhJGfYuch4Joceui0nxRtnMl86Hw1yin3JUoVDcKisoxdu3W4IcWN26aZqj40f2ERmHk9mHZzD0VcdBcOqyQN5wZ0DXzvvKTKVoy9sjJPeGyfHsTu_zZ7m7J9DIetSIpF9CncmkUtmZUnVw1crfMTePXw6oisPz8QfAhu_ouq82YfZgp-VEx6UzlEr1fJML1HD2WipbRhUQ642bY5NGUsmFXuPED-bxZCq1n3K8xGwroKaY3yuqhT59osLlUm-lUAe4tZ_xp7ibGpdcFRzsYLQe90aJ7jxgk5Qg01YY5QFsSIAX9YDH_nmi2f3_WMai18Ar1Cza1HI21PNjlc6v1by08ycElLsrq1NL_Y7ZDhIUgwJGZZgfkz7_lznv_6pck1NWvO6BdFBiQ8WCRzPVk_qoVAJKhzkgR6GJBdR9UBPci6O-1nKraBkmCQSkUTe9nlsEpA-8LygKlHxaI9jJJ_V5xwkUWyBeo9g7XgX--PNtUR3LfLax1sUuXl6HfOVi539mhfMiqdPMU-xvKwtc0COy8JW7kUZwl5n04mkdGnRTCI1j1pdaoU3AMVuBYAKsCpXS7ArJ9Ba4wsHctmpW90T0zKux4cVr1Ak3GYnVV_uMu-IauTyhuxqWF6Lpa1FF1n4eONlcc3HMSfrYz4ey4lWamyGR9ev-rHbJKwm-VxRo9JwxpQzvCclotVOx-lJ0AmH_3jbWNZmJ0e84LlyJB9kY481y1y_UiXyggYZQSVZzBUwzd-xsf6dwuvnuXdxPb5r-zVHfYUE-RXS7FeIqNW7uzbP0XhqxCJ5xuOx0QXePKW-y368_YZKvNxFkZddopQF67GRXHmvSea0U1k9OZJqKXVDPToYgkUaKNyQ5012sU697YxnezsdhY7Faf2UpFti5XumY25clF1i5LYb57jJ2VvZ8aypnFDEgRbdh4MQn8ZDv9teWZb3tvxF73Gu7q5bykTRQVllRp6qlSaYacPVq2WvCiOfP9yLlk7ADDndDKa4Twi5TLzKs32RPFFbJKX7-2yI5LLTCjiSw2Z-btDex_t7HqVctoQzUGQuatiEWUky3M53pM41_zQ5OomxMc0TpU2WsCpsepsMVy6NREcgPU9L0L1CcpAU59RKkCJFvTR7fM9jXeGz7SSwbHrXE5Jybim2NIAVT_HvBl-2q6AL6nbnx6xDpdfDjaOQeSdMul2VbihKyuThbg-5Qh5Iy086peCQZl0HxMl786x8vEn-uqRH8WEUenTmbU1qLlyctsVE1VZ7WWSn_y9tw0yV",
+    "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&page_token=5kjqA3icdZPLrqvYEYaj5AUyyAPsSUZHPlprcd9bHnA1YAMGFmAzQdzB5mbAF6x-mn26W-oMO5Eyi_Ia3YM8S9zqaTKt-qt-1f-p_vOHP3_m9T_rw0mNp3yvJ8tMmf2eMvOp5u2fhrHPrulcZ_-ADEGTBIlYmuU4QJAkIMmf0niOm76ss78TDKIZmqYJgoQA0AwJmJ-rPM6ausutoshHqU9fMgoQBGRojqIYwJLUaxn7t7qNy_z3NiIQIGgEEENBxLAAEty3MZt-IfdiBF_WAHEUpAnEvWSA4sjv9o4lRf-n-cPlmo_Lv4aqbuph-lKmEED4V6QA-GWa87j9Uo9990M5pL9d9z_mv7V19jPF0CSNOAABQ7MkDQnwbbjNn1X5_fXa5P_-LJvPuvusms-8-7GPh1uR_vrHv8j9XRKnu2h7w-BLDnBb6pxjeUml8LkLuDABw9nuBCo9N0qMvdkIqCBTHddt9SY7-QoGVJhCHxiSARwAb_hVM1xIBq2uJCdFPAB7SaDf2sSgpU9vyZ7CcgSm7p1DkAWVib3GjmF4jqF5cyFLYhS2YUsSlnq8e1ipHFWeg8Nghif9gv2sMwAHvYOP7aB_5D47536JvECnPUn3PdB04WZoAl-fYvmhJGfYuch4Joceui0nxRtnMl86Hw1yin3JUoVDcKisoxdu3W4IcWN26aZqj40f2ERmHk9mHZzD0VcdBcOqyQN5wZ0DXzvvKTKVoy9sjJPeGyfHsTu_zZ7m7J9DIetSIpF9CncmkUtmZUnVw1crfMTePXw6oisPz8QfAhu_ouq82YfZgp-VEx6UzlEr1fJML1HD2WipbRhUQ642bY5NGUsmFXuPED-bxZCq1n3K8xGwroKaY3yuqhT59osLlUm-lUAe4tZ_xp7ibGpdcFRzsYLQe90aJ7jxgk5Qg01YY5QFsSIAX9YDH_nmi2f3_WMai18Ar1Cza1HI21PNjlc6v1by08ycElLsrq1NL_Y7ZDhIUgwJGZZgfkz7_lznv_6pck1NWvO6BdFBiQ8WCRzPVk_qoVAJKhzkgR6GJBdR9UBPci6O-1nKraBkmCQSkUTe9nlsEpA-8LygKlHxaI9jJJ_V5xwkUWyBeo9g7XgX--PNtUR3LfLax1sUuXl6HfOVi539mhfMiqdPMU-xvKwtc0COy8JW7kUZwl5n04mkdGnRTCI1j1pdaoU3AMVuBYAKsCpXS7ArJ9Ba4wsHctmpW90T0zKux4cVr1Ak3GYnVV_uMu-IauTyhuxqWF6Lpa1FF1n4eONlcc3HMSfrYz4ey4lWamyGR9ev-rHbJKwm-VxRo9JwxpQzvCclotVOx-lJ0AmH_3jbWNZmJ0e84LlyJB9kY481y1y_UiXyggYZQSVZzBUwzd-xsf6dwuvnuXdxPb5r-zVHfYUE-RXS7FeIqNW7uzbP0XhqxCJ5xuOx0QXePKW-y368_YZKvNxFkZddopQF67GRXHmvSea0U1k9OZJqKXVDPToYgkUaKNyQ5012sU697YxnezsdhY7Faf2UpFti5XumY25clF1i5LYb57jJ2VvZ8aypnFDEgRbdh4MQn8ZDv9teWZb3tvxF73Gu7q5bykTRQVllRp6qlSaYacPVq2WvCiOfP9yLlk7ADDndDKa4Twi5TLzKs32RPFFbJKX7-2yI5LLTCjiSw2Z-btDex_t7HqVctoQzUGQuatiEWUky3M53pM41_zQ5OomxMc0TpU2WsCpsepsMVy6NREcgPU9L0L1CcpAU59RKkCJFvTR7fM9jXeGz7SSwbHrXE5Jybim2NIAVT_HvBl-2q6AL6nbnx6xDpdfDjaOQeSdMul2VbihKyuThbg-5Qh5Iy086peCQZl0HxMl786x8vEn-uqRH8WEUenTmbU1qLlyctsVE1VZ7WWSn_y9tw0yV",
+    "source": "Tradeindia.com",
+    "source_icon": "https://serpapi.com/searches/6ac77889ff596e9e6713fe29/images/XFRXp5esdzGNMUbk8vU2aK7iJ-i_m3cohp7fLjzHhhs.png",
+    "multiple_sources": true,
+    "price": "₹1,699",
+    "extracted_price": 1699,
+    "rating": 4,
+    "reviews": 2,
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1OSjKKcJmBBr8Gw_8HhPHUwXoHiIJ_68gbC2LrnDtORbSpSpE_uJ5oNaJyQlE3kRbT0duS-_R3oDFL9lFTNnlavJ4vlMAoQrHVqz6Hj2OHQwExIRsCnFhUg",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kVDXInicDcnhEoEwAADgJyKEizvnlDJDaZXzb9eW2yLbrFV4Kq_jbfj-ft8PN0bVc8u6CKpfylyKniHC7rPa5KakfSrvVs2lUqVgy8fif_NVWMw2NB1GyXW3o_DuutrZdNgB_Aiy7ixBuYV46jDijfZarE2ESKIS5eMGTmSYw1dc-fYNkXRQNEkPI1uug_2sCtJQVHkLx211WMlYg9PjPQXXUQTizn9uUe2JgGfsB4asPp0",
+    "delivery": "Free delivery"
+   }
+  ],
+  "filters": [
+   {
+    "input_type": "link_with_icon",
+    "options": [
+     {
+      "text": "On sale",
+      "shoprs": "CAESBEoCCAEYBioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjITCAYSB09uIHNhbGUYAiIESgIIAVj0lSFgAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+sale&shoprs=CAESBEoCCAEYBioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjITCAYSB09uIHNhbGUYAiIESgIIAVj0lSFgAg"
+     }
+    ]
+   },
+   {
+    "type": "Sort by",
+    "input_type": "link",
+    "options": [
+     {
+      "text": "Relevance",
+      "shoprs": "CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIKCBcqBBABGAFQBGAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011+01+steam+iron&shoprs=CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIKCBcqBBABGAFQBGAC"
+     },
+     {
+      "text": "Price: low to high",
+      "shoprs": "CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011+01+steam+iron&shoprs=CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE"
+     },
+     {
+      "text": "Price: high to low",
+      "shoprs": "CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011+01+steam+iron&shoprs=CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI"
+     },
+     {
+      "text": "Rating: High to low",
+      "shoprs": "CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011+01+steam+iron&shoprs=CAEYFyoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED"
+     }
+    ]
+   },
+   {
+    "type": "Product rating",
+    "input_type": "link",
+    "options": [
+     {
+      "text": "4 and up",
+      "shoprs": "CAESBWIDCJADGB4qHHBoaWxpcHMgZ2MxMDExIDAxIHN0ZWFtIGlyb24yFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron&shoprs=CAESBWIDCJADGB4qHHBoaWxpcHMgZ2MxMDExIDAxIHN0ZWFtIGlyb24yFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC"
+     }
+    ]
+   },
+   {
+    "type": "Shops",
+    "input_type": "link",
+    "options": [
+     {
+      "text": "Reliance Digital",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAISEFJlbGlhbmNlIERpZ2l0YWxY9JUhYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=reliance+digital+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAISEFJlbGlhbmNlIERpZ2l0YWxY9JUhYAI"
+     },
+     {
+      "text": "Flipkart",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIMCAISCEZsaXBrYXJ0WPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=flipkart+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIMCAISCEZsaXBrYXJ0WPSVIWAC"
+     },
+     {
+      "text": "amazon.in",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjINCAISCWFtYXpvbi5pblj0lSFgAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=amazon.in+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjINCAISCWFtYXpvbi5pblj0lSFgAg"
+     },
+     {
+      "text": "Croma",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIJCAISBUNyb21hWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=croma+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIJCAISBUNyb21hWPSVIWAC"
+     }
+    ]
+   },
+   {
+    "type": "Price",
+    "input_type": "price_range",
+    "options": [
+     {
+      "text": "Under ₹1,000",
+      "shoprs": "CAESDRILEQAAAABlzc1BGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjInCAUSDlVuZGVyIOKCuTEsMDAwGAIiDRILEQAAAABlzc1BGAEqAhgBWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+under+1000&shoprs=CAESDRILEQAAAABlzc1BGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjInCAUSDlVuZGVyIOKCuTEsMDAwGAIiDRILEQAAAABlzc1BGAEqAhgBWPSVIWAC"
+     },
+     {
+      "text": "₹1,000 - ₹2,500",
+      "shoprs": "CAESFhIUCQAAAABlzc1BEQAAACBfoOJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjI1CAUSE-KCuTEsMDAwIC0g4oK5Miw1MDAYAiIWEhQJAAAAAGXNzUERAAAAIF-g4kEYASoCGAFY9JUhYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+between+1000+and+2500&shoprs=CAESFhIUCQAAAABlzc1BEQAAACBfoOJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjI1CAUSE-KCuTEsMDAwIC0g4oK5Miw1MDAYAiIWEhQJAAAAAGXNzUERAAAAIF-g4kEYASoCGAFY9JUhYAI"
+     },
+     {
+      "text": "₹2,500 - ₹5,000",
+      "shoprs": "CAESFhIUCQAAACBfoOJBEQAAAABfoPJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjI1CAUSE-KCuTIsNTAwIC0g4oK5NSwwMDAYAiIWEhQJAAAAIF-g4kERAAAAAF-g8kEYASoCGAFY9JUhYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+between+2500+and+5000&shoprs=CAESFhIUCQAAACBfoOJBEQAAAABfoPJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjI1CAUSE-KCuTIsNTAwIC0g4oK5NSwwMDAYAiIWEhQJAAAAIF-g4kERAAAAAF-g8kEYASoCGAFY9JUhYAI"
+     },
+     {
+      "text": "Over ₹5,000",
+      "shoprs": "CAESDRILCQAAAABfoPJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjImCAUSDU92ZXIg4oK5NSwwMDAYAiINEgsJAAAAAF-g8kEYASoCGAFY9JUhYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+over+5000&shoprs=CAESDRILCQAAAABfoPJBGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjImCAUSDU92ZXIg4oK5NSwwMDAYAiINEgsJAAAAAF-g8kEYASoCGAFY9JUhYAI"
+     }
+    ]
+   },
+   {
+    "type": "Category",
+    "input_type": "link",
+    "options": [
+     {
+      "text": "Garment Steamers",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAkSEEdhcm1lbnQgU3RlYW1lcnNgAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=garment+steamers+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAkSEEdhcm1lbnQgU3RlYW1lcnNgAg"
+     },
+     {
+      "text": "Garment Care Appliances",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIbCAkSF0dhcm1lbnQgQ2FyZSBBcHBsaWFuY2VzYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=garment+care+appliances+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIbCAkSF0dhcm1lbnQgQ2FyZSBBcHBsaWFuY2VzYAI"
+     },
+     {
+      "text": "Hair Straighteners",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIWCAkSEkhhaXIgU3RyYWlnaHRlbmVyc2AC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=hair+straighteners+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIWCAkSEkhhaXIgU3RyYWlnaHRlbmVyc2AC"
+     },
+     {
+      "text": "Toaster Ovens",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIRCAkSDVRvYXN0ZXIgT3ZlbnNgAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=toaster+ovens+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIRCAkSDVRvYXN0ZXIgT3ZlbnNgAg"
+     }
+    ]
+   },
+   {
+    "type": "Wattage",
+    "input_type": "link",
+    "options": [
+     {
+      "text": "Under 1,000 W",
+      "shoprs": "CAESEioQCIqS0QMSCREAAAAAAECPQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMjQIARINVW5kZXIgMSwwMDAgVyISKhAIipLRAxIJEQAAAAAAQI9AKgIYAToJCIqS0QMQADAGWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=under+1%2C000+w+philips+gc1011+01+steam+iron&shoprs=CAESEioQCIqS0QMSCREAAAAAAECPQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMjQIARINVW5kZXIgMSwwMDAgVyISKhAIipLRAxIJEQAAAAAAQI9AKgIYAToJCIqS0QMQADAGWPSVIWAC"
+     },
+     {
+      "text": "1,000 – 1,200 W",
+      "shoprs": "CAESGyoZCIqS0QMSEgkAAAAAAECPQBEAAAAAAMCSQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSwwMDAg4oCTIDEsMjAwIFciGyoZCIqS0QMSEgkAAAAAAECPQBEAAAAAAMCSQCoWChIxLDAwMCBXIHRvIDEsMjAwIFcYAToJCIqS0QMQADAGWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=1%2C000+w+to+1%2C200+w+philips+gc1011+01+steam+iron&shoprs=CAESGyoZCIqS0QMSEgkAAAAAAECPQBEAAAAAAMCSQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSwwMDAg4oCTIDEsMjAwIFciGyoZCIqS0QMSEgkAAAAAAECPQBEAAAAAAMCSQCoWChIxLDAwMCBXIHRvIDEsMjAwIFcYAToJCIqS0QMQADAGWPSVIWAC"
+     },
+     {
+      "text": "1,200 – 1,600 W",
+      "shoprs": "CAESGyoZCIqS0QMSEgkAAAAAAMCSQBEAAAAAAACZQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSwyMDAg4oCTIDEsNjAwIFciGyoZCIqS0QMSEgkAAAAAAMCSQBEAAAAAAACZQCoWChIxLDIwMCBXIHRvIDEsNjAwIFcYAToJCIqS0QMQADAGWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=1%2C200+w+to+1%2C600+w+philips+gc1011+01+steam+iron&shoprs=CAESGyoZCIqS0QMSEgkAAAAAAMCSQBEAAAAAAACZQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSwyMDAg4oCTIDEsNjAwIFciGyoZCIqS0QMSEgkAAAAAAMCSQBEAAAAAAACZQCoWChIxLDIwMCBXIHRvIDEsNjAwIFcYAToJCIqS0QMQADAGWPSVIWAC"
+     },
+     {
+      "text": "1,600 – 2,000 W",
+      "shoprs": "CAESGyoZCIqS0QMSEgkAAAAAAACZQBEAAAAAAECfQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSw2MDAg4oCTIDIsMDAwIFciGyoZCIqS0QMSEgkAAAAAAACZQBEAAAAAAECfQCoWChIxLDYwMCBXIHRvIDIsMDAwIFcYAToJCIqS0QMQADAGWPSVIWAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=1%2C600+w+to+2%2C000+w+philips+gc1011+01+steam+iron&shoprs=CAESGyoZCIqS0QMSEgkAAAAAAACZQBEAAAAAAECfQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMlUIARIRMSw2MDAg4oCTIDIsMDAwIFciGyoZCIqS0QMSEgkAAAAAAACZQBEAAAAAAECfQCoWChIxLDYwMCBXIHRvIDIsMDAwIFcYAToJCIqS0QMQADAGWPSVIWAC"
+     },
+     {
+      "text": "Over 2,000 W",
+      "shoprs": "CAESEioQCIqS0QMSCQkAAAAAAECfQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMjMIARIMT3ZlciAyLDAwMCBXIhIqEAiKktEDEgkJAAAAAABAn0AqAhgBOgkIipLRAxAAMAZY9JUhYAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=over+2%2C000+w+philips+gc1011+01+steam+iron&shoprs=CAESEioQCIqS0QMSCQkAAAAAAECfQBgBKhxwaGlsaXBzIGdjMTAxMSAwMSBzdGVhbSBpcm9uMjMIARIMT3ZlciAyLDAwMCBXIhIqEAiKktEDEgkJAAAAAABAn0AqAhgBOgkIipLRAxAAMAZY9JUhYAI"
+     }
+    ]
+   },
+   {
+    "type": "Carousel Filters",
+    "options": [
+     {
+      "text": "Reliance Digital",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAISEFJlbGlhbmNlIERpZ2l0YWxY9JUhYAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=reliance+digital+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAISEFJlbGlhbmNlIERpZ2l0YWxY9JUhYAE",
+      "input_type": "link"
+     },
+     {
+      "text": "Flipkart",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIMCAISCEZsaXBrYXJ0WPSVIWAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=flipkart+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIMCAISCEZsaXBrYXJ0WPSVIWAB",
+      "input_type": "link"
+     },
+     {
+      "text": "On sale",
+      "shoprs": "CAESBEoCCAEYBioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjITCAYSB09uIHNhbGUYAiIESgIIAVj0lSFgAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+sale&shoprs=CAESBEoCCAEYBioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjITCAYSB09uIHNhbGUYAiIESgIIAVj0lSFgAQ",
+      "input_type": "link_with_icon"
+     },
+     {
+      "text": "amazon.in",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjINCAISCWFtYXpvbi5pblj0lSFgAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=amazon.in+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjINCAISCWFtYXpvbi5pblj0lSFgAQ",
+      "input_type": "link"
+     },
+     {
+      "text": "Garment Steamers",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAkSEEdhcm1lbnQgU3RlYW1lcnNgAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=garment+steamers+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIUCAkSEEdhcm1lbnQgU3RlYW1lcnNgAQ",
+      "input_type": "link"
+     },
+     {
+      "text": "Under ₹1,000",
+      "shoprs": "CAESDRILEQAAAABlzc1BGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjInCAUSDlVuZGVyIOKCuTEsMDAwGAIiDRILEQAAAABlzc1BGAEqAhgBWPSVIWAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=philips+gc1011%2F01+steam+iron+under+1000&shoprs=CAESDRILEQAAAABlzc1BGAEYBSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjInCAUSDlVuZGVyIOKCuTEsMDAwGAIiDRILEQAAAABlzc1BGAEqAhgBWPSVIWAB",
+      "input_type": "price_range"
+     },
+     {
+      "text": "Garment Care Appliances",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIbCAkSF0dhcm1lbnQgQ2FyZSBBcHBsaWFuY2VzYAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=garment+care+appliances+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIbCAkSF0dhcm1lbnQgQ2FyZSBBcHBsaWFuY2VzYAE",
+      "input_type": "link"
+     },
+     {
+      "text": "Hair Straighteners",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIWCAkSEkhhaXIgU3RyYWlnaHRlbmVyc2AB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=hair+straighteners+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIWCAkSEkhhaXIgU3RyYWlnaHRlbmVyc2AB",
+      "input_type": "link"
+     },
+     {
+      "text": "Croma",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIJCAISBUNyb21hWPSVIWAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=croma+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIJCAISBUNyb21hWPSVIWAB",
+      "input_type": "link"
+     },
+     {
+      "text": "Myntra",
+      "shoprs": "CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIKCAISBk15bnRyYVj0lSFgAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=myntra+philips+gc1011+01+steam+iron&shoprs=CAEYAioccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIKCAISBk15bnRyYVj0lSFgAQ",
+      "input_type": "link"
+     },
+     {
+      "text": "Toaster Ovens",
+      "shoprs": "CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIRCAkSDVRvYXN0ZXIgT3ZlbnNgAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.co.in&hl=en&q=toaster+ovens+philips+gc1011+01+steam+iron&shoprs=CAEYCSoccGhpbGlwcyBnYzEwMTEgMDEgc3RlYW0gaXJvbjIRCAkSDVRvYXN0ZXIgT3ZlbnNgAQ",
+      "input_type": "link"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,581 @@
+{
+ "fetchedAt": "2026-10-08T11:03:40.895Z",
+ "params": {
+  "engine": "google_immersive_product",
+  "page_token": "cDq9K3icbVS5rutGFhzM_MAE_oCbTPSgh-7mfi8UcJXIK5Li1iSVEGRzESVuIqkV8zX32Qbs0DbgzJjfsIP5FuthJnRwokJVHZxCnf_-7Z8fRf1rHR3W6VRsjew-M1a_ZaxiqkXnh2Hs8zOZ6_wXyHH0cwCkKYg4wAqCQP9A0jlt-qrOf2YEjmIFGjE0A5knSAnop32R5k3dFXZZFqPSk68qgIMsgk8RBtCA5xkA0Y91m1bF_3GOZ8HThYIsCwTEswyDvoz59DvayolAcejJYCDikQBZgFju31vXVpK_xr47nYvx_tuwr5t6mD5VBAII_4U0AD9Nc5G2n-qx776rhqfvz39B_9LW-U8Mx9Is4jkGAMAIkKOpL8Nl_thX357PTfGfj6r5qLuPffNRdN_36XApyR9__0btr4o8XWUnGAasuMCjJJlEOA4bEQYaLu2VIHtQ01Mft_lxb3gUHncQD-QOQIpucQSMyA8CKjxCJQPCFHTqXBwH7DQGcKmGsdRcdloCQ8X10hD38cFIN34MwoNxih4WKBSjKzCZPUBuBOa61wixdbzhiLJoDKt70WnncL1_bILZjh-a4WPxydldMLgN0SO_eCHe-KoRm1F-Dqhmdg54FSGMvMDFu-i5J9xBX2k2oRbTOdUcd6ixnryz4-PZbYQNQW65CzHOV-bNDW8xWat0GGlSHOCNQw2md8ixVwOUN_vHrhGMTLNKL-wfzqPxXKxRcecanp9fQ0UqPYUAF-cPOxpUK8o9ssJj2mqXHWV4JsjPFmXoRLVCEwhscWhWVnBkfIpcXSW4mof98yoMLlr67mPtkbVWWQRCTQ7Y9B-SY4JmYz3wYDWG7IZz44bGNaccygG8p6EmTo_7PUHY8VqDyRVsZ1CEfosfaaC5q9qQ3LV1t8NdkK7mNAtmtVg1adY0z2SkwUUB5R4HKkLwUoSQ-vY2jeXvQNSY2bMZFGyZZiNqHa614jBzh4yWu3PrsHfnFXICpJmvZeMp7nvS98e6-OMfe8_SlaVo2BBFWhrZNHADZ31YR-WaYnaDOrDDkBUy2t_Qg57LeDsrhR1WHJclMlLoy7ZIrWepIlGU1lpS3tp4TNTj-jGHWZLaoN4iWLvByXl78WzZW8qi_vaSJF5BzmOx8Hx3uxQlay-yh1RkeFHV73NIj_c7v_dO2rDrDZ5MNGMod92iiBXrdaWXwQA0p5UAKsGiWtzDTTWB1h47d408fuoW18yyzXN8s9MFSqTL7JL1010VXXmdeKKperqvLuXK0ZOTKr29iKq8FNNUUI2xGONqYrXat3axh_f92K0yXlewUNaoMt2RCGbwYGS02Bg-OUgG5YpvLyvbXm3URJQCT03USDW3vm5by-dVqaJkQU4xWZ4KJSTFq28u_5cCy9PCq7wcX_XtUmA-Q4r-DFn-M0TM4tVbWsdkPDRymT3SMW4MSbQOBHv828vXqOTTVZZF1aMqVbJvK8VTt7piTZs1b2Qxva6UbqhH14fgrgyM39DHVX6yD73jjkfnfYqljvdJ_VCUS2YXW67jLkKSn1LktSs3XhX8pepE3tIOKBFAi65DJKWHMeo372eeF4N38WT0frHenN8ZCyWRtsjNgqz3umSRRqgX9-1aGsXi5p10MgFrJxhWOKV9RqlVFuwDB8v0gXlHCtleZ1Om7xu9hCM9rObHCm2xv70WCRHy-24GmiokDZ9xC0WF7_MVredafFgCm6W-Oc0To0-2tCgd9j0bzgJJZFeig0DP0HWP1DArj8TOkKYkvTIHYi_6hibm75PE8-RqZDTjXohv68DXnm_zaopVuwi7sG43OOVdhpyji8Ag60pZbLuovJ2saFPgd1solOpA2zjrtFJAun0ekKBuraP29qLgZcWO8s0sjeQoOrrSnISUtOXE1HZ7uqtu_yc84EuH",
+  "more_stores": "true"
+ },
+ "raw": {
+  "search_metadata": {
+   "id": "6ac7788a97c19f2452896816",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/pa-hzv_p0pAN_84RXuEazgT6eXOvyhSC0nJYPYXRfwo/6ac7788a97c19f2452896816.json",
+   "markdown_endpoint": "https://serpapi.com/searches/pa-hzv_p0pAN_84RXuEazgT6eXOvyhSC0nJYPYXRfwo/6ac7788a97c19f2452896816.md",
+   "created_at": "2026-10-08 11:03:38 UTC",
+   "processed_at": "2026-10-08 11:03:38 UTC",
+   "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=iXjHasePJbyt5NoP5NesiAQ&q=philips+gc1011%2F01+steam+iron&gl=in&hl=en&cs=1&async=productid:17741770143127069994,catalogid:5973694254515699392,gpcid:9372850512829160267,headlineOfferDocid:10716211435040885012,rds:PC_9372850512829160267|PROD_PC_9372850512829160267,imageDocid:17860770316609286552,isp:true,query:philips%20gc1011%2F01%20steam%20iron,mid:576462875000591743,pvt:hg,oapvfc:EowDCswCQUppVDR0S3BCcXVYWlA1UFVfOG9CS1FIaTVmdkhJS3VrZ1Vpcy00a2xYX0JXTUU3Wk1Db09sUnEtekpVQlJ0R3l5NEdCQmc1WDRSaWVoYjJaLTY0WjJqXzN0eDJneVctS0cxc1dISl9YNkxVX3N4V1gyenFuWHhzLUtOYzFJTVA0eDZvV0xpXzdvSWVLTEJYMXduU3ltQjVGX2V2SURVZXVpc1Z1TDlLWFY4d3lkZ2lNXzduQTVtRl9Lc2RfZWVVdGMxRWxYcHE4WXFBYUVLQ3pMSjdVSi02dlhzZl9JbFNfSWozQzlSRVF3YnRJSTdwWDBfSDc0RVdzOXpENXdScGVramFvZ3JSM0duN3JIcENWM096ejlGNUk5T3cwRDUwMjhTY05Vem4yTVFzbmNfeU9icjVMTzBQM0lLNzVpNlJCRWtlRWJwd3Q3Q08SF2lYakhhc2VQSmJ5dDVOb1A1TmVzaUFRGiJBRHNyOWZUaGtabUtEeGlabllmc1BpR2U3Rkp3X21veW13,xsrf:AF5tSO52UP5lLAFnViFejt7jb4CnumQ6yQ%3A1791457417837,sori:0,mno:3,_fmt:jspb",
+   "raw_html_file": "https://serpapi.com/searches/pa-hzv_p0pAN_84RXuEazgT6eXOvyhSC0nJYPYXRfwo/6ac7788a97c19f2452896816.html",
+   "prettify_html_file": "https://serpapi.com/searches/pa-hzv_p0pAN_84RXuEazgT6eXOvyhSC0nJYPYXRfwo/6ac7788a97c19f2452896816.prettify",
+   "total_time_taken": 4.42
+  },
+  "search_parameters": {
+   "engine": "google_immersive_product",
+   "page_token": "cDq9K3icbVS5rutGFhzM_MAE_oCbTPSgh-7mfi8UcJXIK5Li1iSVEGRzESVuIqkV8zX32Qbs0DbgzJjfsIP5FuthJnRwokJVHZxCnf_-7Z8fRf1rHR3W6VRsjew-M1a_ZaxiqkXnh2Hs8zOZ6_wXyHH0cwCkKYg4wAqCQP9A0jlt-qrOf2YEjmIFGjE0A5knSAnop32R5k3dFXZZFqPSk68qgIMsgk8RBtCA5xkA0Y91m1bF_3GOZ8HThYIsCwTEswyDvoz59DvayolAcejJYCDikQBZgFju31vXVpK_xr47nYvx_tuwr5t6mD5VBAII_4U0AD9Nc5G2n-qx776rhqfvz39B_9LW-U8Mx9Is4jkGAMAIkKOpL8Nl_thX357PTfGfj6r5qLuPffNRdN_36XApyR9__0btr4o8XWUnGAasuMCjJJlEOA4bEQYaLu2VIHtQ01Mft_lxb3gUHncQD-QOQIpucQSMyA8CKjxCJQPCFHTqXBwH7DQGcKmGsdRcdloCQ8X10hD38cFIN34MwoNxih4WKBSjKzCZPUBuBOa61wixdbzhiLJoDKt70WnncL1_bILZjh-a4WPxydldMLgN0SO_eCHe-KoRm1F-Dqhmdg54FSGMvMDFu-i5J9xBX2k2oRbTOdUcd6ixnryz4-PZbYQNQW65CzHOV-bNDW8xWat0GGlSHOCNQw2md8ixVwOUN_vHrhGMTLNKL-wfzqPxXKxRcecanp9fQ0UqPYUAF-cPOxpUK8o9ssJj2mqXHWV4JsjPFmXoRLVCEwhscWhWVnBkfIpcXSW4mof98yoMLlr67mPtkbVWWQRCTQ7Y9B-SY4JmYz3wYDWG7IZz44bGNaccygG8p6EmTo_7PUHY8VqDyRVsZ1CEfosfaaC5q9qQ3LV1t8NdkK7mNAtmtVg1adY0z2SkwUUB5R4HKkLwUoSQ-vY2jeXvQNSY2bMZFGyZZiNqHa614jBzh4yWu3PrsHfnFXICpJmvZeMp7nvS98e6-OMfe8_SlaVo2BBFWhrZNHADZ31YR-WaYnaDOrDDkBUy2t_Qg57LeDsrhR1WHJclMlLoy7ZIrWepIlGU1lpS3tp4TNTj-jGHWZLaoN4iWLvByXl78WzZW8qi_vaSJF5BzmOx8Hx3uxQlay-yh1RkeFHV73NIj_c7v_dO2rDrDZ5MNGMod92iiBXrdaWXwQA0p5UAKsGiWtzDTTWB1h47d408fuoW18yyzXN8s9MFSqTL7JL1010VXXmdeKKperqvLuXK0ZOTKr29iKq8FNNUUI2xGONqYrXat3axh_f92K0yXlewUNaoMt2RCGbwYGS02Bg-OUgG5YpvLyvbXm3URJQCT03USDW3vm5by-dVqaJkQU4xWZ4KJSTFq28u_5cCy9PCq7wcX_XtUmA-Q4r-DFn-M0TM4tVbWsdkPDRymT3SMW4MSbQOBHv828vXqOTTVZZF1aMqVbJvK8VTt7piTZs1b2Qxva6UbqhH14fgrgyM39DHVX6yD73jjkfnfYqljvdJ_VCUS2YXW67jLkKSn1LktSs3XhX8pepE3tIOKBFAi65DJKWHMeo372eeF4N38WT0frHenN8ZCyWRtsjNgqz3umSRRqgX9-1aGsXi5p10MgFrJxhWOKV9RqlVFuwDB8v0gXlHCtleZ1Om7xu9hCM9rObHCm2xv70WCRHy-24GmiokDZ9xC0WF7_MVredafFgCm6W-Oc0To0-2tCgd9j0bzgJJZFeig0DP0HWP1DArj8TOkKYkvTIHYi_6hibm75PE8-RqZDTjXohv68DXnm_zaopVuwi7sG43OOVdhpyji8Ag60pZbLuovJ2saFPgd1solOpA2zjrtFJAun0ekKBuraP29qLgZcWO8s0sjeQoOrrSnISUtOXE1HZ7uqtu_yc84EuH",
+   "more_stores": true
+  },
+  "product_results": {
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNsI-vonCkbhnR3j9H_yoU3Kzbc6ibIWgCYFdgLSidm3-LFaN4XwP5B86dmLvQf5367Ad6re8ImeHnbILkxkWAGNipRuGTnN2EhNoW_4oORf1D7GPmuVi6fOcp",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7rG7XNWS6oFEF4udvFjIxhLUo71KPVJaIOWajHGVmtZ5JECQJ85eMli6RP5XAkyiZYQ13cKtrrezk2_Qiy5r9NZ41IBTBACEsq9CT4Q0FdqdGdRANQMHuTg",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ09ZGlzbzu1sLuL-hcCN3OHadvJjh0ncNPkSwRXYTmGOQHVnFFfVq86ZSHi_LpcsgIZhR2V4U2QuFco6TOvXZbNziXdXeWS7nLeLmigchFiscDV0R6-Y5V",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXuHLKIhxi5Xxvz98DZWbYsUuaCAAoykiu15N5Cn-tVsbywSUNyo_LqiuADQic830phcfzfhDMHXncLLhHTR6fdKLipk9UppLoVrJEUtotFTPxlav-00d1",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGJuPVVyoIB_yuQ35hmjTSUiNgT7dlSXzPJyVuLreHRI4t2hi5J1AwNUn-cU1xMvR0pyDRGYTQyVLLEJXvqVUy90QO-55yPdFSXSywi4lCCPAXuBY3aaiE1Q",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSK6u701HHqk-w2QUpt3DnEJ-6WgmMWDi7-lqZ2JCxM7OrLh5SqSCmmAjo7Wm48yHdCyvY6kAlP6y8lrc9ST-YbOwN7HTe3",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXFy9BEjaacZuUgT7jzvBLq6fWWDeBhot_uD1vjq8RCPma0NGBV4FP1qmWFQx5EelscgZHYvUYYDoMoyDe7DfaIpFO98rR4A",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIAfVsAEmOjq40bfYNt4sX89rmImkMzJWsNv30Y7xufCcuoFTOcMRMQvpuw1Jv1cEvmbxeJQR2rx3oh-wuq9HTxhRd36RSKncLyK5PMxRz1CTiMZex0abIQg",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRp-X2z8Qka8ES0d7wYJQ2iZ9r780zmoevkLW0ZarEsBJ9sP-Upy3AKM9IA710pRbFs_KsXITai7-WrffSdXuGS_JRTPlz4Xr4MyPNnnRnWK_7CiuJt_rBGgg",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgl8kHMWwbKPRnRi2VVC5IoCG1OwTN7NaO0nwl_fk5zIlFRG4zrd3TxseZTsH9g9AuFZQ_-JWT6pWRSYqIjJHydPJTeRqZyHhTVlCLirkwZzKnD7SY9Ab0",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFH7_N-8RlpIlYcOrSDvOjJfJQwH1r5Fx88XAeiAPEn-PniNrwJda9G-hAgLV3p85VIx6FVuPV_-MCqtwifXWQlyaCgDBwzlpxvQDWRDn1_9W2rYFxv9Zk"
+   ],
+   "title": "Philips GC1011/01 1200 W Steam Iron",
+   "brand": "Philips",
+   "reviews": 33,
+   "rating": 4.4,
+   "price_range": "₹1,000-₹1,399",
+   "stores": [
+    {
+     "name": "Amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/PHILIPS-Plastic-01-Linished-Soleplate/dp/B000E5LE3S?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AXOGFIT0PZZ7G",
+     "title": "Philips Steam Iron GC1011/01 with 1200 Watts power, linished soleplate, up to 15 g/min of steam",
+     "tag": "Best price",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery"
+     ],
+     "price": "₹1,179",
+     "extracted_price": 1179,
+     "shipping": "Free",
+     "total": "₹1,179",
+     "extracted_total": 1179
+    },
+    {
+     "name": "Zepto",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.zepto.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.zepto.com/pn/philips-appliance-steam-iron-gc101101-1200-w-linished-soleplate/pvid/0d329779-05ab-49b8-b65f-f6aa38c0f7fb?srsltid=AU7gw4VCHugSc4dCHmsDsDkryEUSwgF5VcOfL3Taa62LezVQQQwRFG82nh8",
+     "title": "Philips Appliance Steam Iron GC1011/01 | 1200 W | Linished Soleplate",
+     "details_and_offers": [
+      "In stock online",
+      "Free 10 min delivery"
+     ],
+     "price": "₹1,199",
+     "extracted_price": 1199,
+     "shipping": "Free",
+     "total": "₹1,199",
+     "extracted_total": 1199
+    },
+    {
+     "name": "Flipkart",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.flipkart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.flipkart.com/philips-gc1011-01-1200-w-steam-iron/p/itm2e021fbf2ef41",
+     "title": "PHILIPS by Philips GC1011/01 1200 W Steam Iron",
+     "rating": 4.1,
+     "reviews": 1839,
+     "details_and_offers": [
+      "In stock online"
+     ],
+     "price": "₹1,399",
+     "extracted_price": 1399,
+     "total": "₹1,399",
+     "extracted_total": 1399
+    },
+    {
+     "name": "Myntra",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=http://www.myntra.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "http://www.myntra.com/Irons/Philips/Philips-GC-1011-Blue-Plastic-Temperature-Control-Steam-Iron-1200W/23493944/buy",
+     "title": "Philips GC 1011 Blue Plastic Temperature Control Steam Iron-1200W (Onesize) by Myntra",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Sun–Tue",
+      "14-day returns"
+     ],
+     "price": "₹1,199",
+     "extracted_price": 1199,
+     "shipping": "Free",
+     "total": "₹1,199",
+     "extracted_total": 1199
+    },
+    {
+     "name": "Instamart",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://instamart.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://instamart.in/p/philips-gc1011-01-steam-iron-linished-soleplate-1200w-blue-white-FQ8T783PX0?locId=31322e39323734373135372c38302e313934393437383930&srsltid=AU7gw4UzJQdfe76jT1ppSLCgi2mw1AU9w8jOzUf8ccOo4FurHDWr_z_34LM&region_id=32352e36323234303932382c38352e313233333233383830",
+     "title": "Philips Gc1011/01 Steam Iron; Linished Soleplate; 1200W (Blue & White)",
+     "details_and_offers": [
+      "In stock online",
+      "Free 10 min delivery"
+     ],
+     "price": "₹1,179",
+     "extracted_price": 1179,
+     "shipping": "Free",
+     "total": "₹1,179",
+     "extracted_total": 1179
+    },
+    {
+     "name": "Aajjo.com",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aajjo.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.aajjo.com/product/philips-steam-iron-in-new-delhi-plaza-enterprises",
+     "title": "Philips Steam Iron",
+     "rating": 4.4,
+     "reviews": 17,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "Final sale"
+     ],
+     "price": "₹1,000",
+     "extracted_price": 1000,
+     "shipping": "Free",
+     "total": "₹1,000",
+     "extracted_total": 1000
+    },
+    {
+     "name": "addmecart",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.addmecart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.addmecart.com/shop/home-electronics/iron/philips-gc101101-1200-w-steam-iron-blue",
+     "title": "PHILIPS GC1011/01 1200 W Steam Iron (Blue)",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "3-day returns"
+     ],
+     "price": "₹1,349",
+     "extracted_price": 1349,
+     "shipping": "Free",
+     "total": "₹1,349",
+     "extracted_total": 1349
+    },
+    {
+     "name": "Velan Store",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velanstore.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://velanstore.com/products/philips-steam-iron-gc1011-01-with-1200-watts-power-linished-soleplate-up-to-15-g-min-of-steam?currency=INR&country=IN&variant=46987036819683&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=14bb3478a606&srsltid=AU7gw4XLFYQW9dRfoqCbOfrwW6Jn0sjlqy-edGkUj8UGmOgq-nXDBrJxN9o",
+     "title": "Philips Steam Iron GC1011/01 with 1200 Watts power, linished soleplate, up to 15 g/min of steam",
+     "rating": 3.4,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Delivery between Sun–Tue ₹40",
+      "10-day returns"
+     ],
+     "price": "₹1,239",
+     "extracted_price": 1239,
+     "shipping": "+ ₹40",
+     "shipping_extracted": 40,
+     "total": "₹1,279",
+     "extracted_total": 1279
+    },
+    {
+     "name": "Nuevo Gadgets",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nuevogadgets.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://nuevogadgets.com/products/philips-steam-iron-gc101101-with-1200-watts-power-linished-soleplate-up-to-15-gmin-of-steam-b000e5le3s?srsltid=AU7gw4VfuKckb3mG0bEgMwDrqdhEnBL-PBc3RIosHvrHkcPrwLWs_oS5Sew",
+     "title": "Philips Steam Iron GC1011/01 with 1200 Watts power, linished soleplate, up to 15 g/min of steam-B000E5LE3S",
+     "rating": 3.7,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Sat–Wed"
+     ],
+     "price": "₹1,249",
+     "extracted_price": 1249,
+     "shipping": "Free",
+     "total": "₹1,249",
+     "extracted_total": 1249
+    },
+    {
+     "name": "Desertcart.ae",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desertcart.ae&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.desertcart.ae/products/75918275-steam-iron-gc1011-01-with-1200-watts-power-linished-soleplate-up-to-15-g-min-of-steam",
+     "title": "Steam Iron GC1011/01 with 1200 Watts power, linished soleplate, up to 15 g/min of steam",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 16–22 Oct"
+     ],
+     "price": "₹3,347.04",
+     "extracted_price": 3347.04,
+     "shipping": "Free",
+     "total": "₹3,347.04",
+     "extracted_total": 3347.04
+    },
+    {
+     "name": "Shopsy By Flipkart",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.shopsy.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.shopsy.in/philips-gc1011-01-1200-w-steam-iron/p/itmd102f3062c735?pid=IRNEKZ3GZHMWUF4Y&lid=LSTIRNEKZ3GZHMWUF4YYYUEQH&marketplace=FLIPKART",
+     "title": "Philips By Philips Gc1011/01 1200 W Steam Iron",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 13–15 Oct",
+      "3-day returns"
+     ],
+     "price": "₹1,399",
+     "extracted_price": 1399,
+     "shipping": "Free",
+     "total": "₹1,399",
+     "extracted_total": 1399
+    },
+    {
+     "name": "Flipkart",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.flipkart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.flipkart.com/philips-gc1011-01-1200-w-steam-iron/p/itmd102f3062c735?pid=IRNEKZ3GZHMWUF4Y&lid=LSTIRNEKZ3GZHMWUF4YYYUEQH&marketplace=FLIPKART&cmpid=content_iron_8965229628_gmc",
+     "title": "Philips By Philips Gc1011/01 1200 W Steam Iron",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Sat–Tue",
+      "10-day returns"
+     ],
+     "price": "₹1,399",
+     "extracted_price": 1399,
+     "shipping": "Free",
+     "total": "₹1,399",
+     "extracted_total": 1399
+    },
+    {
+     "name": "Instamart",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://instamart.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://instamart.in/p/philips-gc1011-01-steam-iron-linished-soleplate-1200w-blue-white-FQ8T783PX0?locId=31392e303137333733352c37332e31303132333633323030&srsltid=AU7gw4ULDuV9hH_TuHYCFaaij_3YbcJlg8hHfohLFZq8wrUqihrSGRojk6o&region_id=32352e36323234303932382c38352e313233333233383830",
+     "title": "Philips Blue & White GC1011/01 Steam Iron, Efficient 1200W Power, Adjustable Temperature Settings | godrej service centre refrigerator fridge videocon",
+     "details_and_offers": [
+      "In stock online",
+      "Free 10 min delivery"
+     ],
+     "price": "₹1,199",
+     "extracted_price": 1199,
+     "shipping": "Free",
+     "total": "₹1,199",
+     "extracted_total": 1199
+    }
+   ],
+   "stores_next_page_token": "s5Bo43ica15aklmSk3pTOSAjMyezoFjB3dnQwNBQ38BQwdDIwEAhXCG4JDUxV8GzKD9vSXF-USbv4ty8fC4AGW8Srg",
+   "about_the_product": {
+    "title": "Shop Philips 1200W Steam Iron - GC1011/01 Online",
+    "link": "https://www.domesticappliances.philips.co.in/products/philips-gc1011-01-1200-w-steam-iron",
+    "displayed_link": "domesticappliances.philips.co.in",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.domesticappliances.philips.co.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "description": "Please wait for some time for the iron to heat up. Only then you can use the steam function effectively. If the iron is not heated enough and steam function is used, it will lead to water leakage Linished soleplate for easy gliding on all fabrics Continuous steam of 15 gram per minute Thin soleplate for better heating Vent design for uniform steam Calc clean to prevent your iron from scale build up Please wait for some time for the iron to heat up. Only then you can use the steam function effectively.",
+    "features": [
+     {
+      "title": "Type",
+      "value": "Steam Iron"
+     },
+     {
+      "title": "Highlighted Features",
+      "value": "Steam Iron"
+     },
+     {
+      "title": "Steam Output",
+      "value": "15 grams per minute (Continuous steam)"
+     },
+     {
+      "title": "Soleplate Material",
+      "value": "Linished, aluminium"
+     },
+     {
+      "title": "Wattage",
+      "value": "1200 W"
+     },
+     {
+      "title": "Color",
+      "value": "Blue"
+     },
+     {
+      "title": "Safety Features",
+      "value": "Calc clean to prevent scale build-up"
+     }
+    ]
+   },
+   "ratings": [
+    {
+     "stars": 1,
+     "amount": 2
+    },
+    {
+     "stars": 2,
+     "amount": 0
+    },
+    {
+     "stars": 3,
+     "amount": 2
+    },
+    {
+     "stars": 4,
+     "amount": 7
+    },
+    {
+     "stars": 5,
+     "amount": 22
+    }
+   ],
+   "reviews_images": [
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTx8RTCbKz8ypm_2HVu5MZhuzzeASsMrzzHVcNFo9nF8i40oEf_rjtVzqKeVN3h9ZmP_kBsI49BV2znCK8stSDyCIvzyOLNsg",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcaTPADADMl1Z4byLpWwqlnTg3wg-ZMHxpyagIRZ2iFTi1BZNwTptR1HMcxh6YrY8vtk_KlxelnxMVteBUaR2g40MfmLCp",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_eRGFZxVfKBUDd5deHdh9wsxQhRCFU992YQemiMIH6Nu8ZbeHx5nmLZHuuK_n7A51Ia56dtyp2ZJdX_1Bkcy-wQ7-nR_L",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMkZEzTehjxgh9LP0tDJ7-OYWHvn8ruaFKBBjof677vIXKtcKLBUjdcLBqtiEI6xrbPBHRbcK-0gdsfSxnaD0-pPQHMfe1",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSA6osn38uIlGQTC_2VGzX3Ah92R6okWFHq_kfay6kk6efTULtgfNx6KypPGcWCh5Db2XyML7bkX2bZHAbeRnexbOJrCaLf",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTst3LIOW1Da413OIdLOUgcSPJIXy-NjglYWDBjeN6ECWbwpUcQuW2fL8CaQeZ47sZR-oKHnYJ0ae8dSkUjRZB6Yv7080kM",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQA3BzTmUAfzoS7byUzjNeCdfWTXd4jujFiNG8zWYowc_xu23gk4KvWhZIR4S1QN2VkP9Fnl436DwOkVD-c6OZpn_cNrqwMIg"
+   ],
+   "user_reviews": [
+    {
+     "text": "Superb quality .No other brand can beat philips",
+     "source": "myntra.com",
+     "rating": 5,
+     "date": "11 months ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc"
+    },
+    {
+     "text": "Very good and nice product.",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/23493944",
+     "rating": 4,
+     "date": "10 months ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTx8RTCbKz8ypm_2HVu5MZhuzzeASsMrzzHVcNFo9nF8i40oEf_rjtVzqKeVN3h9ZmP_kBsI49BV2znCK8stSDyCIvzyOLNsg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcaTPADADMl1Z4byLpWwqlnTg3wg-ZMHxpyagIRZ2iFTi1BZNwTptR1HMcxh6YrY8vtk_KlxelnxMVteBUaR2g40MfmLCp"
+     ]
+    },
+    {
+     "text": "Product is not as per the expectation",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/23493944",
+     "rating": 1,
+     "date": "2 years ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_eRGFZxVfKBUDd5deHdh9wsxQhRCFU992YQemiMIH6Nu8ZbeHx5nmLZHuuK_n7A51Ia56dtyp2ZJdX_1Bkcy-wQ7-nR_L"
+     ]
+    },
+    {
+     "text": "Excellent productgo for it",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/23493944",
+     "rating": 5,
+     "date": "2 years ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMkZEzTehjxgh9LP0tDJ7-OYWHvn8ruaFKBBjof677vIXKtcKLBUjdcLBqtiEI6xrbPBHRbcK-0gdsfSxnaD0-pPQHMfe1"
+     ]
+    },
+    {
+     "text": "Osm product",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/23493944",
+     "rating": 5,
+     "date": "a year ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSA6osn38uIlGQTC_2VGzX3Ah92R6okWFHq_kfay6kk6efTULtgfNx6KypPGcWCh5Db2XyML7bkX2bZHAbeRnexbOJrCaLf",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTst3LIOW1Da413OIdLOUgcSPJIXy-NjglYWDBjeN6ECWbwpUcQuW2fL8CaQeZ47sZR-oKHnYJ0ae8dSkUjRZB6Yv7080kM"
+     ]
+    },
+    {
+     "text": "Very useful",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/23493944",
+     "rating": 5,
+     "date": "2 years ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQA3BzTmUAfzoS7byUzjNeCdfWTXd4jujFiNG8zWYowc_xu23gk4KvWhZIR4S1QN2VkP9Fnl436DwOkVD-c6OZpn_cNrqwMIg"
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "title": "philips steam iron gc 1011 how to use | philips comfort 1000 review",
+     "link": "https://www.youtube.com/watch?v=GYX-CSAE8T8",
+     "source": "YouTube",
+     "channel": "Tech Travel Explainer",
+     "duration": "1:33",
+     "thumbnail": "https://i.ytimg.com/vi/GYX-CSAE8T8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lKxwvIb_MbVybpvs2UmIwsENh9zA"
+    },
+    {
+     "title": "Best Steam Iron Philips GC1011 Unboxing & Review",
+     "link": "https://www.youtube.com/watch?v=9_WnHz22oD8",
+     "source": "YouTube",
+     "channel": "MJ Tube",
+     "duration": "2:17",
+     "thumbnail": "https://i.ytimg.com/vi/9_WnHz22oD8/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kOBJ5nZrMWlp9xVHjY8be5sdFpjA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSQcxVRPJQcbaCNfVnL-FczJ7Cmrue5Xv_J0Q"
+    },
+    {
+     "title": "Watch philips steam iron GC1011 on Amazon Live",
+     "link": "https://www.amazon.in/live/video/183944b3bd134276bd9414176a2f3165",
+     "source": "Amazon.in",
+     "channel": "Priyanka Vikas",
+     "duration": "1:07",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7m1hw1z1cUKqaQlKlz71v4IsU5asWM7Uzli7EHAjIH4zkCw&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTvuCp0-1kSaT319BKb1XhFjhwFgB2sXkILQg"
+    },
+    {
+     "title": "philips steam iron how to use",
+     "link": "https://www.youtube.com/watch?v=Th-hdzMf3_c",
+     "source": "YouTube",
+     "channel": "Tech Travel Explainer",
+     "duration": "8:04",
+     "thumbnail": "https://i.ytimg.com/vi/Th-hdzMf3_c/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lATJdGwcSm2c0-_hV626ugie8FfA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBjEI3-1vR0NlgA3-6e2E1zGlOyECdqLcB8g"
+    },
+    {
+     "title": "philips steam iron gc 1011 how to use",
+     "link": "https://www.youtube.com/shorts/Dj6rLHCjBws",
+     "source": "YouTube",
+     "channel": "Tech Travel Explainer",
+     "duration": "0:42",
+     "thumbnail": "https://i.ytimg.com/vi/Dj6rLHCjBws/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3nLOqccaxx0rSQhZB4g9TJc108R6A",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSGS8ElGNbrCcuYzgjxyfkcpfslMrg2YLzIRw"
+    },
+    {
+     "title": "Philips GC1011/01 Review in Hindi",
+     "link": "https://www.youtube.com/watch?v=pd5zspVCPGI",
+     "source": "YouTube",
+     "channel": "Anupriya Vlogs ",
+     "duration": "6:26",
+     "thumbnail": "https://i.ytimg.com/vi/pd5zspVCPGI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mBhMpHad3TOqb3XhNK6HMASVfdsQ",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSDlA9G5meHLHpkvwGC8rgQ4Pgw2JqhE6bcrg"
+    },
+    {
+     "title": "Philips Iron Box Gc1011 Unboxing|1200W",
+     "link": "https://www.youtube.com/watch?v=FCuYMEFxeH0",
+     "source": "YouTube",
+     "channel": "MA TECH",
+     "duration": "2:50",
+     "thumbnail": "https://i.ytimg.com/vi/FCuYMEFxeH0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lnc6SQ1AT4mM3zS8GYCjjLOr14vA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQhSHj6ngwIsIW5p8TDu_AJ6Ji6a2cYt9Icpg"
+    },
+    {
+     "title": "philips comfort 1200 watt steam iron",
+     "link": "https://www.youtube.com/watch?v=J1N8aObVjAI",
+     "source": "YouTube",
+     "channel": "Creative Exposure",
+     "duration": "1:14",
+     "thumbnail": "https://i.ytimg.com/vi/J1N8aObVjAI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nP4AUna3-ViuaPy0ygfJie1VR6VQ",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSRRY93cIjQiU17r09iLynbmDrs8spECb-ifA"
+    },
+    {
+     "title": "Philips GC1011 1200-Watt Steam Iron Unboxing-Hindi",
+     "link": "https://www.youtube.com/watch?v=QuFdQQC62Fw",
+     "source": "YouTube",
+     "channel": "Tech Best of Best",
+     "duration": "5:57",
+     "thumbnail": "https://i.ytimg.com/vi/QuFdQQC62Fw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lagRjTFsh5LtXZyFKL-E3ICOAz5A",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS94vPxfihDtMBiDAcJmJlUWnMcGJ6xK7Cjxg"
+    }
+   ],
+   "more_options": [
+    {
+     "title": "Philips GC1905 Steam Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBEWbA3MtXEapMA3MxywRiYtTFMxQeYwbnsvUSfrl8qTfkJbupTNwKhppbRI0_RELhKm6AKtBo1tkzhx1rqGPXvQh1kkEHrZ9VRjNJN6364JFZpFcSZO6k2A",
+     "price": "₹1,599",
+     "extracted_price": 1599,
+     "reviews": 113,
+     "rating": 4.4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f4TAG3icdVXJzqvIGY2SF8gir3BXV76qYjL0jqEwYBvMPGwQM5jRgA1Y_SBZ_zfdUmfZHSm7KK_RvcizxL69TRalUn3nG47O-aT6zx_-_JFV_6y8qxRN2UWJt5lU-wupZlPF6j8NY5_ek7lK_wH3e-J1ACRwiO0BxTAM8VMSzVHTF2-YxgkaQpIC5AtnKAhw8HOZRWlTdZmW59ko9Mk771VIvHIATVMMsd_j9J76e9VGRfYN_wUSFE3TJNgDBqdwACiS-Tqm06_EhQ8hhAACjKQZDMMxEjCvMd9fDE0I_w_4w-2ejdu_hrJqqmH6XCSvFPgJEwH8PM1Z1H6uxr77oRi-Efsf9V_bKv2Z3FMEhdEUtadJioEETX4dHvNHWXwUzUfVfZTNR9b92EfDI09---NfUL8I_LTwuj0MjmAAEzKy7xha6gbwLDarg-jNbppb2ilXD3JripwgBfpT7WzSw5pNk1TkCoFvIWgZeL1lV7GOXbJLkTienwEw8aYLWmIx3eAaHwhgSYptPY1bbKtDciDvrj1UkRPwKprW6KCuidSDrC1Wp2bWsyTOOkZOVgXdGKkXEzizigLHdQ0_woMtrlPOA-IY4c0x9hpLv7KLXw-E4yZbVKfAbPRFbx3gHiDlA1GzkeEHtvqI3KYP2lU-t8YcPZXBvhqV8-QMux0Olhe06kHHjRYqcVcuicgcPVjPqmQsUct4ztO5aVLqJ2hZTl5Tmk7JW-4QRFhz0g6O77YTDBx2i21SSDyn1B3G9ZsEP9kJtFFzzBDCo1p5WHjgmHajvTReLBcQKgy4pFOq1F5X1RHroA1KVyyI84GpHRAsulVWtqRQTqsYyZUzLDwlLFgebOSbIjbIUV2WCQ9XC3fuhqRAw2FXD1eIMxKvh0rhDEndNDcwHdCsKSxX-6q0qifjQcPImq1srugMjucDtwm4v63TmP8KWJGcTY049qkWnVI5ONa3SyDVbuaPBhWII1N8B_evDSP3BAYxmv4x6fu6yn77019NVRY-4QKraBDzxMjTCGDYunSVvFzCyWBAAzUMccZj5Yo9iTn3L7OQaW6x38chjwnE45JFKg4pj2U5SQzztfXHENXSc3bjMNJAdcFgZdg3_RPOfTY13nwN41n5_QpDM0vuY7YzLePy5sCpJUtdI5akWSRvs0uM20aX5k0cgl6hk4kgFWGTVTxRfbkq5NwegKi3HMBysCt2m3sqJtBqY2dImElP3W6JVe1891ct2mEh95iNRPrGArEGL4Ume0ambKE3oUKXwxvi3iiL-DeXKGKQMmajX0yUWFlq4L_Wpx-7Q0zLgsPkFVacjTFhzvaT5LHdSbFeViu4wb57HDTtcEIhy9kmCpGHzhdL1tRX229a41lOgRQn4zRicphkn3DWOr_ivztE0QTzirxJjK9bfivDkF8gTnyBFP0FYuTuFX7LqNbheG34PH5Go98oHKteE8ek3wR-N5W_LTzPIhMvEKetB8FEF1lQp5NEK7FPSIXQDdVoWBBswkBaDVEf0pt27XVjrPXj5HMdbSXVUxAesZZd9t3-wYTpLcLM9mD4h4x-FB1Lq-IVCxnQYsvgcdF19PrT8U7TrH1kb0pvZdLpfiRVLPTEXXrOEqmUOTVpmGq3XSRuZLPVvMnJBNSAUVR3ivoYR0Vsl7bu8MSVPGJCclnmM09sJzmHIzEc5ucBuzjWZcnChEm3YAYiYsKGjvc7AcHjvGDSXLFPlaHiyDpP80TKk8btcp06xsOdSULe4AjblmNsKTHkxnmdaDEmCmEvzDbbs5Yisulx4mg6WZSYII1HYmkysERbdJYzW7Q7t3Or9uREtEEmd-_BkJi64CrV7goz4AVxsq3uApkcDYTmxJ2YM5is3QeMQRe1Ft_uCM7LnIIa-fWcK2HN6rLQ3JgoafOJrLT2tiGjf_0E-b__Cyw-Vx8"
+    },
+    {
+     "title": "Philips Gc1022 Steam Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8u6LT00ET2kZK73AJzBzQq0OCVlLZfvry-ACtV4ri1FKojLxF98_2yOsKzSZxCXiOmWF8SpY_KTnmLPR0PlFxqHrvMwPjH-TxulW23qGmtz47hctW7jEBHw",
+     "price": "₹2,669",
+     "extracted_price": 2669,
+     "reviews": 134,
+     "rating": 4.2,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UD6b2XicdZXL7qPIFcaj5AWyyCv0quUWVVAYZsfVgA2YSxXgDeJ-sbEx4AvWPEjW_86MNFnORMouymvMLPIswdPbZFEq1fnOKX51PlXxnz_8-aNo_tmErZaMxd5I5wlZlz2yirERnJ_64ZLfsqnJ_wHWa2YZFGBoANcUy_M881OWTMnpUjX5L4CHaxpyFEOtAY0QQ_Pw57pI8lNzLuyyLAb5ki1pPOAouIY8xzIsvRRACvy96ZKq-CYvKkA0w6wpnqIQ4niG_Trk46_MXooBs14qEII8zbFwQYE8-_3eteX4_4g_XG_FMP-rr5tT04-fqwxQAHyCKgU-j1ORdJ-b4XL-oeqz9-n-R_3Xrsl_RuuFFCIK0twi0Gue-trfp4-6-qhOH835oz59FOcfL0l_L7Pf_vgX5fKQpfEhObjviexS3lGnXQwuESRehI2j2elwF9bbCB7oQD1oeAasB3MzIQJIFdS6LaEzjF5WK5bR8UD7M6AzxQ2KVmAcIt522Orys0Cb4ERCYCU-Hie8ISxuc-BSbuK_xMSCpzFTcs0EIk5akcbAmLNjjz2SO1lo3AiJXhnpW_PlEgujnd_1CW4tzVNVG8vqGGC-w5S19V4nFQdTkGnivQiMWxQgr1AOO1NVd_hsae7LeVqv3Ck2NToQviZ-hQ6bbHbxhDHJ2xDUG09zH0WAmoNfiy5Es0NZSUqddPMIXrls2ZHvaulJdLFfdya2dMc3WDOoZRwg6nAmAL9EJ-tyw9xUwIEqspRcikjuhhQg6WvJCFAXbPoka0_hAZLZpPgyO9aBG1bQpGvR146zCeqXLddRrjxPaZAPwQaD_Hg4erAWLTo3iwZ0hdpfdqTfEax7Kuz15FjXmQSePk1urmYAlwjPkDYYU1HbTWOIrmbNdnBwLUK2i29OFFqKFxLi0WS_5J8D4hKiVoxPrPPfnuNQ_koJKpo8G2lrQ4g73EPp6RvCrkg95ZDotKkC4Tuw5gGD1gwEkON_zC6XY1P89qe_epYuf6JlwbABDNUktBnKxY7WamGp0ejQKz3b92khwfoJX8xURvtJLuygWq_TWIIyc98XiUUDNhQEUVPj8tlFQ6wctdcUpHFiU80egsbFV-cTLX72bMlbPiYJ-nsVx16R3YZi5fnu_s0gWrXAtomAOEHR5ylghnnmau-q9oeLwWUjgwx51i06syK9qfQS95TqdCIFS2pVreZgV41UZw9nV4MeN55Xj9SyzVv0tJMVjMX75Gba7xSK4Epa7Amm4um-8gaqHD2-KuJbFRTpzZIkvGIMxRBVI6s2vnWIPFJfhvMm5XSZ8GUDK9MdMt7ELyTB1c7ws1Y0aFd477Gx7c1OiQURe0qshIq593XbWrb9vdd0UbJUTqM0T_gSZMUnWvDNJf7NIZZj-CXyhhiWWX93hkdfAM18ASz3BUC0WsLvNlrHeGhPUpm-kiE6GaJgtRnxuDfAN1Ol60OSBMWjK0W0nxvZU_a6bI07jTPSiNEq-dw3g-sDapZ75J-Y4ya_2u3FcYejsx0j8cz5WfOS5XtqF_v1eX3n4_yaQK_buNGm4O7VWeAstYUxT3Xw0Ydi0g7hZbe9cZyAt8LVuPiFtrttkQXjUF0ttyHTal20shPfrOa9Jg5C8fSuejZS1oE3rGBMLimtVCmusUMkpkVbKGf7x2RKzLzTSzAw_WZ6beCe-PtHEWd8Ph8mSlX4-MSl65WsgO30gNrUCC-LZ9PEN8dpRPpoi6vSYbdpf-OzWHJFBmM9hY8aKkFaHjM7haocX-QJCxfBN1Qh344ix2UPI2WQe898W6d8FavkYQpVtwrOQdPtSMK5KLuFdx5B60FbbLeqvIO0vHHYP-8BXyo9Y5P0rJY81O1bD3llbx3VtzsyWcyp2EF6mqURHwVHl09XPsm6ckSN3V1nxb0sf4Ly3_8FCPpRxw"
+    },
+    {
+     "title": "Philips Heavy Weight Dry Iron 1000 W",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSL4-D678_VxI-hfetnogLoEE80JaZ6nHkNrCOUX2z4wo3pmN4NSV6HEtuPGTWUo3QXPcijhsR9DTAHJNb8x7qvjNh5I7Yjg7qFmhR0tqY7G6FcFd-O6Rbs",
+     "price": "₹1,549",
+     "extracted_price": 1549,
+     "original_price": "₹1,699",
+     "extracted_original_price": 1699,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TsJ8X3icJVRJrqzIFbXlDXgTf_SVX0TQe0YTJPCSIOkTJogekjaBbFdSQ-t9V0nlYdmSZ5a34Rp4LSarBtGde3Xv0TlX8b8__PmzaP7VnM5qshRHPX2uNB6PNC6WRrB-nuYxv2Zrk_8TsCy1LQJQJIAswfA8T_2cJWvSjdU7DCmKpXmO2y48JN47_0tdJHnXDIVZlsUsj1mT_4OCDAsIDrCQZiDgeZKk_970SVX8HmY3iOMgy79rsDxFAOb7nC9__fFyLebnv6e66Zpp-VplgADgC1QI8HVZi6T_2szj8GM1ZW8qNITMRhHykCG3DhzJst_7Jv-FZhmKgRzPEVsCTzEU-X26rZ919Vl1n83wWXefxfDTmEy3Mvv1j9_RnEnSLRMtb5p82SacMw6LBvRF29kGnM7eS7x6J9-LAl_C3WSEADspKRo5QC9XEQmjJV5-C4gUtESuWuvBxWKEgOsRUesTuuy4UZirnRZ5a5dsiO_n3pZjGmg9pGS0VabbBPhBeNaR30VW1HeD1-eavY9G6zSCcOsZ9ZGDoW07vZ8kSK-xpwMHKHTgKuf87MuRx8_pS1kyhNUM5OdEqdbQi4CPOtnrH7RFdkHkh8Bq-YdFYhS2HeEE0zVSa9MP-D5AihO1-jNF-ZJ4_tXt8APL2Dz4de96dVB491eiikH-6qLEq7uIoCO7px_ZPpewbz_zQSCtrcPpFa3RQzslbX1x9sr9cFKOeUCjbPAVT1bKbKjuVmAkWqugjNToqMNr7mIn66YIwxy7rc_4w6YDqCPnFCkWaTwcBf3tsczlfwlBoVfHpFVWF-Lem6D0cHXhUKQOihKNNBQg_GUbJkDRLAXBNgA_ZePYNsWvf_rBwZr8hZQF3QTwpCQnkyJsz1LP6qlUSTqa0MRMU1pIsH7AF7WW4XGVCzOoWDaNJShTt2ORYBIwJ0EQVSUuH304x6hVX2uQxolJNEcIGtu7WF9I8atjSs7WTBK09yuOnSK7zsXOce3jm4OIa4E5JwLNCUh7rgE1P59c7VyUKRp1LlsoWpefGiYzHGpNpZXeRChWLxKwJHbV7hkcqoXozXmwVehwy7C7p9ssXcOHmexgLN5WO1N_Y4EEW1JjRzCQo7noTaiytPiCxHdUQNKbS5LwSJ-LOawWRmlcHIWOX4_zsE85Tfb5soGVYc8Zb3gvWoK7g-5mZ1EnbeFdY2-a-wOKBdFzUIxOyDi6mom3sr9pTRYlQ-QkneYJX4Ks-EIKrrHhvzvEcBS_IW8S83Zqb2V4-hsgqW-A4b4BSO82-C0jbuP53Ell-krmsNNFAZ8z3-HeBH43VbrcJUlADlkh0XzsZQcdNRkvB5XT05BSK3mYmtl2AfGUJ9rtqHafX8zzaNlza30soThwbta8ZPmWmsWRHdgbH-eXBDr93g73BXerBoHDyhnGPNHD-3QSk_N8Gg8fV44TvA_hoo9uoR6uHzSG8UnZ5UaRqbUm4qzjm93zqIqzUDyci5YtBI54HQdLMqYkqlKv9ixfos70B5Sz4301JOp50EowU9N-fe3h0XeP9yLO-PwZrYSC-LjjUnYnI_Cx3qG6NsIL80yauMayLrS2mOKutJiPdLryWSzZIuV5WgrvNURBWraZmUJFjkd59YRRcHVFyD8WkeOyu55StH3LXFMjXMVT_LshVP0uGIKmP_gJZ9PZ9XTjaYjvJGb6XeVEkqwsnjscAV-iiTL9dFBKHmrmdYI8OuJWebsj-5s5FTNLD6PU41awNLm78EnWlwvdmP3liexx-5jL__wfieUjyg"
+    },
+    {
+     "title": "Philips Gc1015 Steam Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSg3-FnUqM02n_NYBNmO8A-MuvnjU9kyt1OvYzCT7C2tQeHPmcK0K6UGZPPvPk71xO9pNYViwX67iIfp7lQhbEObPwuVWJrpfIkcb2pgLaMprt0xQsOhuLwmw",
+     "price": "₹1,000",
+     "extracted_price": 1000,
+     "reviews": 2,
+     "rating": 4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2S9VsnicdVXJzuO4EQ6SF8ghr9Cnhhsktc9N-2KLsnZZF0G7ZMuSLMkr5kFy_jszwOQ4EyC3IK8xc8izRJ6-JgeCYH3Fqo9fFYr_-cOfP8r2n2101NK53BvZc6HwsKdwObe8_dM4DcU1X9riH5BhyHUBSBIQMYDmOI78KU-XtBvqtviFYBDN0DRNECQEgGZIwPzclGnRtX1pVVU5SUO-uq12AIgVRxRNciTLEvDv7Tmty28wIhAgaAQQQ61JWAAJ7utUzL-SezGBiKUB4ihIE4hb3QDFkd_vHUtK_g_4w-VaTs9_jU3bteP8uc4hgPATUgD8PC9lev7cTkP_Qz3m79f9j_tfz23xM8XQJI04AAFDsyQNCfB1vC0fTf1Rdx9t_9F0H2X_45COtyr_7Y9_kYe7JM530fbHMZAc4J5yMlB8lPXBzT1RJ1cNCLcPjBTire0Vsetznd0Jt_DoBLEShBnK7-aJiuxAOfhhgx0vX8pAAeWxhhkcH0GkPw6oI5yo0UxJ6MPe2NlRRxShobmacQ3CB5WHeFeeOsoGDc7UZcg8wzH9UXHPzt5t4cE7CpFLjL6jKTtXpbZe2BiHMwSF2nX4CccYOr77im-ZEgRe6KNYHRv3jIe8M6IALAQG463sbJjL8BH3WElfzt5UhCY9BaJ9aqQUGQZW4t55QrlQhJcl4zBF7JIhG4RyhwNk7EylmcxTPJhQ8FwXRmHHAk8JzuGxu3tBcC3DEe18uC2l_BF7AjKJ0Yx9p8OqA011RIEI9YO_mJ6H_UOoiA6i1J1v9PkZTh6Msd3Haaopz7DrAHbhKw4fkt0pZAQKwvKMWypzN1OVV3xU41P38s4Q5WogYgBcBY16emqaXIQPjwiujmZAJ-AfEWGQpqwc1dYQHA0_rTB20mMQO7Iy-S3UMNGtWgaqiwoiUIq4kE0iV5v-b495qn4FvEItrsXMp03WIVFKjo_nhWG21Xibxay6aff7d5DhIEkxJIJrx_2YD8OpLX_7019drEufCIk3LIgiJY0sEji-rR21qNIIKh7lkR7HrBRR80AvcqkO-0UqrbBmmCwRkUTe9mWKCUhHPC9oSlI9zocpkU_aawmzJLVAu0ewdfyL_YkQPruW6K7JRF5_n5LELfPrVG5cz9m_OQi44eljylMsL-vPJSSn55Nt3IsyxoPB5jNJGdJTx0SOD3pb65U_AsU-CwBVYFNvnuGunsHZmnpHQy4795t7hi3zenhY6QYlwm1xcu13FjLviFri8qbs6p78JlTbenKRhTfKy-KbS5pysjGV06GeaaX1cHxwg2aYejVjdSngqhbVpjPlnOm_KBFtdoaXHwWDcPh3DNWy1J2c8ILvyokcyebe0y28hv1da6Ks6LVVqKxIuQrm5SeC98zV_q1C6yTgVsubxLTu-lsZjvoCCfILpNkvEFGb1fyWEZ-S6diJVfZKp0NnCDw-5oHLvgl8K6p4uYsiL7tELQvWQ5Vcea9LeN5prJEdSK2W-rGdHA-CpzRSXkee1OJiHQfbmU72dj4IPevl7UuSbplV7pmeuXFJcUmRe1adg1qyt7rnWawcUcKBM7qPkZAep2jYba8sy_tb_mIMXqntrlsKoyRSNoVZ5lqjCzjvuHbz3GvCxJcP96LnM8AxZ-BwToeMkOvMb3w7EMkjtUVSvr8vpkg-d3oFJ3JUl5eK9oG3v5dJzhXPeAGKzCUdmzEbSYbb5Y60peVfmKOz1DPnZab02RI2lU1vs_HK5YnoCKTv6xm6N0gOs-qUWxlSpGSQFp8feM9Q-GI7Cyyb342MpJxb7ln6OkB8JbibfH3ehH3YnndByjpUfo1uHIXwncD0eVO7sSgps-_1e8hV8khaQdYrFYd06zoiTt7jk_KujhSsxanpSXyYlZGceFuXuguX5udqplrrfHnKzrD-BNW__wu23VJv"
+    },
+    {
+     "title": "Philips Gc1903 Steam Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKtugL0clRVAQiP83Ii7561g3y_xZn-ARkyQr6K7ui0KN1xAtrj7uahz9ffV-NOfohf49o7mpn5GaYgzGJgOIQaEK_HxpRxvpQQBnMl2k3ch4hnWrRs-RXaA",
+     "price": "₹1,699",
+     "extracted_price": 1699,
+     "reviews": 15,
+     "rating": 3.7,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KcNZdHicbZVJzuPGFceD5AJZ5Aq9aqhRLM7ecSiKpMRBHCVuCM6kOIqkJIrIQbL-OjZgL-0A2QW5hr3IWUK1t14UCvV_ePV-eEPV__7014-s-nd1vsrRlJlq_JpJvTdJPZsq7vTjMPbpPZmr9F8YTRPbAhiBY5AGFMuyxI9JNEdNX1TpL5tIQkgQECNIEpCAoZifyyxKm6rLjDzPRrFPqvRnjMEYiiIAQbEYSRKAxn-q2qjIvll_gZu0OTOAoSmGghTOUl_HdPoVmkJIAUATDElDHFA0jlE0Qf_dtAwx_GPb97d7Nr7-M5RVUw3T5yLBAIZ9ghLAPk9zFrWfq7Hvvi-Gd9g_cP_abrAkTREbBQNoCBmGJQD4Ojzmj7L4KJqPqvsom4-s-6GPhkee_Pbnv6H-KQrTUzi5w-CJFrDxodRkD9nQ8jywlBFSr2egIltqTtqVp3xPDbQ6kOMKzKl7wmyXgVo9YRbUr0GdSgYqu8hVR9-1cg94a4TSwdlbpuchQm-1OcX50qvVIfDZm35OcBs2cuovpNUNgY6w1W4nmDYpEa2BH7iL6bZWbolNn9gYFsm8cAGqFXcS8tEA9PW02IiMIokVdXchPD9YvJo8R1d1OMMaRLgGtDYVrXZrD6_Zp6s6Ju1iZY6yuqKUe07QZA07O3sPaZ131Wrw0uUBOkiSYsxydT_YRy2mRa5XelB_nHwPek5TuasErLXhsyvfusCynb1qpc0J-v7QXxpP1f1m1vfzxcG5JfJVKXWkRu-k0nYl3Zc2fkSs7nl4uj6zpHL9dPeN6cguPPpLFbhpF-0lS2stz2_Jl92WYgKlVwCWPq6XZ1RhbYqlawoL0kAFniFgS3BQorosEwFbHNy7W7KKWR63nHGV0JB03Vcqb8n6y_ADO35hh8CfL7qY2kGXzoGcukntHXWJI5IuWC0gdf9cpjH_FXASOdsGPdW7uIGCGF6X142mD_nwmIQ4f8jP53cYzW6jQ28DBFnwQ9L3dZX99pd_2LoifsJFTjUweJais0EAyz3JV_mcyzgZDGighiHOBFgucCXm_GLOYmb4BU3HoQBF4mFmkb719JnjeFkK86W9jCGq5XX24zAyQGVCrLLc2-kTzn-2DcHeggmc8j6FoZ0l9zHb2Y5lvhl4veSoa8SRDIeU1-wT4-vFlPZNGoJeZZKJIFXxpeh4ol-UqlBydwDSqeUBzMGu2L38YzGB1hg7S4Y2M3W7Z6wb2v2yGNEOhvxjthL5GwXiLEEObU5DtuKgN1BxUsIb4t9WDglvlihikTpm46WYKKly9OBie2U_dvuYUUSPzStYaNaYsJq7kgLcHVUnufIqbnHvO_aGsT-ikONdG4XojDTTUQx9u_ZbrvEsp0CKk3EasTmWZJ9wztE2_fcKUQzBbsobYtx25Z0ZlvyC4cQXjGK-bM_gbpPfadTrcLw2Qh6v0XhpVJ7Tr4lnM2-A34sq3J6CwCEbLxBvLHvRRqYi6tNRZtT4QsiF2A3VaDkYeIkD6TREvU9vxrU_WWN9OkwXvmOcpFpF8REbmUl39IMN01sE7XZvXfYZ8yg6jtGlKwxZ0MLncOaj63juj4c7w3DugbupvZPJx_uB1GF4lnapliVyqfB60rDV7mXK_Mhli31TkgnoAbvN4hT1MY6K2C3dkycQV_IAxcR8zppAvI5Kjo3EsJ_XPTQ9x3xmYcKmr2AGEmLDhonpnYiww_yE8lxxq85SceRo0zyRymTwu_xEHeLhziahYPGE6yoxfJYQ-XFeJ0YMJTHsxdnles5RJS49TDzDJE81JkjrkTiGAhzJlbynxhXtzu_8qj16EWORyf38YEmoP3GdaneFHQiiNLlOZ2JsjgbC8Lb3L2ehYtwHyCJTr6V3dURvK05BjcKi5WpYcydFbG5slLT5RFZGe3shq99-gvy__wfbQlWU"
+    },
+    {
+     "title": "Philips GC097/50 750-W Dry Iron",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVTZZvb0qskJlIm6pLLViynBYHGm30SIy93HG4hQHPfcSYE9o6XMM0ZuwLREoMHH4KwVM7oQ3dwTpoTLFZr2VbaJNpOLX53kXk2UAyWVjGdnA4JqU9cvLvEg",
+     "price": "₹599",
+     "extracted_price": 599,
+     "reviews": 11,
+     "rating": 4.6,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hmHbMXicbVXJzuPGEQ6SF8ghrzCngQbs5u4bV5GU1BR3iheCOymuIilRFPwgOf8TG3COdoDcgryGfcizhPJcfWg0uqq6vq-_QlX_709__ciqf1f-VYmm7KzF60yi_kyibKo446dh7NN7MlfpvwBNE9vCAIEDSGMUy7LET0k0R01fVOkvOGQpCpI0_Y4hWAaSzM9lFqVN1WV6nmej2CdbGEURWwQGSIwgCUAyLGD_WbVRkX1zA5bAcQYAiiFwgmDwLc3XMZ1-hWchxIkNlWQxiAFAQJqmKOr7s6mL4R_7frjds3H9z1BWTTVMn4sEbL5PUMbA52nOovZzNfbdD8Xwhv2D61_bKv2ZpCmCghRN4SxDkiROMF-Hx_xRFh9F81F1H2XzkXU_9tHwyJPf_vw3qV9EYVoEwxkGVzQxyy3LwG-IqJ6eSJIvMRasjig9gxYFCWasyTUVES4_dce9IYgOmZvyqcfKScusyENdDKc1c8zGddnWFlPDcoN7LA-vxE9PSZuSyGtwx22qYAVr7ASuIybA8zTi1Jm9JWut45mT48tKULOkBecxFs3DFksmMmsYWNpcGk3MOtN13RM0ViAebaRefBPYvgbsmrWRzZFWXSzGq1yPfqCnNn-zXkhLndk4temGWFqZyI-6H-DB3iVdLH2iFz-YYgAsORUvDoYFtobbFjhYdiCeukG61EMZwec5bngphsMLYSyMu0E33LKzJKSn2Ox6DU8FDmuadYrZNqq9LsATr7mbUg-jOpVcJZgcB5i2XJJIacZIRnfL5qesLp9evb2l3fJcmyCV0eTgrp6Ccjop5hJ7m76-sQR1OiPsqRiNlkcvtCSwAadr6RotYclwUKO6LBMBPG3cvZuKBkyXe_r4pqskX_eVxpsKWnUvcC6ArxMJPEwMIyJPviBMNkxwAa4jR153WQxH6_7xnMb8V4yTydnS6anexQ0UxPD6XG80fciHxyTE-UNZlu8AzQKCpAkIIIv9mPR9XWW__eXvFlLFT7jIaTqAvhz5OoGZjqFcFT9XcDIYpIEahjgTYPmEL2LOL-dZzHSvoOk4FKBIPM5ZhHBA-RzHK3KYP9vLGEq18pq9OIx0rDpDUJnOzfiE858tXbA2MIFT36cwtLLkPmY7yzbPbw48KjnqGnEkw0nqOnvEuK5Mad3kIeg1JpkIUhNXFeEJuqhVoebOsCnS8hjMsV2xW71jMWGtPnamAi1m6nZLjPTT_fLUox0M-cdsJsrvLCTOFJTQ4k6SpdrSm1BhqOFN4t9eThLeXKKIlbQxGy_FRMmVjYLL1m792O1jRhVdNq9gcTLHhD05L1KAu6NmJ1dew03unWOv6_ujFHK8Y0mh5Euns63qaEv7u9Z4llNYipNxGrE5SLJPOGefNvu3Cm2zid0sbxLjtqtvZVjyC8CJL9vc-gIgudvMbxlRHY7XRsjjVzRuvcZz6Jq4FvMm8K2owm0RBE6y8ELi9edetKSzKqLpqDBafCGUQuyGajRtgK3iQNoNUe_Tm37tDXOsjcN04TvGTqqXKD5iPTvTHf1gw_QWQavdm5d9xjyKjmOQfIUhi7VwGXw-uo5-fzzcGYZzDtxN6-1MOd4PJIKhL-_SU5YopcqjpGGr3XpW-JHLntZNTSYMBayGvCnqY1wqYqd0DFcgruQBisl5mU8CsR7VHIzEsJ9fe3h27fOShQmbrsGMyRIbNkxM70QJHOYFKnPFvRBLxZF9muaJVCed3-UGdYiHO5uEgskTjqPGcCmh5MV5negxlMWwF2eH6zlbk7n0MPEMkyxaTJDmI7F1FbNlR3aXE1e0O6_zqvboRoxJJnf_wZIQLTii2l1hBYIoT47dnQGbSwOhu3En5yxU9fsAWemMavldHdHdilNQo_A85VpYc4YqNjc2Stp8Iiu9va2S2W8_Qf7f_wNf51V-"
+    },
+    {
+     "title": "Philips GC2145/20 Steam Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-kYKUudym_SZaG8EcQnALDZq7sc5AaN4vCvqyNhf9tABlaV8jDTeJzxNcmeLiu0C0BzY09Px3I9YyOFIiTmH51JvEgzTWQJ6d5kSS3_zitx8n6mE2TA4EHg",
+     "price": "₹3,249",
+     "extracted_price": 3249,
+     "reviews": 231,
+     "rating": 4.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ijtTY3icbZXLzqvIFYWj5AUyyCuc0ZGPiuJi6BlXAzaFXUCBmSDuYGODAdtg5UEy_k-6pe5hd0uZRXmN7kGeJfj0NCWVUO2N1vq0tkr13z_99SOv_1UHJz0e8r2ZzCOL2j2L8qEWDz92fZvd07HOfqXWa2bZgGJoCq4BJwgC82Maj3HTlnX2C8tzNL2mgECzgIYMJ7D8z1UeZ019ze2iyHulTevsZ8gKbwGG5iieWRYHf6ovcZl_6_5KMRwrrAVGEBaDtxfg-a99NvwG93Ik8AKEiwHDcZCiAU2tub_vsa1E_7_3_e2e9_O_u6pu6m74XKYUoKhPUAPU52HM48vnum-v35fd4vsLz0LIQGFRedOD5Uf262WhZdfcQkhDml8v8kuT-do9xo-q_Cibj_r6UTUf-fWHNu4eRfr7n_-mtk9FHp7ywes6omDgeA3wfHZKN3iHGm1GVPiwGmS5wNweYDuFtKnG0AQkqK4-qW4BINcDbWqhH26dgBiWZ3aOSuas0eoQ4CpTTTeeqTppUB2eJOrQHJl8Y-oOJFQMsjA8T3G8GUAcSFRGziBt8JioVeieu9Oiu7GJhpINZkJ_sWgaieiSQ_SGIS6GiJZexKeYNGhHTzcY56VdLb0BiHh08MLz4UxZeYDYjHRm7j8nFzRPBDCNNKl1dXI8nNXJ2jT7wwVXoW7aCSB2fjqAfJMd_VNoWz4Ljud0Dt3KRs1x8jQceDQKfYKJTyQa-x5rUabjeBnBdIZjF2tIR0Z2qobj2VuyHJ5JU91sgp8x3cV-g2xMVyraHJlMw1NMCQOhiUuUyvf07EWaaszPgoxfTZCQRnWbJa-LNuUniQsvpote2YRVEtiBwYSvcjwSgcGq52iwM-JzVaUyNbk0uWPdpDARp4A2GUvVTpvalLCOZtsPF2RzsL1mxFA7-ar1Sq74FgNBQz4B1qWakivB_5yGvvgNiBo7OjYXgdm-21Z08Xbbft3Q3Su2b91FktfP76j1cjXYNQMpKFA_pG17rvPf__IPBxnKJ1oRTZuCgRYHNgOwd9BPelDoNBt2asd1XZLLsJrgixmL435Uctsv1-skkqHCPPZ5jGiKC0RR0rWomC7HPlLP-mv0kyi2Qb2HVI292-ETLX12bNlZzGTReJ-iyMnTe5-vHBfv3wwSqkTuFIssL6rGPPpMP8985dy0LmxNPh0Y1lRmA9EpOhp1aRReB7TDRQKwAKtyNfu7cgAXu79iHTr8cF09E2Rb9-NkxysYSY8Rp_o3ClXEsh45oqU6hqu-gcqDEd1U6d0VVfnNEseCavZ5fywHTqtdFB4dUrX9dZPwhkKEooalhftUsLwXK8PVznTTk2TSWHxrbGx7s1MjUfIcNVID1dq7ho0W2W9Z03nBgYxmkywWCirNP9Giay31PybE8YywVN4Q_fI13skI7BeKZr5QHP-FguxqKb9jROeoPzVykbzi_tiYkohOKXH4N8AfQ5VvT1kWVYcuVcmeNoqj7g0FDTudN5Mjo5fKtat77FJgVjrWbZjzJrvZp_aA-_NhOxylK--m9UtRHomd79fX9UOIslsMncsGHzc5_yivIo-0E4wEcIHPLpDiUx-0u-2d50VvK97M1s313X3LIhgF2iqz8lSvDAmljVCv5r0u9WI-OTcjHQAKBRP5Q9wmtFomXuUdiMyc2C1U0v1ztGRm3hkF1TPdZnxt4J64-2cepUI2hyPQVCFq-GS9UlRqOz6hPtbiCwlcErvWMA6sMdjSqjhw26S7C2kkY4nxPCOBzwqqflKcUzuBmhK1yuiJreiamphtB4nn06eZMCx-pK5tAFfzNPK0xPKy8q9-fdmRmMdseg8eAgvRk0bcZVU6oaxog-de95RQqB1jk-SqFQI07HsHBXWPztp7OgpZhlNyvTxZhRmdxYOhNDchTi_FwNb25TaruF1eguI__wPJFFO3"
+    },
+    {
+     "title": "Philips GC1010 Steam Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-882ix3clrAYWPKNa8yHY2LVokV8W6x3EBUC2rvmmUCVgEQfW2XXrrkjdR-lDv07cqOejPBW729GaNf_6GqDXP-6n6DsxNpn8CrK5eoLZ46kEtPOLuSVEYA",
+     "price": "₹1,399",
+     "extracted_price": 1399,
+     "reviews": 6,
+     "rating": 4.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BU_bgnicdVXJzuO4EQ6SF8ghr9Cnhhuids1NqyXZ2qhdF0G7ZK2WZMs28iA5_50ZYOY4GSC3IK8xc8izRO65JgeCqCqyvo9fscj__OHPH0Xzzya4yMlSmGr6XAl9NAm9WBrW-nGax_yWrU3-C6AofB8IwDGAUgjJMAz-Y5asSTdW7zDAAQ0wEmdogqSY3STxn-siybtmKIyyLGZhzJr8HzSyryMxQDMMCTBAMCT2U9MnVfEt_AugMQojaAqQ-DsVQ1IY_XXOl19xk48BQuE0oHYAGqcARmM0SfzVhIYQ_5_g99dbMT__NdVN10zL5yoDCACfUAkBn5e1SPrPzTwO31fTN-T_sf9r3-Q_E9TOBaEBgdMMjlAkhn2d7utHXX1U3UczfNTdRzH8MCbTvcx---NfxHET-GXjLXeaPAEijgi25AVDD0SLJ3lG1HtePujQb1XC8AGZi2qQeMzFdlQzkSc8R91H6K8RlKDpX7rewmDjD9Oso7mVAwm1uo5MpPah-9AIEUlP0Y6zuhrXpOmqHXeMvn5BiYGuLx1TVBUNwSttbBLcBsFdWQWeV7d2Xz2di9pncvgwxFVKXlynCapliLkZYBCkyMOwZW-MLuwjH2rVBu4TCqoUuYSRo96z6Dxo9eMDvnTblWvSCDjLxdoHPOKbhdZHrddl7VVhOWIhzrHdUhGq2osFVgBFuwVy9IKeK-la6rBb2HUXq2NfuusNUZ-tvpef3VYEhRDBNIigfdFJvYVPQ2SiQoKBJ3tY5IZb3qmdK3cP39WN1GVceFTvegseYdA5iTRuu-594oS4J3FEeOkSV-ZEiEwG9KMo7KIOHqGX7jKeXV220PVq7xzyvrtpgWJL6KQkbV1nPHg4mHeDu27QYx8BpuKaKF2OjcpBWX8afrSfXzo7WNdavT45yK5lg6BF1_mOP-nOixv2OwD__ljm8leElYjVNsgYeRo3Q4t793yaqQ6bXolxnXqOp7bvwN46OEHhKEAZ8EM2jm1T_Panv9m6InzCBFY1ABpISWDgCHQt-SIHpYwR0SRO5DSlBY_WD_SFr2VorkJh-BVFpTGPCvjdLBIdA2TAspwsxeWjD-dYbOXX6qdxYiCNiYIGulfrE8Z9tg3e3sF4VnlbcWwX2W0uDrYDzTcHTq9Z8pKwBM2KynP18fn5pGv7Kk3RqNLZghOq8FR0LNNDpamU0p0Qyeo5BC2RQ3V4-udqQXpjHqCM2vQyHLZUN7TbfhGTAxpz9xVm8jcWIgt5ObZZTbQVR3wTqiwlvorcO8qK_JtLkjCiOhdzWC2k1Dh6FNpePc7DMaUVwWPKBq00OGeM5r4IHj2cVSe7cCoG2XeOo2Ecz2LMcq4txmIgaqajGPqe9pvWWFGSSI4RaZ4wJciKTxjraLv_9wrtjwSze94k5n1W3sowxBeA4V8ASX8BKHHY3W8Z9TaeLx1fpq9kDjuVY_VL5tn0m8DvReWvG8-zoo1VImc8joItmoqgL2eZVtMQlythmJoZOgB5ChPhdHh7zK_GZbTg3FqnJeQG2smalyDcU6MwqYG6M3F-TVC7P8LwWND3amBpXbqgMYP06DYFXHKZg_F8utE0657Yqzo6hXy-nQgdjQPpkGtFJtcKp2cd0xyepszNbPGwr0q2IHrEqLq_JGOKiVXq1q7l8fiFOKFCZm6rxuPPs1KCGZ-O6-uImp5jbkWcMfkzWhFJZOKOTqmDIILTuqHy2uxNz5Bp4mjLuhDKYnCH0iJP6XRjspiHHO66SopuNSr6adlmRopKQjwKq8uOrKNKbH5aOJrONjXFCXjPHENBHMmVvE1jq_7gD37Tn72EhkR2C-4MgeobppP9obIjXpAW1xlMwJTihBteOkglgyrGbUIZ0dRb6V0dwduLU5Ez_9BKNW5ZSxG6K5NkfbkQjdFfnyIc95-g_Pd_AaK2Vl8"
+    },
+    {
+     "title": "Philips Gc2147/30 EasySpeed Plus Steam Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFHIbcAGR0UppMM5qV6FKNnSSY-abcplclr6W_wVExjXdyBH4Wv8e8fuP8lMih4_-UVKIcVQfGQKHwIXAU_7ia9bw35FVFRZV9uRirgVLLvF7rkVqaTxtDrw",
+     "price": "₹2,799",
+     "extracted_price": 2799,
+     "reviews": 174,
+     "rating": 4.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CwkEEXicbVXJzqvIGY2SF8gir3BXV76CYqzeMRQGbArMaNggZmMzGfCA1Q-S9X_TLXWW3ZGyi_Ia3Ys8S_DtZbIoVdU59X3f0fmqVP_5w58_ivqf9fGsJlNh6ekyM7i3GFxMtXD4aRj7_JbNdf4PkuPodRAkTZGAI1gIIf1TlsxJ01dvmqd4kiIZgmKplaQgx1I_n4okb-quMMuyGOU-q_NfIACAgiRcTzIEt0Yx3N_rNqmKb_TPNAkAzTKQ5BmOZGhIsV_HfPqVsKSYY9ZIgoY8RzEMx0KO-t6yTTn-v9QP11sxLv8aTnVTD9PnKiMJkvwEFIL8PM1F0n6ux777oRreNf83-mu7wuuSZgEkAc_xPEFQDP11uM8fp-qjaj7q7uPUfBTdj30y3Mvstz_-BfUPWZoe0sEbBl-2CcfHkdedTk47qMZFofAlX4LW3joBfBjt_PQ9g0yPYh9eFBChB439XPID4hn69pJ4ehl10c4H894BTecQ-pB5Sh0oQ5SrvosvuuMhxQwCnY2QPkUtnCKimY5gdnAbWdFL73JSP6XEKchauHOCp3YgM-ArGuGhZm-62MGgufsdbv2WtEzUkDnKOxswuilfFkfWFUyd_MILn_sAbw_g6dhUZITNYckppcFbBWUNfNiNQhoo32FveqYu3jvNoDokeqTtEDkAL0aH_eACQ4fyj4czdhwFOwdiODloYCMQYd_Hu9DNn2nwrJ32QAQKpgPVRpk6tJGn6N7R7-3LfMWBHuXtcPNc7IUv39oHg776cUmb6mUTihqd9TAE-TEBMPTcavHWfDmRu653WQJffPkAKhlSjALN28Brbr6iEP7Zd20fjt5ZCfLL4Zl3laOAQUsup1MmkU-X8m-2qpO2LzyPlE4bSDlva120VbyYQeSmSgZSNQKZi8jQy-t8i2YfMAQmJnrV90wlsvvbcxrLXwlBYWbHZGNiMW-mEbfefjdyDTW8EvM6tKLEPb4jOUjSDEcDcr1xP2Z9f6mL3_70Vwdr8idKFnSTBEclOZo0YXsH9aweS5ViomH1cRjSQgKnJ3jRcxlas1yYQcVxaSwBmb5bRYIpkj0KgqgqcflswzFGF_U1B2mcmERtAbK2vevhEyV-dkzJWYtJgvbexbFTZLex2Diubb01iPgksOdEYHgBacsc0OOy8Cfnut7JXueziWZ0edEwleFQqyut9AZCObQiAUpiU22WYF9NRGuOna0Ch5-6zSPFpnELn2ayAbF4n-1M_aYCCbakxo5gIEdz0VtQddDiKxLfrICkt5YkgUgfizGsJlapXRyFjn_qx26b8prsw7IGlWGPGTS8FyOBzV53s7OoU7bwzrE1ze0exYLoOShGR2RYrmbiNe03r6miZImcYtI8gSWZFZ8owTVW_PcOsTwNV-QtYlxn7e0MZL6QFP2FZPkvJGA2K_y2EV_i8dxIZfpKxrDRRQGfM9_h3wJ-b6p0fUiSgByqQqL53MoOsjQZT3uV19OQViu5G-rRdklikQfGbejLNr-a5_5gj5fDbgrFjnez-iXL99QsLK7j7jDOrwlw2q0dbgv-XnUCj5UziCHRgsdwFJPzeOz3uxvPC95OuOq9W6j7247BID4qm9woMvWkiXh92PVmsVRxFIqnc9WyicAR1HEwJX1KoSr1Tt7Bl-gzswNyZj1mQ6KXvVaSIz1s59cWWL5rPYo4g_kSzYSCYNzwKbeREbmbH0Cda-GFIZsmrjHNE6NNprgpD-wuHW4wiyVbpD1PS8HjBFCQlpfMTIEix708e0IvuLoi5LtJ5Pnsoac0Y98z19QIV_EU_2EIVbsJuqBu937C20x2O94hA_CDwmy7qZxIkpXJczuLhCUaaNNPO6WEQDNvA4DIwhfl3R3ZX5tTsaP0NEo9vggHTW6uMMnacmJqs70uyO7Xn6D8938BpGlUdg"
+    },
+    {
+     "title": "TRU-Steam Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjirLEUbd_VT4z3nGR1ZKZxEg8s4xWjmQqOScYhK3MZxhmJlGi4aggDyeq0bBSlb-7oGfp9D8yu3AzXc4MqgEjlV6R_luDExMChtpT87mHtTYS3OX3tr37wg",
+     "price": "₹1,499",
+     "extracted_price": 1499,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WorRNnicLVTLzqQ2Gp3RvEBeoletamGDKciO-6UKKO4UGwTmWlBAAXV9kixHf08iJcso0uxGeY1kMc8yVGcWluVz7PMdfcf2f__23UfR_LuJTmo6Fwc9ey7IHA7ILOaGs38epyG_4qXJfwPbLbUOAlAkgFuCZlmW-hmnS9oN1ZumCMRAZiUpiiaZ7RZumV_rIs27pi-ssiwmccDf9kGWIqj1MGIYFgBAMsQvzTmtiv_zDIA0WlUAQAyiGGZV_Trl8z9_vFyL6fmfsW66Zpw_VxgQAHyCMgE-z0uRnj8309D_WI3fRCBLMBRBspACDE0hdvX19dzkv6ItTdGQ2SKCIBALtis83paPuvqouo-m_6i7j6L_aUjHW4n__PtXacKCcMO87Y9jIDqEp-TIhItmkEHvKUFqEwGV9rkVR8ESn-eHEaLRUuQ5FANgvoK72eqt96qtTKwVk4wFLHcwaEFtgCMsZJP2g7cehkEvoyAy41hiFj8YHUc5Ul7Y7fNT1xiK_gyCoMzD5ejAZe-2uR2RAZ32-OEo45CSupaDcbG7WCg6XcXq8ZW2QRQr8q3wdBt3teiKJjTFGMUS8YyV6uW2Y5tCeW-IumqfgeqENcrDR5D59mJDNjwG49lUHoLfEi_3vLzSjjcMsT7mYkzmJ8fyfOTivpbNbqz9IKhNqN2ztWZKOLvQr_dO5DiuZ79sTx5MX3uYET85Z6DhhxalbX1xFfm-j-RDHiIJ94Hsi3KJ--puh0aqtbKESQ3FnTzglnrhiK-LYJRixTnGcAxjL-exUgOvzyVTlv71mKfyD4KT0eJadD17uR34eaQRl5IIiY1OeRMtoJm5fw-2LKDQloLr7YA_4WFom-LPf_zgmpr4iRQ53QIwktPIogjHt9WTGpUqieJRGulxzAoB1g_4opbyeFjEwgqr7TZLBChSt0ORmiSgI47jVTkpH-fjlEit-lrCLEktojlA0Dj-xf5E8p9dS3DXYgKnvVdJ4hb4OhUb13MObw-8WXP0KeUQw0nacwmp6flkavcij_GgM3imkC4-NZPE5lFrKq30R0K2zzwBS2JTbZ7hvpqJszX1jgpdZu4398y0jOvxYaUbmPC3xcHqNxcS5whq4nKG5Gqe9DZU2Vpykfg3y0nC20uaspI-FdOxmmm58cz46Ab1MPVKxmhiwJYNrAxnwqzhv5AAN3vdwydeJx3uraFYlrKXEo73XSmRIsk4eJplrrLfek0WJU3kJMrylC0BLj6RnGes-F8J0QzFrsjbxLTO2rszLPoCSOoLoJkvAKLNCr_baLbJdOqEMnul07HTec484cBl3gb-ClW43AWBk1yyknjroYiudNBEc96rjJ4dKbUS-7GZHA8QT3FEXke1Sn6xToPtTK29m498z3i4eYniLbOKw7bf3tgkv6TQPa93USmYW9VzjCmfYMISZ3gfIz49TdGw310ZhvN33EUfvELdX3frI08ieZMbBVZrjTdxxzab50HlJ654uBcNz4QZs7oZzumQkVKV-bVvBwJ1Qjso4sN9MQTquddKMFGjsrwUeAi8w71IMJs_44WQJTbpmGy7ESWwW-5QXRruZbJ0lnrGvMxImy1-U9r0LhuvLE4Eh6d8X8vgvYZSmJUttjIoi8kgLj43cJ4uc_lu5hkG3_WMQs4Ne5ZGeLIvB3eDq86bsA-b8z5IGQfha3RjETTvpEmfN5UbC6I8-15_AGwpjZQVZL1cslCzriNkpYPZyu90xGANp6In4WGUetJytiZ2FzbF53JGjXW-PCVnWD_m8vf_AS98JDE"
+    },
+    {
+     "title": "Philips Gc 102/01 Dry Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTgXASPUR3AwYO-z-ThgpbIPmbc5U7QXEcm2-d6UuhRwxAwZNE5CbTNAMKxnv4worgSTpDd5OOPSdI9rsk_gfG33amo3325RIV7Y5mCsKmX7FMfUWS_S4PDA",
+     "price": "₹800",
+     "extracted_price": 800,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ur9dX3icJZTJzqvIHcUT5QXyEnd15SuqoDBkxzzYzLM3CKoAYzBg4PP0JL2MvptuqbPsRMouymukF3mW2N2LUqnOv3Tqp3Ok-t8f_vxZtf9q05NeLJVrlo8V2aOL7GppBe_naR7JB15b8k-w3TKvRQGGBnBLsTzPMz_jYi36sWnJLxwH4RZsEaIZmuIoCPhfjlVB-naonLquZnnELfkHZCmGpyEDIM1ygHvdQn9vz0VT_T7m6C3zsmdohoJbjqYQj77PZPnrj5ePan78ezq2fTstXxsMKAC-QJUCX5e1Ks5f23kcfmymtwdCLL-leUBRgKMYhuEg_f38AkRblmHhFnKQBRRiWJb9Pl3Xz2Pz2fSf7fB57D-r4aexmK41_vWP35UZS9IVi140TbHsU0FCrlUAWkwd9-H5XpRPsvMgsJKkAaXWB5UqXiLtzlYKcfeRfSHdqtlUL3o0ufvJfbFTs3cS0GdQvdsa2JPz3QiS9WQPZPG7eI20yQ3S2IhTsbfp7BakAsqeh6MFMngAhyRUMPJiMhN4v8WqqZdwNTIIxqoz7v7T9Ega01kXnwPtPvqReS3COPbgARUdP6d0XFsnUvidOVgd2WUn9RkqZkY681715i5QbOR33S2O_CQOe9eiskcQEsrSMxApvB4o_EJkUXuxe1Vk3YgWs4dY7MoExRj4IAP82T7FnZUcnuUZ38lwoANZQQdILFv1GKL3c-AbadEdL4Gm3vap6pIEKXiI1UhWazw0Ny-xCqNTFUwb6NDbkx2rT6z2RdWTLNC7ZwZ5q9LJ0UvNMU4OyUHDf7svc_1fSlDRGjjscQmJF0ckNahLTSXUxmTCmZXQwt3-ArY8YNCWgQDy8Cc8jl1b_fqnHwLbkL_QsmA6AKZqkToM5UeeftLTWqfRYVImdprKSoLHO3wya525q1w5SbPdlrkEZebqVoVNAzYVBFFX8_p-zuZc6fTnmpR54VCtC0HrRxfvCy1-DRwpeD0mCcb7lOdBhT_mahOEvvtmEO2jwJ4KAXGCYjzWhJkfD-4YXNTpMJocXhhkyg_DprGdGW1j1NFEqd5ZpGBNbZrNI9k3C3V25sHXYcAtw-ZW2o71kd2dYgNz8br6WP-NQhF8Sc8DwVICI1TeQI1n5BdFfE8FRXqzFAWvmHM1Z83Cqm1oH7IgPo7zoJWcIcd83cLG8mfMW9ETSXCzN0N8Ek3aF94emuNoeyUXxChQciVVLDc0HPtl-1vWdFWzFKFRSQq-Brj6Qguh9dJ_b4jlGP6lvCHm1268k-HRN0Az3wDLfQMQbV7yO0a7y-dTL9Xls5iz3hQF-4TjgHsD_F6qdLlJkqAEdKOIzl2TA8U1ZHvZ65xZZozeyMPUzn4IqIc8obBnOo1cnNPo-XPn7ZZMHLgQt09ZvpZO5W6H7ZXPyaWAwVnzM63irs0gcLZ6gjlPneFtSsXiNKfjfvfBcUK0Ey7mGFb6_mOHbJin6oZYFdaPhmjjnm83D1cXZ6G6BxcDL5R94E07WYqxpJWmjI6RF0vMCe2gjN3baknMY2_UYGYmbX1q0I1D91blmCePw0qpCp_3XLndyArYrTeor63wtHm2LEJrWRdkLI64qT12V04fPM4lX2SiyCjh7QiVpKw77JRQlfNRXiNhFEJTFchuETkO38ySQf4Vh45BhWqkxjdLaM6bZEja8z4uOB_hj_TKI2jfaJs9b5rgIMnqEoWDC_hamRgnLge15qHhfEyQV1y7U9_tyPGrnIadpbtVm3kneIbcX_gCn-sFtc758lD88fUx1__5P3OJI00"
+    },
+    {
+     "title": "Philips DST0820/20 Steam Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTv7KNNxfPhtj2NmGZ0xJnmhCv0QkqcsbYQYSLI1Ty0toIUfGezjNNopKL0mZWeThTYR2EQB5rlCpJJOCJSvy3IPOrzXlXKK_XSz9TOVFTouJ-blu7j4sJG",
+     "price": "₹1,299",
+     "extracted_price": 1299,
+     "reviews": 7,
+     "rating": 4.4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pgu173icdZXJ7uPGEcaD5AVyyCvMaaBBd3MR2zfui8RF3ETxQnDfF5HUijxIzv-JDdhHO0BuQV7DPuRZIo2vyaHR6K9QVT_Uh0L_5w9__sjrf9ZBo8RLbmnJY6WM0aKMfKnZw4_TPGaXdK2zf8DtlnwdAEkCoi2gMcbkj2m8xt1Y1tkvNEQkCbZbmgaY2ZIIA_LnKo-zrh5ysyjyWRjTdxWCYABBwVc-wwCS2kJI_VT3cZl_i_9CQsAw8F2IYkhI0QzBfJ2z5VfS4iNIkpigEYlpTEOKADRFo79atilE_yf4_fmSz49_TVXd1dPyuUwhgPATkgD8vKx53H-u53H4vpy-gf2P_K99nf1MbWmSRgxmAAIvjWHw1-m6flTlR9l91MNH1X3kww9jPF2L9Lc__kUcbwK_3PiDN02-YAMHGfsYqs88mFAq2pUhaY3z1EEGucqF1cEQJC7ztSV11dXpqz4LJuXQTaM-2MSptelE0uajVyJHqm7xMALXz1CA_OthkDwzkOxkOD1SmZodVA0xxKPBQ917VnEqY5AoBjy5_inrO9F-St6hNbS0xb4OJDJFWR03nWl6_tEPwuAoiSjxfcH1w6sptfcY4D6V8M4mQtkRfWRI_tVwszEL_MXuYaN7GZW73uPUZOdQsumjb7fOk5NNGcq-3F0TTwRua1gBYbT7o23qvXQMRYmz21V1EF4P_uF-Cgwu8eyzAcLFPd5h0qYglP3AbyQib7rAbbKrHfgoOYZ2LnR1BspVRwuhA3zPWkNJwN0JPR85cnYNgE74MnjqHWe6A7saRAVyMVNspDWnwC9cLyxSID4SoD5CIfRNoX0ET4MyxemW9WtvS3Z7aKFjSqwjoUmN26pKeXh3Cf9iKxq0ffYeEBqpi1Ij1xpnK8bDfHF5XqbEckYfG_8WHimU99olae1T6Evj0eeaAFDD3-_LXPwKWIlaHZMm9hB71o4nmOqZH5Juv2k3pzkqEvX2Hdxi-FoKEkGEiR_ScWzr_Lc__c0xVOETIbCaCVEgxYFJAts7KI0SFApBhZM40dOU5Dyq7uhJrsXJWoXcPJbbbRLxSCCvVh4bBKQDluUUKSru_auh2CrP9ZhEsQlqC8Ha9s6HTwT32TF559WMZ9X3K4qcPL3M-cZxbevNwBkVSzcxSzGsqD7WIzk_HkzlnKUpHDUmXUhKEx6qQaTGSa1LtfAmIB16DqACbMrN47gvF9Cb82AryGGWYXNLDFO_nO5mvEERd13tVPlGIbI2r0QOq4uO6opvoPKgRmeRe0dZkX-zxDEWtTmfT-VCS7VrhCfHr8Z5kBNGFXxc1KjU7TnFr42geLTZa27acBphs-8asmnKezFiOc8RIzEQdctVTeNV9tusibygQUZQSRbjAqb5J4J19Zf-u0M0Q-KX8oaYX7f6ngymvkCC_AJp5gtE1OYlv8dotNHcdHyRPOP51GkcazSp7zBvgN9N5c83nmdFhyhFzrzLgiNaqmAse4XRkhOplMIw1bPtQvAQJsrtyFbOzmYzHuy5PeyWEzcwblo_BeGamLm1HbZXHGXnGDm9bJ_knLmWA8sYUoMiDHp0mwIubuZg3O8uDMN6O_asjW6u7C87ykBRIG0yPU-VSuWMtMP15mEp3Mzmd-espgswQqwZxyUeE0IsE6_yDj5PNtQOCal1W3WefOzVAs7kJK9PGVm-a93yKMXZI1yBJOKoY5LtRhDhbr0hZa3Zp4HpJHb1ZV0odTG5TXGgd8l0wWnE2xzpeWqCbhUSj0nRpmaCJCEahdVjR9bVJDbbLRzDpDctISn7mrqmClzJk_ybzpb95jgc637vx4xNpZfgiilk3AiD7jelE_KCtHjuYEFciBNp-skgFRip5mVCWLSMVnq7I_gvc0p65u96oUUte1CF7ozjtC8Wqjb780O0x9dPUPz7v8bRU9Y"
+    }
+   ]
+  }
+ }
+}

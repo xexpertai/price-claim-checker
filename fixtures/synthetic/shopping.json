@@ -1,0 +1,11 @@
+{
+  "_synthetic": "SYNTHETIC TEST DATA - invented values, not a real SerpApi response",
+  "search_metadata": { "id": "synthetic-shop-0001", "status": "Success", "processed_at": "2026-10-08 06:00:00 UTC", "google_shopping_url": "https://www.google.co.in/search?q=test" },
+  "search_parameters": { "engine": "google_shopping", "q": "test kettle 1.5l", "gl": "in", "hl": "en" },
+  "shopping_results": [
+    { "position": 1, "title": "Test Kettle 1.5L Steel", "price": "₹1,199.00", "extracted_price": 1199, "old_price": "₹1,999", "extracted_old_price": 1999, "source": "Shop One", "product_link": "https://example.com/p1", "immersive_product_page_token": "tok-kettle", "multiple_sources": true },
+    { "position": 2, "title": "Test Kettle 1.5L Steel", "price": "₹1,249.00", "extracted_price": 1249, "source": "Shop Two", "product_link": "https://example.com/p2" },
+    { "position": 3, "title": "Test Kettle Lid Replacement", "price": "₹149.00", "extracted_price": 149, "source": "Shop Three", "product_link": "https://example.com/p3", "immersive_product_page_token": "tok-lid" },
+    { "position": 4, "title": "Test Kettle 1.8L Steel", "price": "₹1,399.00", "extracted_price": 1399, "source": "Shop Four", "product_link": "https://example.com/p4", "immersive_product_page_token": "tok-18" }
+  ]
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "label": "Induction cooktop: “45% off, lowest price”",
+    "text": "Prestige PIC 16.0 plus 2000W induction cooktop at ₹3,299 – 45% off! MRP ₹5,999. Lowest price today!",
+    "claim": {
+      "product": "Prestige PIC 16.0 plus 2000W induction cooktop",
+      "price": 3299,
+      "discountPct": 45,
+      "referencePrice": 5999,
+      "claimsLowest": true
+    },
+    "anonText": "[2000 W induction cooktop: brand and model hidden] at ₹3,299 – 45% off! MRP ₹5,999. Lowest price today!",
+    "anonProduct": "(exact cooktop model, name hidden in this recording)",
+    "note": "Example claim written for this demo, not a real advertisement. It names one exact model; seller prices are a real SerpApi response recorded on 8 Oct 2026."
+  },
+  {
+    "label": "Steam iron: “25% off”",
+    "text": "Philips GC1011/01 steam iron, only ₹1,149 – 25% off!",
+    "claim": {
+      "product": "Philips GC1011/01 steam iron",
+      "price": 1149,
+      "discountPct": 25,
+      "referencePrice": null,
+      "claimsLowest": false
+    },
+    "anonText": "[1200 W steam iron: brand and model hidden], only ₹1,149 – 25% off!",
+    "anonProduct": "(exact steam iron model, name hidden in this recording)",
+    "note": "Example claim written for this demo, not a real advertisement. It names one exact model; seller prices are a real SerpApi response recorded on 8 Oct 2026."
+  },
+  {
+    "label": "Pressure cooker set: “lowest price”",
+    "text": "Butterfly Cordial 2L 3L 5L pressure cooker combo at ₹2,999 – lowest price online!",
+    "claim": {
+      "product": "Butterfly Cordial 2L 3L 5L pressure cooker combo",
+      "price": 2999,
+      "discountPct": null,
+      "referencePrice": null,
+      "claimsLowest": true
+    },
+    "anonText": "[2 L + 3 L + 5 L pressure cooker set: brand and model hidden] at ₹2,999 – lowest price online!",
+    "anonProduct": "(exact cooker set model, name hidden in this recording)",
+    "note": "Example claim written for this demo, not a real advertisement. It names one exact model; seller prices are a real SerpApi response recorded on 8 Oct 2026."
+  },
+  {
+    "label": "Air fryer: too little data",
+    "text": "Air fryer 4.2 litre at ₹2,999, 50% off",
+    "claim": {
+      "product": "Air fryer 4.2 litre",
+      "price": 2999,
+      "discountPct": 50,
+      "referencePrice": null,
+      "claimsLowest": false
+    },
+    "note": "Example claim written for this demo, not a real advertisement. A generic description like this matches too few comparable sellers, and the app says so. Seller prices are a real SerpApi response recorded on 8 Oct 2026."
+  },
+  {
+    "label": "Dry iron: “15% off, lowest price”",
+    "text": "Bajaj DX 11 1000W dry iron at ₹599 – 15% off, lowest price!",
+    "claim": {
+      "product": "Bajaj DX 11 1000W dry iron",
+      "price": 599,
+      "discountPct": 15,
+      "referencePrice": null,
+      "claimsLowest": true
+    },
+    "anonText": "[1000 W dry iron: brand and model hidden] at ₹599 – 15% off, lowest price!",
+    "anonProduct": "(exact dry iron model, name hidden in this recording)",
+    "note": "Example claim written for this demo, not a real advertisement. It names one exact model; seller prices are a real SerpApi response recorded on 8 Oct 2026."
+  },
+  {
+    "label": "Earbuds: only accessories found",
+    "text": "boAt Airdopes 141 at ₹999 – 75% off!",
+    "claim": {
+      "product": "boAt Airdopes 141",
+      "price": 999,
+      "discountPct": 75,
+      "referencePrice": null,
+      "claimsLowest": false
+    },
+    "anonText": "[wireless earbuds: brand and model hidden] at ₹999 – 75% off!",
+    "anonProduct": "(exact earbuds model, name hidden in this recording)",
+    "note": "Example claim written for this demo, not a real advertisement. The recorded Google Shopping India results for this name were cases and covers, so the app refuses to judge rather than compare the earbuds with accessory prices. Recorded on 8 Oct 2026."
+  }
+]

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Price-Claim Checker</title>
+<meta name="description" content="Check an Indian online deal claim against Google Shopping prices fetched through SerpApi, with a receipt for every number.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230f766e'/><text x='16' y='23' font-size='19' text-anchor='middle' fill='white' font-family='sans-serif'>₹</text></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">₹</span>
+      <div>
+        <h1>Price-Claim Checker</h1>
+        <p class="sub">Is that deal really a deal? Checked against Google Shopping India via SerpApi.</p>
+      </div>
+    </div>
+    <div class="status">
+      <span id="modeBadge" class="badge">…</span>
+      <span id="credits" class="credits" title="SerpApi searches used by this app (local ledger) and the local cap"></span>
+    </div>
+  </div>
+</header>
+<div id="anonBanner" class="anon" hidden>Store and product names are hidden in this recording. Prices, counts and search ids are unchanged.</div>
+
+<main class="wrap">
+  <section class="card" id="step1">
+    <h2><span class="step">1</span> Paste the deal claim</h2>
+    <textarea id="claimText" rows="3" placeholder="Paste a deal post, e.g. “[product] at ₹[price], [N]% off, MRP ₹[MRP], lowest price ever!”"></textarea>
+    <div class="row">
+      <button id="parseBtn" class="btn">Read claim</button>
+      <span class="hint">No AI involved: the text is read with fixed rules, and you can correct every field.</span>
+    </div>
+    <div id="examples" class="examples" hidden>
+      <span class="ex-label">Recorded examples:</span>
+      <div id="exList" class="chips"></div>
+      <p id="exNote" class="ex-note" hidden></p>
+    </div>
+  </section>
+
+  <section class="card" id="step2">
+    <h2><span class="step">2</span> Confirm what is claimed</h2>
+    <form id="claimForm" class="fields">
+      <label class="wide">Product (what to search)<input id="fProduct" required maxlength="160" autocomplete="off"></label>
+      <label>Claimed price (₹)<input id="fPrice" inputmode="decimal" autocomplete="off"></label>
+      <label>Claimed discount (% off)<input id="fDisc" inputmode="decimal" autocomplete="off"></label>
+      <label>Claimed MRP / “was” price (₹)<input id="fRef" inputmode="decimal" autocomplete="off"></label>
+      <label class="check"><input type="checkbox" id="fLowest"> Claims “lowest price”</label>
+      <div class="row wide">
+        <button class="btn primary" id="checkBtn" type="submit">Check claim</button>
+        <span id="costHint" class="hint"></span>
+      </div>
+    </form>
+  </section>
+
+  <section id="result" aria-live="polite"></section>
+</main>
+
+<footer class="wrap foot">
+  <p><strong>How it decides:</strong> fixed, published rules (see <a href="https://github.com/xexpertai/price-claim-checker#what-it-checks">README</a>); no AI model runs when you check a claim. Prices are a snapshot at the fetch time shown in the receipt; coupons, bank offers and stock are not visible to it.</p>
+  <p>Data: Google Shopping and Google product pages, fetched through SerpApi. Not affiliated with SerpApi or Google.</p>
+</footer>
+<script src="app.js" type="module"></script>
+</body>
+</html>

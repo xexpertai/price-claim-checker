@@ -1,0 +1,544 @@
+{
+ "fetchedAt": "2026-10-08T11:03:35.462Z",
+ "params": {
+  "engine": "google_immersive_product",
+  "page_token": "S9rQL3icLZNJjuNWEoZtn6CPkPuECu9xZia0ICmSopKDODxS5EagOM-zROk0jayyAXtpG_C2r2Ev-iLeOMv2NiLwxYfAH___5j_vSfFbvi_34YDbR2OZClU7UlSjLFz2Yz928RLNRfwrhDhBEQSO4TTNMBASgGV-jMI5rLusiH8hWRqnKBJSOI5DBoMAMj_nSRjXRZsYaZqMuy76SiEYErAsjhMkTX4MkgTF_lQ0YZb822ewjy0AhyzEKAhpDCOpz2M8_ff7YUnG---f-jGZ5iJLnvsieobUJ_Dc18v0jAEAbs9F-7ds1z5HXVfNXf991n9QfyZxEqc-vFmSJSkCwyjmc_O1TFMEhTEAZzCG_iqNf-6v83uefVmWOvnfe1a_F-17Xr8n7Q9d2F_T6I9vP4tjJAjXiDdR37s7Czi7OLAlaUqkwDFRTaFTj1-q9aiDXEB1TZloRX6tW1p7EOzqQF0asvCr2tekuonBGtqigiN4SP02uAWAfGgoX3xY2zZa26gMTL3J7wgcvKiRhMujluKynjQvn3RcwQKRFQwveIQtv_huHyIRrkjUgFfroVkBwpbn1cbmUgMSRCdrUj3SME7aLZFjJanyyoSsHMgu0lDfOHg_6DB48zzWCR3JiFy2D11JsKA4I9EN4kZXbVlqHNdtzZqngkpXNeiWWh0MmjzLhuuOqg2nsDoIF-QqAWAxvXQXXdZzhPRHIFqk6rIlgsEa73jZ9XolQLBClnIKxXz4YK8a1E0Hdx8hWnW087ELqqHpRaFSSWKEK2RQ65QLetsvgzyuDrLuwU6vgzIEluKeLE9389xpoi_rNKa_A04iZ9uglPWscqYz8MHKVDeqQGoCZN20zfD2AmkWfiSRgDiGwR--hqZI_vjuT9sQ7K3AKa9P57OdRMuYbGzHOm45Xs85qqjJZbOC8jTTnIzkzq55u0t5hYAh9Mo7np9vPJuyi-rl6RHeo0G3y150ojROhtqPlWlW7f3Oz-JSDy-BQXm7TV2wpiQ1a_b6ZIucJezPNqeJtuKIWyEzlfMg8q9PnChsuTBkxcNwdSGZnUWKV685iHXfmzrnOHCMCkeI0P1Imn4xbpKJUx9aAU-HweRen2TDkFXxzPHIFs_iSdSOjmLoW2W3ZcJLRJIAXBhIJxSgXhxt-89pKAbiL8J2fFGOW-zj3SBLf4LkJ5bcvNjbt3gt8BgPQXqRsIUQa_ZW3Y_o9Un_YArDJAicaOOmyBurvLM1M97s4bU567jOxbNkLKdjeN3g68QLJwEFZeHqY-GX2LVypqJMF_NodIZNv3np0Rp7eCCvo-nXWameu80BdAEYwdzaOcHGAX3jMcYORHlWixAYxN6FJQBlNvflY2JXf8z2dy0NZS13V4FIqzZoD_kla-o2pto32uppQVF8jx-CAzHMbC25maAL0borOlULzi5SH6SZ0i3BJdChN-2FzCwjAoYFzajYsOMbzmRxbUbpNReUKLcPWXMWsAM-gntJs2VxOp1phY19N7rcp1bBp6W0C-soluQJH9_aWvUp457xWoV4MNz2j1sirX5xXQeNEhYvM2fX3VWejpHl7W5OZXPciDqT3R5sfPD2uPbWFe3jXhsBfWd3sRGItmCE7sZPxzqLzzcYbhym48Dr087dcuvJ4qpyn2tTouzqgQ2jJp2I-0m630Wr-wtxQgJ9",
+  "more_stores": "true"
+ },
+ "raw": {
+  "search_metadata": {
+   "id": "6ac77885e22fed0869dd0179",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/sRXmJcPbiXywFP8_8mhM1F7ZIq4ppY2YAEoYTP4WEeM/6ac77885e22fed0869dd0179.json",
+   "markdown_endpoint": "https://serpapi.com/searches/sRXmJcPbiXywFP8_8mhM1F7ZIq4ppY2YAEoYTP4WEeM/6ac77885e22fed0869dd0179.md",
+   "created_at": "2026-10-08 11:03:33 UTC",
+   "processed_at": "2026-10-08 11:03:33 UTC",
+   "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=hHjHaq3SPOusiLMP66mIuAg&q=prestige+pic+16.0+plus+2000w+induction+cooktop&gl=in&hl=en&cs=1&async=productid:11346443237788114098,catalogid:5973665163331821018,gpcid:535363779595642268,headlineOfferDocid:14850993345753185469,imageDocid:18246403191261172256,isp:true,query:prestige%20pic%2016.0%20plus%202000w%20induction%20cooktop,mid:576462803828718213,pvt:hg,oapvfc:ErcCCvcBQUppVDR0TDdZSFFseFZTQUl6UXp3bkxPN0hCUll6QUxUYlNRMnJCSkJ6bm5iYklYMFlmd0xaSEI3U1JfYnZwZ05zMUhuY1lSSUxncjZQNmhyU0JWcmFCbzlFdjlsMWhsN3I2ZE9COWZzanBuYVpaUE1xUEM0WlNaQk04SGtxS2tjM0F1UXRsLW5OOXMweGdIekhkQ19GZGVUMUpmT3pqN1ZKWW9TaTFOcV9paVFCR1EtUEVZdmNLSGFmTVVnQlB6ZkNLM1VjMlZqMGtGOVVrLS1sakJCbUVIZ092NjVuNGNhUUNzZER5LV9jU1ZxdDBGVWpIZU1kURIXaEhqSGFxM1NQT3VzaUxNUDY2bUl1QWcaIkFEc3I5ZlN6V0pSYjZhdkJGNW1oNlZja0RIVXRWNVhhTmc,xsrf:AF5tSO6Ix_LAQTqBZx8kw6iULe0GNQSQaw%3A1791457413221,sori:0,mno:3,_fmt:jspb",
+   "raw_html_file": "https://serpapi.com/searches/sRXmJcPbiXywFP8_8mhM1F7ZIq4ppY2YAEoYTP4WEeM/6ac77885e22fed0869dd0179.html",
+   "prettify_html_file": "https://serpapi.com/searches/sRXmJcPbiXywFP8_8mhM1F7ZIq4ppY2YAEoYTP4WEeM/6ac77885e22fed0869dd0179.prettify",
+   "total_time_taken": 3.39
+  },
+  "search_parameters": {
+   "engine": "google_immersive_product",
+   "page_token": "S9rQL3icLZNJjuNWEoZtn6CPkPuECu9xZia0ICmSopKDODxS5EagOM-zROk0jayyAXtpG_C2r2Ev-iLeOMv2NiLwxYfAH___5j_vSfFbvi_34YDbR2OZClU7UlSjLFz2Yz928RLNRfwrhDhBEQSO4TTNMBASgGV-jMI5rLusiH8hWRqnKBJSOI5DBoMAMj_nSRjXRZsYaZqMuy76SiEYErAsjhMkTX4MkgTF_lQ0YZb822ewjy0AhyzEKAhpDCOpz2M8_ff7YUnG---f-jGZ5iJLnvsieobUJ_Dc18v0jAEAbs9F-7ds1z5HXVfNXf991n9QfyZxEqc-vFmSJSkCwyjmc_O1TFMEhTEAZzCG_iqNf-6v83uefVmWOvnfe1a_F-17Xr8n7Q9d2F_T6I9vP4tjJAjXiDdR37s7Czi7OLAlaUqkwDFRTaFTj1-q9aiDXEB1TZloRX6tW1p7EOzqQF0asvCr2tekuonBGtqigiN4SP02uAWAfGgoX3xY2zZa26gMTL3J7wgcvKiRhMujluKynjQvn3RcwQKRFQwveIQtv_huHyIRrkjUgFfroVkBwpbn1cbmUgMSRCdrUj3SME7aLZFjJanyyoSsHMgu0lDfOHg_6DB48zzWCR3JiFy2D11JsKA4I9EN4kZXbVlqHNdtzZqngkpXNeiWWh0MmjzLhuuOqg2nsDoIF-QqAWAxvXQXXdZzhPRHIFqk6rIlgsEa73jZ9XolQLBClnIKxXz4YK8a1E0Hdx8hWnW087ELqqHpRaFSSWKEK2RQ65QLetsvgzyuDrLuwU6vgzIEluKeLE9389xpoi_rNKa_A04iZ9uglPWscqYz8MHKVDeqQGoCZN20zfD2AmkWfiSRgDiGwR--hqZI_vjuT9sQ7K3AKa9P57OdRMuYbGzHOm45Xs85qqjJZbOC8jTTnIzkzq55u0t5hYAh9Mo7np9vPJuyi-rl6RHeo0G3y150ojROhtqPlWlW7f3Oz-JSDy-BQXm7TV2wpiQ1a_b6ZIucJezPNqeJtuKIWyEzlfMg8q9PnChsuTBkxcNwdSGZnUWKV685iHXfmzrnOHCMCkeI0P1Imn4xbpKJUx9aAU-HweRen2TDkFXxzPHIFs_iSdSOjmLoW2W3ZcJLRJIAXBhIJxSgXhxt-89pKAbiL8J2fFGOW-zj3SBLf4LkJ5bcvNjbt3gt8BgPQXqRsIUQa_ZW3Y_o9Un_YArDJAicaOOmyBurvLM1M97s4bU567jOxbNkLKdjeN3g68QLJwEFZeHqY-GX2LVypqJMF_NodIZNv3np0Rp7eCCvo-nXWameu80BdAEYwdzaOcHGAX3jMcYORHlWixAYxN6FJQBlNvflY2JXf8z2dy0NZS13V4FIqzZoD_kla-o2pto32uppQVF8jx-CAzHMbC25maAL0borOlULzi5SH6SZ0i3BJdChN-2FzCwjAoYFzajYsOMbzmRxbUbpNReUKLcPWXMWsAM-gntJs2VxOp1phY19N7rcp1bBp6W0C-soluQJH9_aWvUp457xWoV4MNz2j1sirX5xXQeNEhYvM2fX3VWejpHl7W5OZXPciDqT3R5sfPD2uPbWFe3jXhsBfWd3sRGItmCE7sZPxzqLzzcYbhym48Dr087dcuvJ4qpyn2tTouzqgQ2jJp2I-0m630Wr-wtxQgJ9",
+   "more_stores": true
+  },
+  "product_results": {
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQj8XiAS7pEdMpQ2fxtiCn4sEPMOsCALAMDelHZzAuvIo8SonGP9HwJ6C5DgCwb2NYj83EWBUYTzrLg0-aEldFCmC5Y4dTM_KTquASVhN4lI0kRqTmEFnx1xxI",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUHGa_8gaZYQkJ1ocQiyeso5uro8-kYggTs5sEoVHRNNQ7pXiBkxuxw8jyh4-WM5DTxSAdV4s3uZ414rYFUyqD_3bqT9b4vzzofPdg6WoEozzhpCYy_ql-8w",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFKg0UJVqK7Wt4XKfAM1T4vpN9GD7p1bj5Aa5WPlClGKig16GlNxVuSIVaUqePwlRh5OeWKE0mo7XUJIbiGd5zyIyajbIP69t-KsY0JHpFawiNeVgV0SCm",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTiL797f3GQBylDCJdn7PuMCtp-gmM6L8vOp43ikO55s-67CmQuOc-dBQ7DI7GT6dSgmHh7k3jpy-0to5UMquZc5P9efoRVWZ0rci4t1gw58ak0RccO8U_EDA",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV_szWhMVIf45e9BKQ-oINBT4AP7ZUzpFe24ANY5qZIdfxFeHhF9ac2TuTr5tCtDj3An9HWoHdaa9cmt5IN8DveytU6dPsdQ",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJHhlsuhIZuRjr5IV-1T1dt7Eo1ecPgsHv2_Qh41ZaWmHmlky_CS4AoKI6upMi9js24GScqj9Cfx2x3mdZXXFFCiFxM9pwLts0yfNBTvX6xX_uXXP1t-YJ",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRPcAQe21rPdfIZ7UayhmvmcMkBhIMkRqCLGczqUYc2R_WL3ZhX0EX-vllNH2ExR1ShVHZYJPpt43UVyC7QY65TfmslGaPhMk00lOlfocOEpRJs2yHU0l4thoI",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPc-qmNlMUhd8hgMk1h8Ean2vrSdUNY_n4adbn0uyahEHrZiX8i2MastE6HFU6InAz0UsY5iqHH_b3zc7cgySEaa2a169d",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlf1OkVvxs_jtKUyBgK3cLjnLUJLHkykFqQxw6ac0D2U_4mYeC7zrPx2rW0a_sQyVCiYLBWErISJoqECrfF5FL22AeTfidUNWv91zZEiX5"
+   ],
+   "title": "Prestige PIC 16.0 plus 2000W Single Induction Cooktop with 8 Preset Menus",
+   "brand": "Prestige",
+   "price_range": "₹3,199-₹3,299",
+   "stores": [
+    {
+     "name": "Amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/Prestige-1900-Induction-Cooktop-button/dp/B00NM6MO26?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A19FTARVZBE213",
+     "title": "Prestige PIC 16.0 Plus 2000 Watts Induction Cooktop | 4KV Surge Protection | 8 Preset Indian Menu Option with Timer | Soft Touch Button | Easy to",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery"
+     ],
+     "price": "₹3,089",
+     "extracted_price": 3089,
+     "original_price": "₹4,170.00",
+     "extracted_original_price": 4170,
+     "shipping": "Free",
+     "total": "₹3,089",
+     "extracted_total": 3089
+    },
+    {
+     "name": "TTK PrestigeLimited",
+     "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://shop.ttkprestige.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://shop.ttkprestige.com/prestige-pic-16-0-plus-2000-watts-induction-cooktop-indian-menu-option-automatic-power-temperature-adjustment-protection-against-insects-1-year-warranty-black.html?srsltid=AU7gw4WCi5_rVMKtPKGsM683C9RuMSCUneKepCmJUu_ccn6PxcjhU6_Nptk",
+     "title": "Prestige PIC 16.0 plus 2000 Watts Induction Cooktop|Indian Menu Option|Automatic power & temperature adjustment|Protection against insects|1 year ",
+     "rating": 4.7,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 13–16 Oct"
+     ],
+     "price": "₹4,595",
+     "extracted_price": 4595,
+     "shipping": "Free",
+     "total": "₹4,595",
+     "extracted_total": 4595
+    },
+    {
+     "name": "myG",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.myg.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.myg.in/home-and-kitchen/induction-cooktops/prestige-induction-16-0-plus-cooktop-2000-w-black-41949/?srsltid=AU7gw4WwIUFCSDMRAG48yiIyc5vcnmIXRD6v2ldl-SxsctCQ2VIUzyYFeiA",
+     "title": "Prestige Induction 16.0 plus Cooktop | 2000 W | Black | 41949",
+     "rating": 4.3,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 13–15 Oct",
+      "Not eligible for returns"
+     ],
+     "price": "₹3,280",
+     "extracted_price": 3280,
+     "shipping": "Free",
+     "total": "₹3,280",
+     "extracted_total": 3280
+    },
+    {
+     "name": "Mahajan Electronics",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mahajanelectronics.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://mahajanelectronics.com/products/prestige-pic-16-plus-2000w-induction-cooktop-8-preset-indian-menu?variant=45700743921721&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4XBUsdjPROexeANcXXApw_5XPR7EazPHUDLQPqMZVSm4xyN4FLps1U",
+     "title": "Prestige PIC 16.0 Plus 2000 Watts Induction Cooktop | 4KV Surge Protection | 8 Preset Indian Menu Option with Timer | Soft Touch Button | Easy to ",
+     "details_and_offers": [
+      "In stock online",
+      "1-day returns"
+     ],
+     "price": "₹3,192",
+     "extracted_price": 3192,
+     "total": "₹3,192",
+     "extracted_total": 3192
+    },
+    {
+     "name": "Pittappillil Agencies",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pittappillilonline.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.pittappillilonline.com/induction-cooker-prestige-cook-top-pic-16-0-plus?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=products",
+     "title": "INDUCTION COOKER PRESTIGE COOK TOP PIC 16.0 PLUS | Pittappillil Agencies",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Fri–Sat"
+     ],
+     "price": "₹3,200",
+     "extracted_price": 3200,
+     "shipping": "Free",
+     "total": "₹3,200",
+     "extracted_total": 3200
+    },
+    {
+     "name": "Fliptwirls",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.fliptwirls.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.fliptwirls.com/shop/kitchen-appliances/induction/prestige-pic-160-plus-2000-watts-induction-cooktopindian-menu-optionautomatic-power-temperature-adjustmentprotection-against-insects1-year-warrantyblack",
+     "title": "Prestige PIC 16.0 plus 2000 Watts Induction Cooktop|Indian Menu Option|Automatic power & temperature adjustment|Protection against insects|1 year ",
+     "rating": 1.7,
+     "reviews": 12,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "3-day returns"
+     ],
+     "price": "₹3,159",
+     "extracted_price": 3159,
+     "shipping": "Free",
+     "total": "₹3,159",
+     "extracted_total": 3159
+    },
+    {
+     "name": "Velan Store",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velanstore.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://velanstore.com/products/prestige-pic-16-0-plus-2000-watts-induction-cooktopindian-menu-optionautomatic-power-temperature-adjustmentprotection-against-insects1-year-warrantyblack?currency=INR&country=IN&variant=46986427531491&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=14bb3478a606&srsltid=AU7gw4WYF0cMVfjpY568_GUFciEdSufbZb2ehHI_ec2IE8stVfgnsfpZ0BU",
+     "title": "Prestige PIC 16.0 plus 2000 Watts Induction Cooktop|Indian Menu Option|Automatic power & temperature adjustment|Protection against insects|1 year ",
+     "rating": 3.4,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Delivery between Sun–Tue ₹40",
+      "10-day returns"
+     ],
+     "price": "₹3,019",
+     "extracted_price": 3019,
+     "original_price": "₹4,170.00",
+     "extracted_original_price": 4170,
+     "shipping": "+ ₹40",
+     "shipping_extracted": 40,
+     "total": "₹3,059",
+     "extracted_total": 3059
+    },
+    {
+     "name": "kesariya",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://kesariya.shop&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://kesariya.shop/product/prestige-induction-pic-16-0/?srsltid=AU7gw4XV7q6BRz19MkQnQ-NdORjXhYiLwuw1xsWpM1cobXT56hSMX5WM6C0",
+     "title": "PRESTIGE INDUCTION PIC 16.0 +",
+     "details_and_offers": [
+      "In stock online",
+      "Delivery between 9–17 Oct ₹10",
+      "7-day returns"
+     ],
+     "price": "₹3,280",
+     "extracted_price": 3280,
+     "shipping": "+ ₹10",
+     "shipping_extracted": 10,
+     "total": "₹3,290",
+     "extracted_total": 3290
+    },
+    {
+     "name": "Faritha",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://faritha.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://faritha.com/products/prestige-pic-16-plus-induction-cooktop?variant=47750858014969&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4Vdwy3Cqlo_PNwIrSn-PCS72rt8R1vPHY0OIfFzXr3G9NMf3pEjtrc",
+     "title": "Prestige PIC 16.0 Plus 2000W Induction Cooktop ₹5,999 | 4KV Surge | Faritha",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "10-day returns"
+     ],
+     "price": "₹5,999",
+     "extracted_price": 5999,
+     "shipping": "Free",
+     "total": "₹5,999",
+     "extracted_total": 5999
+    },
+    {
+     "name": "tatacliq.com",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tatacliq.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.tatacliq.com/prestige-black-glass-induction-pic-16-0-plus-2000w-cooktop/p-mp000000020298102",
+     "title": "Prestige Black Glass Induction Pic 16.0 Plus 2000W Cooktop",
+     "rating": 4.4,
+     "reviews": 66,
+     "details_and_offers": [
+      "Out of stock online",
+      "3-day returns"
+     ],
+     "price": "₹3,450",
+     "extracted_price": 3450,
+     "total": "₹3,450",
+     "extracted_total": 3450
+    },
+    {
+     "name": "Croma",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.croma.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.croma.com/prestige-pic-16-0-plus-2000w-single-induction-cooktop-with-8-preset-menus/p/315857?srsltid=AU7gw4Wuu-J3TdOtOVKri8wBwilcjBgV-G3C-COnLXz1RNKL-M4_OjIKmrY",
+     "title": "Prestige PIC 16.0 Plus 2000W Single Induction Cooktop with 8 Preset Menus",
+     "rating": 3.7,
+     "reviews": 187,
+     "details_and_offers": [
+      "Out of stock online",
+      "Delivery ₹29"
+     ],
+     "price": "₹3,299",
+     "extracted_price": 3299,
+     "shipping": "+ ₹29",
+     "shipping_extracted": 29,
+     "total": "₹3,328",
+     "extracted_total": 3328
+    },
+    {
+     "name": "Moglix",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.moglix.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.moglix.com/prestige-2000w-induction-cooktop-pic20-v2-r/mp/msn2w6d8uybygf?srsltid=AU7gw4WTFW1JCm5J1ExyL5ZY9cYQxUIoJsON6gcHode7nSoTZgB-d2s5UKs",
+     "title": "Prestige 2000W Induction Cooktop, PIC2.0-V2 R",
+     "rating": 3,
+     "reviews": 38,
+     "details_and_offers": [
+      "Out of stock online",
+      "Free delivery between 13–15 Oct",
+      "7-day returns"
+     ],
+     "price": "₹3,544",
+     "extracted_price": 3544,
+     "shipping": "Free",
+     "total": "₹3,544",
+     "extracted_total": 3544
+    },
+    {
+     "name": "Digihaat",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://digihaat.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://digihaat.in/en/product?provider_id=69f85277e4744d90042f59a2&bpp_id=prd.mystore.in&domain=ONDC:RET16&item_id=69fede955ce7de31bb51beee&srsltid=AU7gw4VGAkzOgvrGPUn-vfrO6bVt-58uRSuNDjoD8j_StrTDBJDjqXH_K_I",
+     "title": "Prestige 2000 watt induction cooktop",
+     "details_and_offers": [
+      "Out of stock online",
+      "Free delivery between 13–19 Oct",
+      "₹100 Off on First Orders Above ₹999"
+     ],
+     "price": "₹3,895",
+     "extracted_price": 3895,
+     "shipping": "Free",
+     "total": "₹3,895",
+     "extracted_total": 3895
+    }
+   ],
+   "about_the_product": {
+    "title": "Buy PIC 16.0 plus 2000 Watts Induction Cooktop, Black",
+    "link": "https://shop.ttkprestige.com/prestige-pic-16-0-plus-2000-watts-induction-cooktop-indian-menu-option-automatic-power-temperature-adjustment-protection-against-insects-1-year-warranty-black.html",
+    "displayed_link": "shop.ttkprestige.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://shop.ttkprestige.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+    "features": [
+     {
+      "title": "Automatic Shut-off",
+      "value": "Yes"
+     },
+     {
+      "title": "Color",
+      "value": "Black"
+     },
+     {
+      "title": "Highlighted Features",
+      "value": "Aerodynamic cooling system, Automatic voltage regulator, Indian Menu Option, Pause function"
+     },
+     {
+      "title": "Wattage",
+      "value": "2000 W"
+     },
+     {
+      "title": "Voltage",
+      "value": "230 V"
+     },
+     {
+      "title": "Housing Material",
+      "value": "Plastic"
+     },
+     {
+      "title": "Speed",
+      "value": "Fast heating"
+     },
+     {
+      "title": "Depth",
+      "value": "8.5 cm (Product Dimension)"
+     },
+     {
+      "title": "Height",
+      "value": "8.5 cm (Product Dimension)"
+     },
+     {
+      "title": "Width",
+      "value": "39 cm (Product Dimension)"
+     },
+     {
+      "title": "Weight",
+      "value": "1.7 kg"
+     },
+     {
+      "title": "Controls Type",
+      "value": "Soft touch push buttons"
+     },
+     {
+      "title": "Indicator Lights",
+      "value": "Yes (power indicator)"
+     },
+     {
+      "title": "Finish",
+      "value": "Glossy"
+     },
+     {
+      "title": "Style",
+      "value": "Innovative"
+     },
+     {
+      "title": "Preset Programs",
+      "value": "Indian Menu Option"
+     },
+     {
+      "title": "Smart Features",
+      "value": "Radio frequency remote control"
+     },
+     {
+      "title": "Energy Efficiency",
+      "value": "Power Saver Technology"
+     }
+    ]
+   },
+   "videos": [
+    {
+     "title": "🔥 Prestige PIC 16.0 Plus 2000W Induction Cooktop",
+     "link": "https://www.youtube.com/watch?v=P-5yRMU3eLo",
+     "source": "YouTube",
+     "channel": "Vish tech ",
+     "duration": "5:21",
+     "thumbnail": "https://i.ytimg.com/vi/P-5yRMU3eLo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lcKNQ6XiA99mGixxw2ClwIj0ki7Q",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQU2hAYMfSNdXMscRlhK3ImSImNcMurl6yl2w"
+    },
+    {
+     "title": "Prestige PIC 16.0 Plus 2000W Induction Cooktop Review 🔥 Best ...",
+     "link": "https://www.youtube.com/shorts/Yx3ioXtWC8c",
+     "source": "YouTube",
+     "channel": " Gadgets Hub",
+     "duration": "1:09",
+     "thumbnail": "https://i.ytimg.com/vi/Yx3ioXtWC8c/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3lV2a8NuIc68u5fvwAtyflRNAulxg",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRp1PxwsSJ7PRAeW_1CIbjkjdThll-SKfL2cw"
+    },
+    {
+     "title": "Best Induction Cooktop in India 2026 🔥 Prestige PIC 16.0+ Review",
+     "link": "https://www.youtube.com/watch?v=gfQ47R5kbbo",
+     "source": "YouTube",
+     "channel": "KITCHEN TOOLS BY AVNEET BABBAR",
+     "duration": "5:44",
+     "thumbnail": "https://i.ytimg.com/vi/gfQ47R5kbbo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l6DWtKznv2ccHj-jIgyDxwkW0nHw"
+    },
+    {
+     "title": "Prestige PIC 16.0 Plus 2000 Watts Induction Cooktop | 4KV Surge ...",
+     "link": "https://www.facebook.com/MahajanElectronics/videos/prestige-pic-160-plus-2000-watts-induction-cooktop-4kv-surge-protection-8-preset/914900141377130/",
+     "source": "Facebook",
+     "channel": "Mahajan Electronics",
+     "duration": "0:18",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRowqUMFHmTVcS9eH_pwpHJB2RhYCOCTbbC65cYhUhkv9lvw&s"
+    },
+    {
+     "title": "Prestige PIC 16.0 Plus 2000 Watts Induction Cooktop",
+     "link": "https://www.facebook.com/MahajanElectronics/videos/prestige-pic-160-plus-2000-watts-induction-cooktop-4kv-surge-protection-8-preset/918083581043586/",
+     "source": "Facebook",
+     "channel": "Mahajan Electronics",
+     "duration": "0:26",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut2o8b3XOzHSbt61XyecHireJp8x0L4yXaCM5M4yzB7euHQ&s"
+    },
+    {
+     "title": "Prestige Induction Cooktop 2000 Watts PIC 16.0+",
+     "link": "https://www.youtube.com/watch?v=0Pa3mLzxt5w",
+     "source": "YouTube",
+     "channel": "ZK Unboxing ",
+     "duration": "2:04",
+     "thumbnail": "https://i.ytimg.com/vi/0Pa3mLzxt5w/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l2pw7l1DTJuCSVnTm2WLPc2K-GnA"
+    },
+    {
+     "title": "Prestige PIC 16.0 Plus 2000 Watts Induction Cooktop | 4KV Surge ...",
+     "link": "https://www.instagram.com/reel/DYwP4-aT0GH/",
+     "source": "Instagram",
+     "channel": "PRESTIGE XCLUSIVE",
+     "duration": "0:48",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETFWVsl1kXxRe2wOPChU9pcnx9mYuRpUMTrj3ljCc89wXXw&s"
+    },
+    {
+     "title": "Make Cooking Easy with the Prestige PIC 16.0 Plus Induction Cooktop!",
+     "link": "https://www.youtube.com/watch?v=VkroMHByFDs",
+     "source": "YouTube",
+     "channel": "Kitchen Killadi",
+     "duration": "21:26",
+     "thumbnail": "https://i.ytimg.com/vi/VkroMHByFDs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kxhfunkYgYmCJVF7KVGvbdx-zaXg"
+    },
+    {
+     "title": "Prestige PIC 16.0+ Induction Cooktop Unboxing",
+     "link": "https://www.youtube.com/watch?v=v0guaOjZ0_g",
+     "source": "YouTube",
+     "channel": "Unbox-d by Digit",
+     "duration": "3:29",
+     "thumbnail": "https://i.ytimg.com/vi/v0guaOjZ0_g/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nqdYZFzYx8Khzw6kN9ac8XSgXJUg"
+    },
+    {
+     "title": "Prestige pic 16.0 plus 2000 watt induction cooktop",
+     "link": "https://www.youtube.com/watch?v=gneSKyC5FBQ&vl=en",
+     "source": "YouTube",
+     "channel": "Owner's Verdict",
+     "duration": "4:41",
+     "thumbnail": "https://i.ytimg.com/vi/gneSKyC5FBQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kQFmx-70zBLRGdomyZq_F-vWx70Q"
+    },
+    {
+     "title": "Prestige Induction cooktop review 2020 [Model no- PIC 16+ ] In Detail",
+     "link": "https://www.youtube.com/watch?v=eQUbHibq6Cg",
+     "source": "YouTube",
+     "channel": "Smart Product Cafe",
+     "duration": "7:12",
+     "thumbnail": "https://i.ytimg.com/vi/eQUbHibq6Cg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l1YNvZAXoYBnbZ_LpFTmXM6xgxSA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_ZmYrmMX9diwUvuDjp3xNIRx0aMfuLx0hEg"
+    },
+    {
+     "title": "Watch Prestige PIC 16.0 Induction Cooktop Unboxing on Amazon Live",
+     "link": "https://www.amazon.in/live/video/111e5d2be722483594c19083f453e4bc",
+     "source": "Amazon.in",
+     "channel": "Digit",
+     "duration": "3:28",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJdlPkJBGkjun-jb824XaqdlOeFmA82nFAFnnLanxbctihg&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-6lMv0QKixcRLyUqOCZ7TbOng78ceHM5psg"
+    }
+   ],
+   "more_options": [
+    {
+     "title": "Prestige 2000 W Induction Cooktop Touch Panel",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRngchzl3OcWl2vtAgKRTID83BA0BcvpkpdeWUmZZ70pLLn-qSZLeA1V5pJ4JsfhX-lhf2A7An1VyJ2llWXeL72WKcM8IfokucfDluWUzZ1c_Z7cCvlMQnZyA",
+     "price": "₹2,999",
+     "extracted_price": 2999,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5XBqNHicLZTJruvGEYYT5AXyEhdZHOiimzOz4yiSh4M4NYeNQHGmKM6SyPM0xrmxAWfpBPDWr2Ev8iyhbG-6q6sKf32oru7__eXvn3n9c6U0SjLi7sm6z7VunCjqpt658sdh6rN7utTZfyHECYogcAynaYaBkAAs82OaLEnbl68wQTM0gbEEhTEEBQC5Gz9VeZK1dZdbRZFPYp--8jAaJwhA73GahBhBsiz4d31LyvzPOEmSDIZhJI5hNMCxXYn5frzn0_br12HK56Uu87ehTt8g9RW8De19fttzwPOt7n4H7bu3tO-vSz98Xw674H_wHYnageBuYAzGsCT77VZnP5E09WIl9zNO7PQU9m14LJ9V-Vm2n3X3WbWfefdDnwyPIv3tr9-kKRWER8rb_jAg0QFuQK4-7IF3Nbu0QQ8DyQSCBshuWhcrfGNILeW1gxLIPIzwlAyCTImwAXOwWMgRf8-DbHVdqKAjS12Og49gW11ChJtXJ3IlFrk3OUlFpFxuleMdY8FXriAKUtxVNM0OhgDJGjLlITYDG4-lishRpkY4X7ktH-RBXEVeq5nBIBlhpiGkRUEQ69l1JwwrPpfkOARsl_jZhryqz29VYmLD8wIr0QbRM8NlVw9MaMkp6QdDn4bIj9BQXGSk634sGkhT_MY0jbY9OqGZhNCp_Y-SjDENeXLl66Gz6cF6TRHy0JGAHnCMCzRJ7_hcMqANXivLgaOGyZEc3aO86mhQYplbEhd2vogsVyw3G10T9SpLKa6Scetcnc4BgdL2puQ4cVBF2c6ctBkKbhqRivyKWulf6zwVvwJOJhfXIlBCqCUGrGdbg4ANoTY-r-04Hhe2_CekWUiQNAFJQLA_vOalzn_72z9cS3C_4KLAqV9w_u18dvP0PuUH13NOu5vjzYqj6pa8H1bQhAvNHf1jv_fb7QteJWACg2bDq_OTZwv2rgdVcYJbOppuM0heWmT52EaZOi-6q4hRmTVmcoktKhAPbc3asnxby1dVV-IcQTm7nCG5qie9cEpbPY8S_4pykvAiSRJW0sYHgmR5lihef1QgM6Ng7r3TyDE6nKDvbyfSjurpkM-c_mHUMNRGm3tpHC3rqEtnjvdd6SyFknHyVMvcZVVxX5jkkpIkABcG0jkFqC845xm7_4-WUQzEd88LYtp39dUXbH-JkKW_QvIrSx5276uH79la4xmegH1osDshtezzup38V33z9zrCOAsCJ7m4LfHWehRdw84OCnzcziZuctkiW_fwlDwO-DrzQij4cVMjc6qjBntcvbluirt9snrLpd-D4uRMA9TIx2RHbdno5_6ggT4GE1g6tyLYLKafPMa4sXRc9DoBFqEg2ADQlMvQfMzsGk2lshlFcjQqtApEce3iTqsu5a3tMqp7p52BFlQ1Cvgx1ohxYVsZlYIppKtY97oRn5Gvf5B2QXcEl0OPPnQXsnSsFFgOtNP6wE7vOFNmrZ0Wj0pQ08rVyttZwDR8AltDs00dhmdaZbMIpZdt7lR8vjdu7Zykhgzx6b1r9YiytpI3rj4Pxqfy8czlNaof62hQwj0o7QUh8RqYGNk8N3tubqeDZDLl84PNtEDBjfe-7j621orpjRUzK5ZcwUrQISqmtszOT5gcPKbnwOtyRPSarzV0uGujVMacq2I7skl6K2ZiC-Vtk5z-25TN3-2fZfHL_wF2rAiO"
+    },
+    {
+     "title": "Prestige Iris Sleek 2000 Watts Induction Cooktop-Individual Touch Buttons",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_P3xBv2mQLlePjNBULH7tVwM_pL9xIj0tORM4w4ug6CGw6XhgukICVDzu4MuQhmMjo7k2ugu4U5XwQVaVY3iZ7z9dpPw1S6FpoQtqgJJLsCrdX_275HSD",
+     "price": "₹2,599",
+     "extracted_price": 2599,
+     "reviews": 5,
+     "rating": 4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NvU4iXicdVTL0qvGEU4lL5CFX-FUFn_p1Ax3suOO-AWI2yDYqBDDHQECdEGVp_lP7CpnabvK27zG8cLPYnS8TRYzU9Xd09_X3_T073_5-0dW_VrqtZ5cSG9vX6dqZ-4Z5ry9CsWPw9jjazpX-BcISYqhKJIgWZbjIKQAz_2YJnPS9kWFf4YEQRGAXxdkGI5kCBb-VGYJbqsus_M8G-U-XcN4iidYgqMojiE4jmcBIP5TnZMi--b-Zb1LQpoDNM3wFMtCigLE95drNi5fPw9jNs1Vkb0NVfoGmc_gbWiv0xsBALi_Vd03mn33lvZ9M_fD98XwLeHKGfAQ8itzjuJpgiGZL-cK_0SzDLVSeCEAilzD-C_Dbf4oi4-i_ai6j7L9yLof-mS45elvf_1O6e-yNN0lJxgGJLvAa4w88htodu0t04zFU4ZHUBu21SAlkF3FQoNiNbQfdjgMWj53uzI3D8iLiPbpNa2dEsMBB-6MQ9U3wey6etxFfhyYgXpLni46SVCMQ-OZHrC881UqOvRPp5n9mCxp8-mQfqOaAWipTLdEK9jCQIMo9aDh6og5aRgEWkm5T8MyGwO4yL1EwCJtje69c3lJkEU5KKKzOl4cEh2ScHhaNbqGIe2biCNShSfXWhJfQ8YBovrU4H0M6EvQWE0E1L2pxS5WBtc709KpLXVLRRGCsZLUJr0WKwak4WEF3XETx5ZsibiN4Cmc3VWn5EC676aCdqhRiDX_LaijZ9phLSCtXRjyw0lJH57mBugMzwGhKqcQ3Z0QkCcUz74fmyd9yBMU3MMA2U5jxCjEtNsZnSWn8y54tKtfDQ7xPSENxpRbPTy3cwLVMvG3nkqU16Qpy1WnxCVcZxc2cwwF6DcFZTZqrFWG6OrWYoext2KJJ4JaTnpJIFl0LA0B_MR5QloJ1lMCKzH578c05l-BoNKzZ1M28iNnRBtya2jXIaqPwfEcS329UMU_IctDimYpSAMa_PDq0Cr77W__8GzJ-0TKkrD9RIpvx6OXpdcx23i-u1_NgmiVAlO19HXzAPVhZgUt0HqvFb0-F7cUTGBYL2R5vIt8zl93YZnv4ZJeLK8eFD_NcXZpI7yd5p2ny1GBays5xTYTypu24h1VPT-KF6qnCK6kHz3BVLytr7zoFM72eFHEl1dQpBeTJOEV43JDkC6OCiPubiXAVhROvb-_CNwOjjAIlj3tRNW4ySZh9zQreDAujvDKodm2tlOOghh4ylE5KObe39rWmnYrrxuXnFKaBuDEQTZjAPOJFHxztf8pGcNBcrW8SIzruX3pQqx_H_LsZ0h_5unNan1p-I4fFYnJBOQnlbhSSsvfm2UfvPCtbzjSZZIkQfFIRxHthyZ7poM3OrydjxZpCXhW7ethn9w25GMSpYMUxHWFrLGKauLW-FNV51dnb_e2x76H-d4dB2jQt9GJ2qLeHfuNAfoYjGDuvJLicczeRYLzYkWbd1UCbEpHsAagLuahfk78IxoLfTHzRDNL9JCovOnizihPxbntMNO9s-7AStttFIqX2KAuM9-qqJAsKX3IVb8z4yMKdk_aydmOEjLos5vuRBeunQLbhU5abfjxneQK3DppfiulbVp6RnE-SoRBjmCpWb6uDocju-VxhNLTMnVbcrrWXuXulZo-kON71-4ixl4K0WwCEVzu-vOeqY-ouj0uJiNdw8KZEZKb0CLo-r44U33ebxSLK-5PHhuhTprvfdU9l9aO2YWXsR0rnmQnaBPlY1vg4x0mG5_rBfB6HBm9-utxcIWm1ktzyrZye-GT9JxP1HJQl0Vx-y8jnr5Se-n4v4b5v_auLR__j3Md6fl__wAugDrb"
+    },
+    {
+     "title": "Prestige Atlas Neo Induction Cooktop",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5H0oaCdSE6aiM-IGvR-QagYHf6jmG5jmVBO5TE6XB43Y_mg76i36nDRA4IjlQye6zHqexPfrzgnHInokKTSZBaZjJ4oCKLCIQXnvbdCDeINXBNcdonH0H",
+     "price": "₹1,649",
+     "extracted_price": 1649,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4RQ4kHicJVTJruvEFgXxA_zEFYOjXFW53DJzGzsntuO-mUSOy23cxXYSO1-DzgUkGAIS0_cbMHjf8pL7JrtKa5fWWtpN_feb7z-y6u9SrdXkgpyDeZ2qvX6g6Va78sVvw9jjazpX-C8IEUmTJCIQw7AshCTg2N_SZE6avqjwnxSEDIUAgIhlKAo9I_FHmSW4qbrMzPNslPr09QwhSJMEAVjIAEhBkmF-r9qkyL6m_3qy0oDiAMFSgAE0wzE088vlmo3rP5-HMZvmqsjehip9g_Rn8DY01-mNAADc36ruq82-e0v7_jz3wy_F8NIjWUizJAEpjmYJyFEkwX1pK_wHxdAkTbCARQT1ugP2y3CbP8rio2g-qu6jbD6y7tc-GW55-u-3X-QxFcVbKljeMPiSDVxJuHjBzs_OMLS9WMIgemDF3sVSaSVqiU6N7Z3apbbqM4rBbNvyBILtmfBUnUweghUoXK9vKYChvITIXjxJKLGLZaOlZlvFSlr7Z6tV3NjTSA_tiFPX-HqAV_usI18VwkwZghgK1ulcLlYolG5tRKcK7uNWhoZiLyeiX7BUThGYFhwsKERxG7URaQU-coKBeuqP-rlUTtueSGuMbD8Fmafs0wdW_VA4GLKyOP5gWw_hhj35kQXDglsdOEFcOrVFWASUA3nJM5mbU1UxYm8X2GGEzCCFNuAcx6PUpFWA7yrSk702thEVqBGKgnnWweDFixYmW-ribJVl7w9qrPBz4sDOk3zTkYrV8s-JdlbkFGlU3CjS3rPhUzO23TL2zyxpudZiEdNqEPNibI2H3qU_L9OY_wN4hZodkzR9N7JGf4O03fY6RPXRO7ax2NcrWfwIGQ6SFENCClDg19e8VNm_3_3gmKLzCUkir31Cwtvx6GTpdcw2jmsfnjAvGCVPVw113SygDmeG33rb3mkEp88FjYQJDOoVlce7wOXcdR-U-QGu6cVw6kF20xxnlybC2jTvHVWKClwbySk26UDaNBVnKUq7FC9VR-ZtUT06vC47miu_7BSWdrzIwivLy-LLSZJw8u5y8yFVHGVa2N9KgI0omHr3cOHZPRyh560HyoqqcZNN_P6hVzDcXSz-xbE1ze1ePvKC58hHOZT1g6uZxpNWk56BTU4pRQFweq5nRgP6E-Jd_Yn_v2Q0C9ETeZkYn6f2qgvx3ETIMZ8h9ZmjNk_0VcN3vFQIowTkJ4W4knLD3c_rwXvpG191xMskirzsIEsWzGUrObqFNyq8tUcDGTyeFfMaHpLbBi2TIIaiF9eVb4xVVBO3sztVdX61DmZvOsx7kB_scYA76jZaUVPU-2O_2YE-BiOYO6ckORwzd4FgnVjezvsqASap-rAGoC7moX5M3BKNhbrqebLVS38Ryfzcxd2uPBVt02G6e2fsgRE1LQqES7wjLzPXKH4hGmK6SFW_1-Oj7-0flJUzHcln0GU23YkqbDMF5nNk02rDje-ILXBjpfmtFLW0dHZFexSJHRrBWjNcXYXhkdE4HPnpaZ06DU3X2qnsg1xTIRrfu2Yf0eZaCPrZE8Dlrj7umbJE1W256LR4DQpr9n3pHBgEVd9Xa6rbw0Y22OL-4PAuUJH-3lfdY23MmFk5CZux7Ihm4m-ifGwKfLzDZOOyPQ9ezZH813wtoc2fa7XUp0yTmguXpG0-kWuorKts919GPP30_Czz__wPEvoIbg"
+    },
+    {
+     "title": "Prestige Pic 22 1200 W Induction Cooktop",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbF4t1bFYNHBzKRVLQ01XnFnCQgmQFsgXd2-xg3DpCygsK81riLx9pPmDyd0eBCjwcMFjIkH6yNmvH9U6QKcXxqRRQtakEllCd09rN5cEH0iSvP4tzr6DO",
+     "price": "₹2,099",
+     "extracted_price": 2099,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hJyJrHicLVTJruvEFgXxA_zEFYOjXFW53DJzH_vEdtw3k8hx77i3k9j5GnQuIPGGPCSm_AYM3re8BJBKVdLapbWW1t5V__vq24-s-r3c1_t4RPbRuM7VQTuSZKtc2eKXYerTa7JU6W8QIpzEcYQhiqJpCHHA0L8k8RI3fVGlvyIKxxlEYQykKMRQBCJ_LbM4baouM_I8m4Q-eZGQJKIQRVKQogFJEyQC8D9VGxfZv3WCgojGAPbUAi8JCiN_Gq_ZtP35eZiyeamK7G2okjdIfgZvQ3Od3zAAwP2t6v622XdvSd9fln74qRiehP_FSMQQNI3hzwUIRAAEv7RPuwRF4iRGAwpC-nnl6frLcFs-yuKjaD6q7qNsPrLu5z4ebnny19dfxCnh-VvCme4weIIFHB4sbh1xvg_vWrvocdv49kO6B8jSU5fGPN8LtE739FoVIqBqUWACQySEqB1U2ymXzNeVc5MC_5I-zq7HabXXpm56Tx5SGTzCNezSwQka2cGs6Bzog-OmcoqKRUOeFvoErwEJ0yV9dCF3NPaW7LUmZsLGsZ1m0JA02xK3hZ2Iu7XyCICJpw43J1KPx3IzWZ0G3L2KssAqQ1cNfa-UdHmYtKZ0PMkEjg1WPXiG3FhqLDalia3XGEmhC92H9lBjLdCxWGh6w0nwzGN4LVAd-6HPegUIw-sfB7eUw0BvzJZGfs2ZERYdfbep3XZGvszIpus9fEsJYpkYbVlaD96wjyR2iW3YuYJn2EKxmd4lVi6SmCCFiBprO7eLlsoFSN1VNoPy3alLL_F1Iq5102thmHrij-s85X8CViIW28DvAtd6JBk64L1r-zIcubxebHTnL-b3kGIgTlA4JAABf37NS5X99c13tsHbn5DAs8onxL2dTnaWXKdsZzvW8QmznF6yZNUQ190K6mChWNmVe7vh7D7nFBzG0K83VJ7uHJMz14Nf5ke4JaNu14PoJHmajU2YKvNysPdCWKS1Hp8jg_SFXVMxpiS1a_FStUXW4vcnm9VEW3HEl53CVE6jyL2qrMi_nMQxI6rjzYNEcRJJ7nArQaqH_tw7x5GlD3CCrrsdCTOspl02s4eHVsFAHU32xSEbhnwQTyzn2uJJDETt6CiG_qRVhOdGx-eEIAA405DKSEB-QqyjPfF_IiNpiJ7Iy8T0PJVXLtjzJUKG-gyJzwyxe6KvDN_TtUIpikF-lrArLjbM_bId3Ze-_rcOP848z4o2MkXOWGXB1sx0t4e39qQjnU0XybgGx_i2Q-vM8QHvRnXl6VMV1tjt4sxVnV_No9EbNvXu50drGqBK3CYzbIr6cOp3KugjMIGls0ucSSPqzmG0HYnycqhiYOB7D9YA1MUy1I-ZWcOp2G9aHsta6a08nl-6qFPLc9E2XUp275Q1ULyihD43Rio-LkwjeQWv88kqVP1Bi06ee3gQZk51OJtBh9p1Z6KwjAQYFjSTasdM74gu0sZM8lvJK0lpq0V74jEVTWCrKaauguBEKUwaesl5mzsFzdfarqyjWBMBmt675hCSxlZw2sXlwHjfP-6ZtIbVbR01kr_6hbl4nnDxdYyo75s51-1xJ-p0cX8wqervkfbeV91ja4yI2hghNSLR5o3Y24X51BTp6Q7jnUP3LHg1R_Be87UGFnup96U2Z4rQjEyctPmMb4G0baLVf5nS-YfnZ5n_8X8MnQpZ"
+    },
+    {
+     "title": "Prestige Iris 1600 Watts Induction Cooktop 4KV Surge Protection 6 Preset Indian Menu Options & Timer",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTALYuOO1qRvHxduNy22OrvCvM7minilZxiDd0NvutUFfOIzDUb43SyNah8znTKe9uMR2VLzEhfeeicbk8l-YbAivssHBTDq43pri2ngSzE6zPB68IYOemmFA",
+     "price": "₹1,799",
+     "extracted_price": 1799,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=79rKFHicJVRJruNGFnTDF_AlCr34UCGTZHLwjrOoL5LiIE4bgWJypjhLInUa45dtwF7aBrz1NeyFz9JS9SYTiAdEBOJF5r_ffPeRln8W22obD6RzMK9TudcPNH3Rrnz-Sz92-JrMJf4DQpKiKYokSIZhWQgpwLG_JPEcN11e4t8RRXKIJWmaoQiCoUmWIX8r0hg3ZZuaWZaOUpe8WAAgWBIyAELAPvk4hOCv5SXO06_z3zmSIykKQYJFNCBJxADw03BNx_Xvz_2YTnOZp299mbxB-jN465vr9EYAAO5vZfvVZte-JV1Xz13_U95_1WMQRZAkQdCIYwiOoyEHv1xK_BtiaIp-qiAOcjQCCNFf-tv8UeQfefNRth9F85G2P3dxf8uSf_7zRR4TUbwlgnXse0-ygePaj-iR3F3Xi1LJ7k3FyI71LrNa_u7Jiu6rMMT-nTC33rsLozr2eMJtd4op49D0I5AoHOUrhmb6CTpedsT50t9ctdex5K1YKQ5RULjexTPPl0VzCLzVt3bgNnaQ1CxIGmXQ6_kR-tzO9lHguLhIGyU414VzJhvTb23HrrBqS5FmqEV89Azj3Bgq9ooo8an709c99r0gbT3RboXRcqNdvI0sDBY5kRsS1_qqb_HqtjrQa0UxLl53BrZkHg3aIqLAaY0uqoop9O-UIff0Wd0VZ9nQLTIyvbavbSgokbrM_sVzdBHe4iAa8UURjYfhYLkfMPB24aIFsYoGR1WWvddvI4WfYwe2R8kzHSlfLa-OtVqRE1JDUaPc_CpSoyM3Rg-dSDxb8SVBPksepbc9SgO7if3kx2Uas78Br6DZMenbMb6es7hF9BrtqHrS_TuzniYnkPjvIcNBCjEUfO6d-PlVmDL959v_OqbofCIlkdc-kcLb6eSkyXVMN89VH54wLxgFT5cNum4WUAUzw6tHtXMawekyQaNgDP1qJYvTXeAy7rr3i-wA12QwnKqX3STD6dCEWJvmvbOVwhxXRnyOTNqXNk3JWYpyWfKXqiPztrg9ObwuO5orv-zklnYaZOE15WXx5SSOOXk33DyI8pNMC_tbAbAR-lPnHgae3cMRHo_rAVlhOW7Sid8_9BIGu8HiXxyqaap7-cQLR0c-yYGsH1zNNJ60mvQ82PicIATAmYVMSgP6E8m7-hP_f2Q0C8kn8jIxPm_tlQvxfIqQYz5D9JlDmyf6yvAdLyWJyRhkZ4W4UnLD3ev1cHzpG191xGESRV52SEsWzEWVHN3Cmy28XU4GafB4VsxrcIhvG3KZBDEQj1FVesZYhhVxq92prLKrdTA702He_exgjz3codtohU1e7U_dZge6CIxgbp2C4nDE3AWCdSJZnfdlDExq68EKgCqf--oxcUs45ttVz2JVL7xFpLK6jdpno_NL02K6fWfsnhE1LfSF4dmkYeYaxctFQ0wWqez2enTyjvsHsjKmpfgUusymPaPcNhNg2tBKyg03vpNsjhsryW6FqCWFs8svJ5HYkSNYK4aryiA4MRqHQy85r1OrkdO1ckr7IFcoIMf3ttmHtLnmgl4fBTDct497qixheVsGnRavfm7NnifVvkGg6r5aU3U5bGSDze8PDu_8Lam_d2X7WBszYlZOwmYkO6IZe5swG5scn-4w3rhsx4PXciTv1a8lsPm62hb6lGpSM3Bxcskmag2UdZXt7suIpx-en2X21_8ADMIMKg"
+    },
+    {
+     "title": "Prestige Induction Cooktop PIC 6.1 V3",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQa45Zme2PvNyKZ1n1dhlayYMUAydQovBpj_3lE-9RyrR4J3NvB_H48OaWk9XDyRqzjMho3T6zMtpiQelRDCKK4hyg-4pzdPLXainJHQSI836MLZrR6lV7YiQ",
+     "price": "₹4,658",
+     "extracted_price": 4658,
+     "reviews": 15,
+     "rating": 2.7,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=u-h8lHicbVRJrus2Fi2kNpBBtvBRgwd_kKIaq2ZqLelZktU3E0MW1cuSLMmNjKzm_SRAMkwC1LS28TOotZScqmE4IIFzyXvuPTzkf_727UdW_atUaiW5IOdgXqdqrx9o-qxeueLnYezxNZ0r_DuEiKRJEhGIYbZbCEnAbn9Okzlp-6LCv5EEy1CAIhFNU9t10CT7a5kluK26zMzzbBT79JWFYClIk-vpLQVYQAOKgr9U56TI_h9fUZoBNMkAllh3ESxB_Hi5ZuPy9fMwZtNcFdnbUKVvkP4M3ob2Or0RAID7W9X9WWffvaV938z98GMxrAl_I1bGLUUDSBNrAwSiAfhyrvCvFEOTNLEFCKG1ndeuL8Nt_iiLj6L9qLqPsv3Iup_6ZLjl6R_ffCf1d1GY7oLlDYMv2sBBfGATfm93GPpPY_AIKGe-rblBBGLZEAPXT7K6uKfBdsmUNsdIe8QEzuNgDoydfcjaYcagfeoLHCyiPbvQDrMdvkdgPkQ-ng0xdkMg9w4wSNvVQODNgQfmPpBw7nb-GCjq3ZS0WwjLZ9b40okor56fLm6t33WoyXGokdiBfYy4hy5Rw6kxKKc2VKsb1EwZyjRsybgrLezj98BtkC7Ki97Ervv0dRv2lOtGd91jHb3xVd3lKSf0YYK4xYcScOEW-Yh_-GeoW762W_snsNyOJx8nnteitElRLPPvp5DPcVsO6VPzk6cdWnW5szqOdHca9M6alrilkirlPjm3c9L5WuLHgwPZp9H5KAJGqMtDhJsyDmotChpj8dzYO0ntZARGYrX4bkh2fUL4bK2WwUobpyEf-ee4M578I1OMayZiKYQN5YYYxa7lyKtGSVOWqQMTm7CtfdDMMeSg2xSk3sjxrtJ4WzEWM4hdR1SR7Wl5SKxaNo_ZVwpy5ZXNUGsMX3t3ZM3-4TGN-VfAydTsmPTNS66nPOkoeok1spn04M4sx8kJRe6fkGEhSTHk6m6K-Oll0Cr74-__cEzB-YREgVM_If7teHSy9DpmG8e1DyvM8UbJ0VVLXTcPUIczw-28Xe-0vNPnvErCBAb1gsrjnWdz9roPyvwAl_RiOPUguWmOs0sbYXWa944iRgWujeQUm3QgbtqKtWT5_CherI7E2YJydDhdclRXepVTWOrxIvGvKCcJr0qShJW0y82HVHGUaH5_KwE2omDq3cOF2-7hCD1vOVBWVI2bbOL2T72CoXaxuFeOnWnu9tKR4z1HOkqhpB9c1TTWtKq4TtvklFIUAKctZDIa0J8Q5-or_j_J6C1EK_IqYlxX9aULsT59yDKfIfWZpTYr-tLwHT8qhFEC8pNMXEmpZe_NcvBe_MafPMJlEgROcpAl8eZjJzq6hTcKvJ2PBjI4PMvmNTwktw16TLwQCl5cV74xVlFN3Bp3qur8ah3M3nSY9yA_2OMANeo2WlFb1Ptjv9FAH4MRzJ1TkiyOmTtPbJ1Y2s37KgEmqfiwBqAu5qF-TuwjGgtl0fNkp5f-QyDzpos7rTwV57bDdPfO2AMjqGoU8JfVSZeZbWW_EAwhfYhVv9fjo-_tn5SVMx3JZdBlNt2JKmwzBaYNrbTasOM72ha4tdL8VgpqWjpacT4KhIZGsNQMW1dheGRUFkd-elqmTkXTtXYq-yDVVIjG967dR7S5FLzeeDy43JXnPZMfUXV7XHRauAaFNfu-2AQGQdX3xZrq82EjGdvi_mSxFihIf--r7rm0ZswsrIjNWHIEM_E3UT62BT7eYbJxtz0HXpcj-i9_PUKba2ql1KdMFdsLm6TnfCKXUF4Wye6_jHj6ShyE41_85d8fbFM8_nVs_dDzf_8X1ic8Hg"
+    },
+    {
+     "title": "Prestige IRIS 2.0 Induction Cooktop 2000 W with Pre-set Indian Menu Options",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7mtCY06Y6PfRhQUgTwfbRtnOByZAUjN9ZhVCOhMyMHFYVDNl9jOcaYVRtGsKf2DsBmDe3wHrsnK2ivReLXAxCeDd5BVwBewWEI3rI5moNNj5cbIZnwZr0nQ",
+     "price": "₹2,130",
+     "extracted_price": 2130,
+     "reviews": 5,
+     "rating": 5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=nlsLIHicbVTJruPGFQ2cH8giv9DI4kGNKo5idpwkUY-DOBWHjcBJnEokxUEiBX_N69iAvbQNeJvfaC_yLaE6S2dTBZxTOPfg3Fv3P3_520dW_l4cqkN0I-2TMQ2lqp0Y5qpMfP5T17fplIxl-huEJMVQFEmQLLvdQkgBbvtTEo0RbvMXTbIMx7AsQdErAzgWAPhLkUUpLpvMuFyyXmqT1zuCIcCWJWmSYSlAUxy7hT-X1yjPvvG_koBjaAKyqxILKJqlGeqH25T1y9fPXZ8NY5lnb12ZvEHmM3jr8DS8EQCAx1vZfPPZNm9J29Zj2_2Qd6veLyRYdThuC1dbNE2xcPvlusI0y1AMsaU4kiEIiuI46kt3Hz-K_CPHH2XzUeCPrPmxjbr7Jfnju7_L7UMSh4doul2HJAvYOJg1otD1Jj2ZeHfKKkt1icK0YDqFQG9NZBGRPFLoipZkrxHJdXhku7AOAK4DvxsjOVxsl3t6fhFpVfC0DxjqVUDq-4Q2DpZjX2c3JgvK2nOituPuETGrhr-zg2tA2a6O433H6KDAATwWIUa3AKTQXn0gAr9nKHlkPj8aTtjabngMmmJOazypLh5NGMD4WcyJzL0nMpwM2cIhFmDghCNydMrxRlVvzMWrCiUmXGj4SHMlhXKd-hF7O9HGham7CmH6HUyvhWSRFozITggd3Yt2QhXvLNfbFYXl60IowjLzlBnV8Kk9LTFxQxUBhUZEDi1Yk4a8a8N6tEIitU2kK5EbKl5ToPiJJl3CpQ9gjRpkoWvah1c8hWs2QZMGjh9OsVdMpks_TO8oI3m8R45-jA5HKsDFLdvPq3OuiP2jGtbzrPthYboPe0cUU1QXRWLDyCIsU_XqMYQ8dOqc0upduC-PgnXQF8ML7aBCNZKQnuFwdmRdiyVdMv2j4hOojaWaRKgj_zUP_eUr4Hf0aBs0NeME3_cNkwd61oqymMjJlooctDf_CVkOrqNMQRrQ5I-v-SyzP_76D9sQ7U-kJPLKJ1J4O5_tLJn6bGM71mmFeUEveKbE9LSZQeWPLL93962NBbu9CAoFI-hVC1mcHwJ34SbVKy4nuCQ33a462UkuaXbDQaoMo2ofpCBPKz2KQ4PxpA0uOXO3u875q6ot85Z4ONu8JtuKI7_s5KZyvsnCi-Vl8eUkijj5eLsjSOdnmRHUewFSPfCG1jnd-K0Ke-i6y4k2g7LfZAOvPrUS-sebyb809oaxV-UzL7i2fJZ9WTs5iqGvsoq0HtsoTmgagHgL2YwBzCeSd7QV_19kzBaSK_Iy0a-38sqFWH8-5NjPkP7M0ZsVfWX4ns4lmZIRuMQ7YqJkzD3q5eS-6uvf6oi3QRR52SZNWTDmvWRrZro5wPv1rJM6n447Y_JP0X1DzoMg-qIbViXS-zKoiHvtDGV1mcyT0Ro2--5dTlbfwSN9780A55V6bjdH0IagB2NjFxSXhuxDILZ2KO9HtYyAQR0QrACo8rGrngM3B31-WLRLtNcKNIvUpW7C5ljE-RU3KdO8s1bHiooSeMItPFK3kcM7lIu6mMxS2apaeEau-qTNC9tQfAYddtPEdG4ZCTAsaCblhuvfyW2eYjO53AtRSQr7mF_PInEke7BULFeVvn9mFS4NUBIvQ6OQw1TZpXWSK9on-_cGqwFjLLmg1a4Abo_Dc11dc1De55vGiJOXmyNCUu3pBF09FnOorqeNrG_zx5NLj96B1N7bsnku2AjZhZNSI5Rt0YjQJrj0OE_PDxhtnG3Lg1dzJPSar9m3-Lo6FNqQKRK-cVFyvQzU4u-WRbbaL306fAUn8fznVf79yTKk8_-l1nV--fd_AVM7PIY"
+    },
+    {
+     "title": "Pigeon Favourite 1800 W Induction Cooktop",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5Gelwhm8bUz7JivZgTEbPlAEwvL1spxGvygqhhRcXUWDVGor_0L0MOpHrvBsKYYZpjMd0uyvOX4uYcS1OmT6oe1zIy_1-Awr-LIelhRCvV1tGgX-GuB7v",
+     "price": "₹1,999",
+     "extracted_price": 1999,
+     "reviews": 291,
+     "rating": 4.1,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KszAVnicdVTJruPGFQ2SH8jCv9DI4kGNKhYHMTuOkvg4iPOwESjOgzhTIoV8zevYgLO0DXib32gv_C2m2ttkUwWcW7jn4NS95_e__P0jKX7Nj-Ux7JF51uaxkJUzSd5OM5P92A1tPEdTEf8CIcJJHEcYoqj9HkIc0Psfo3AK6zYr4p8RAQBBIxwAHEACETREP-VJGNdFk2hpmgx8GxXxTwQCFAkxnAbbA0gjgvpPcQuz5Fv1ZwoigBPYnsQhgVEUBAT5fT8nw_r1czck41RkyVtXRG-Q_Azeunoe3zAAwOOtaL6JbJu3qG2rqe2-z7ropZnaIwghSSFyT26SNz7sy-0lgyJxEqMISOwpmsIBAb509-kjzz6y-qNoPvL6I2l-aMPunka__fU7oX3w3PjgdLvrHN4ApmeIDphm3yZ8V3TEUCDEqFZx14VKaCl4WAbnpAmOV1QPZm2woSuCuHGkwI1n89A-ExvqhmfcIhBrQWkYhm0QFqyAgS2qWYvC1csfdh0I7i14XA-qrYodH1ZT4Iq07PLO5KEaXJ-iFVTL8WoZng_ZxhLjOjyKrivEsnqAaVzA1RAD9opiTLON1PDExRZizj10btA4vuY6fGhLZ5ePFqeuJR8auGPbD9WGneJuGutYVZ24VMR89mC8OqWxmo2Awob1AzFWlEY9uPXp6Vb-6jS5ZIFOt2BOOnaFYtuZ_MrGrUp6N1x9csCIBRZ7MERxvh7yJazsNcQINvE63BZ1pJQRdFwfyVbQ61agxnUgOjdptZDYu3xgGDejV8CENp_z69PpZc8ZFV7ygqMCVC-QjSbG3VLSE4u9y54oqJU6GjeVVOwTsm_VGoHRFLF8Dqs8j0wYGpihy-5mKGSgVWW4UonBoZBY46iumhtYtuU8zAP0fCQNeqkTykGs1VvnOLAzTEt9d28q-vcyDulXwIjEZGp4fkpHl728L1f_GWNn8d71AHe6uQ2yf0KKhjhBbTMNCPyH14QWyW9_-4epceYnxHPM6RNi3y4XM4nmIdmZlnHeYIZVc4YsamLeLaD0Joo52IfWrFmzTdkTDkPolivKLw-WTulZdvP0DNeoV82yE6wojZO-9uPTOMnmkfezuFTDa6CRLr-rC1oXxduSvVhNgTG448VkFME8WcJLTqafLr3AvqqMwL2UhCEtSP3dgUR2EUhWvucgVn13bK1zz-xlOEDbXs-E7hfDLhkZ-akU0JN6nXn1OGjaQRYuDGubwkXwBOVsnTR1a3vit2MfXiNiS47rHlIJCchPiLGUDf_TMnIP0Ya8RAzbfXr5gm27D2nqMyQ-08RuQ18evsdLgWIUgvQqYjMu1PSjWs_2i1_9xsP1I8cxgol0gdWWA28qerw7wvvtoiKViSdRm71zeN-hZWQ5j7ODsnDUofBL7F5ZY1Gms37WWs2k3t30bAwdlIj7oPt1VsqXdieBNgADmBozx-k4oB4stjcD4TDJRQg0_OjAEoAym7ryOdKLP2THVUnDg5I7C4enVRM0Un7NbnUTk807ZXQUdzr5LtsHEt5PdC06Gady0cIXrawEF8eWn4SeUg3OJNCids2VyAwtApoB9ajY0cM72mdxrUfpPedOUW5K2e3CYRIawFpSdFl43oU60bHvRNd1bE5onEuzMM5CSXhoeG9q2Se1NWOVymZB_zg-H4m4-MV96RWSm91sW2eHr1wVI8rHqo_l7bwT1H32eNKx5B6R8t4WzXOttYBaaX7LN8HktNDZ-elQZ_HlAcOdtW8Z8Poc3nnN1-IZTFUec2VMTnzd02F0S0d89cR1FYz2yxCPX_Ezd_lfYf6vs6Hxl_9T3CI9_e8fSUg8KA"
+    },
+    {
+     "title": "Philips Viva Collection HD4928/01 2100-Watt Induction Cooktop",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTql4nWe22qYl-lNKGG686qHugZvEuhy_oFMxI2cGIb3DcufrzMPZglqJFi6LaXe1MP95T5BvzUPJwddAOc8i2cj-1OX1RfIwbMO4s_svP83Fep6Li_7PNo",
+     "price": "₹2,238.88",
+     "extracted_price": 2238.88,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dNXPAnicJZTJrqvGGoUT5QXuSxxlsOWjKor2zgCDwduA6Q0TC1O0xvTY4KeJ9kki5Q5zI2Wa10gGeZbgk0mVtFZp_V_91fz9zX8-kuL3XCmVqEP20ZiG4qAdafqmTnz2S9s3eIrHAv8GISJpkkQEYhiWhZAEHPtLHI1R1WQvGzEIUAghgqAIiqZoxIFf8yTCVVEnRpom_baJX-sIhABBIPqVQLOIZiD9v-IWZclX__-IhQCQACDEcOTqMRzzUzcl_fLn57ZPhrHIkre2iN8g_Rm8tdU0vBEAgMdbUX_lbOq3uGmuY9P-lLWvPLjaJIVYsFIDBFgasl9uBf6VYmiSJmiKIzmCJhkKkl_a-_iRZx9Z9VHUH3n1kdQ_N1F7T-O_vv0i9bEo3mPBdNvW21rAkSB5kfQ79nDtKrizFJ1wnSvUdnIYQKxbSiiZzzBKfKhoxN67EKOloWAJrwNMJHKxXG6KHQto8pW8-PnV9PdP36c63xGawCfXrD3pSQOpoXznKLKig2pxdrgM4b510V4L6oawYJ47RD7GxOwkJ723fUxbWxn5VThZMiaxbJURYMdky0Psw6sOct30oX3wWjMg5klTvNaFGrxcPU2rsBXuHmNQwEhz2dl-hlXoy1Os6M3BV2Go6A_v5KH4tH84Er4eTpadKHIUbYVjstOrZN2_R8hz4oT3SAlJu8oIF7Su7beiIbNo5fI1WFnhs2q93XjSBPUU7ajO3snzyqOEMj9GNqzdrWfY22wxvWukXmUpRioVVnJluPJuZQCO545xxR1NiFNfiYlQBNTBw6TnST_OQ5_-CXiZGm2DzNV08IXz-3wJnpg4yve2A6TXTk2Y_RcyHCQphoQUoMifX_elSP767nvbEO1PaCvy6ickvJ3PdhJPfbKxHeu4yryg5zxdVNS0mUF5Ghl-5-4auxLsJhVUEkbQLxeUnx8Cl3LTwc_TI1ziTrfLVnLiFCddFWB1GA-2sg0yXOrRJTRof7upCs6U5ducvaraEm-JytnmNclWHemFk5nquZOEl8tL4oskijhp3909SGVniRYO9xxgPfCHxjl2PHuAPXTd5UiZQdFvkoE_PLUCnvadyb8ydoaxO0hnXnBt6SydJO3oqIa-xqrbdWCjS0xRAFxYyCQ0oD8h3tFW_d-W0SxEq_KC6NdZffWFWF8i5JjPkPrMUZtVffXwHc8FwigC6UUmJlKquMd1Obqv-vrXOmI3iCIv2ciUBGPebW3NxBsF3m9nHek8HmVjOh2j-wbNgyCeRDcsC0_vi6Ak7ldnKMp0Mo9GY9jMu58erb6Fe-rem0GVlYdzs9mDJgQ9GGs7JzkcMg-BYO1Q2o2HIgIGqXiwBKDMxrZ8Dtwc9JmyaGm003JvFsn0Wof1Pr9kt6rGdP3OWC0jqmrgC124J7uRq2QvE3UxnrdFc9DCs-cenpSZMjXJJ9BhNvWFyiwjBoYFzbjYcP07YjNcmXF6z0U1zu19djuLxB71YCkZrixOpzOjcjjw4ssy1CoaptIurKNUUifUv9fVIaCNJRO0qyuA7qE8H4k8B8V97jRanPzMHD1ve_V1giofizmUt-NG0tns8eTw3leQ9t4U9XOpjJBZuC02QskWjcjbBGlfZfj8gNHGYRsevA5n673u13yy-Gup5NqQqNuq46L4lg7kcpKXRbKaLz0eflg_y_SPfwBA_gcr"
+    },
+    {
+     "title": "Induction Cooktops Under ₹2000 – Affordable & Top Rated",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTppLXonMuHDSoKkUKfDlj7o0Lrkf-Zb3hmPPFGpYGwDIWVXiumnb9mr_3skx_Uyr9--dITktcuSyzMOubU77TfR-g0tljBLcecB9WHbd0EETaXcGZQIyQY-w",
+     "price": "₹1,499",
+     "extracted_price": 1499,
+     "reviews": 2,
+     "rating": 2,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sNmo03icbVTJruS2FU2QH8hPNLJ4qIYoavROc5We5lnaFFSiZpWkklSDCvma17EBZ2kb8Na_0V7kO7K0qr31hgTPIe85vOS9__vbPz_y-tdq3-zTC3Qt8zrXmm5R1Plw5cofx2lA12yp0S8AQIIiCIhDmmYYAAiMZX7M0iXthvJFkxjOEAROUxgNaJrFIYb9VOUp6uo-N4sin8Qhq9HPFMnQNEXjOE5QGMRZgFP_rc9pmX-jf9mO0jSkcApnaJbBGJbCiO8v13xav34ep3xe6jJ_G-vsDVCfsbexu85vOIZh97e6_-Zz6N-yYWiXYfy-HF96JIMTNEXQYNOFLMvQBPPlXKOfyA3cRDDIbEqAwQH8Mt6Wj6r8KLuPuv-ouo-8_2FIx1uR_f73_0u3TBCmTLD9cQxEB3N9Ujo1MhY32VPv-CYPu30iyU3uGzfTc9TTuVIzzyFNxYCeALxTZFxDpXqETfDQwpj0vQzEvmx7OFudoNrFbXUIzg7UvMCxW7k3lGrOJQdPA6f3JbAEsHIcvPJ0McFPDXqGHWqNp9wa_gBPECmJgmIDV3mjH-X0TKqmiEKnLx8ZnhRxFOApiGHaO6MLA9IPgmXz0wZyNfie9HTl4D08Iz4VSzwXA8sMO9FuEXAw4DgKuUQwuXheDAJ8xOx-FM0QDOjc9VmoA1MA9zzqPAfwStxmT29v3w3APvMoMfJQlpPwUcS9cwmgMTk46lHAEVk43p0wCJEkwaRFQ-zxZNw-iEQZl7hJkhM0rEw2gN2gLo62nT7aVskh7dqn_ezSQBo9FHXydl_Tk1kp6NDdlwNLP-uujFfXtK2qzAWpgzu2FrZLAjjgtSWht3Ki1Crv7I3VDBPXa-R9jAPSaFTNDCqYB8HqKi2eRJ2US2rhK4D_z2Oeiq8YJ5OLa9K1n5Pa6bmfqNprQROWUiT210EdVvs7QLOAIGliKwSS_OH1Cev893_8yzUF9xMUBe7wCfJvx6ObZ9cp37meY20wxxsVR9Uded09sCZaaE7xlcHteHco-AMBUhA2K6yOd54t2KsWVoUF1uxiuM0oeVmB8ksXo8O8aO5ejEvUGOkpMalQ3HU1a8vy-VG-VF2Jc4T90eV0yT140stOaR-OF4l_sZwkvJykKSupl1sAyPIoUbx2qzBkxOE8eNaFYzQwAd9fLdKO62mXz5z21GsQqRebe8VQTFPRpCPH-650lCJJt7yDaWxhD-I2MOkpI0kMOzGAzimM-gQ5T9_wP1NGMQBuyMvEtM2HV17wrbwBS38G5GeW3G3oK4fv6FFDBFOsOMn4lZA69t6ulv_SN77pCJdZEDjJhbbEmw9FdHUb7fbgdj4a0ODQIpvXyEpvO_iYeSES_KSpA2Oq4wa_td5cN8XVtszBdOn3sLCcaQQqeZvsuCsb7TjsVGxIsAlberciWJTQdx5n3ERSFq1OMZPYB6DBsKZcxuY5s494KverXqSKXgUPgSjaPunV6lRudYOo_p12Rlo4HOKQvyQqcVnYTg5KwRCyh1gPmp4cA197knZB9wSXA4_e9SeydMwMMx1gZ_WOnd4hU6LOzopbJRyyylXL81HAVThha0OzTR1FR_rAojjITuvcH-B8bdzasaSGjOD03ndaTJlryeutz2OX-_55z-VHXN8eF50SrmFpL0EgtqGBk819tefmbO0kgynvTxap4R7q70PdP9fOTOiVFZGZSK5gpsEuLqauRMc7SHceM3DY63HE4PW_HpHDtc2-0uf8IHYXNs3OxUyskbyukjN8mdD8FbeE41_0639bjike_5rbmnbx2x-zADMl"
+    },
+    {
+     "title": "Prestige Swish Induction Cooktop 2000W with Easy Store Design",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVIEOicDKfiDcvds13trSECns-nZ95Cxk7s2ITHWK1A01gfZjMb5Y5DOGneQfL7vGkvqhlGa52YyjiDH3VN1DBqNth8BSfx5AELIb3SqDOjNkflwtAycZhUQ",
+     "price": "₹4,815",
+     "extracted_price": 4815,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=48LH2HicJZTJrqvGFoYT5QXyEkcZbPmoiqLNjNbgTWN6w8TCFK0xYMANPE20TxIpGSaRMr2vkQzus1x87qRK-pf0_5_WWlX__eb7j6z6u1RrNbkid2_dxko39jR90W588Vs_dPiWThX-C0JE0iSJCMQwLAshCTj2tzSZkqYrXmWCISnEQIIgAA04AkDE_VFmCW6qNrPyPBukLq3wHwzBMgABlmUJBAGLEPN7dUmK7Gv1L7gasyRLQAoRHMECCDnul-stG-Z_PvdDNk5Vkb31VfoG6c_grW9u4xsBAHi8Ve1XzK59S7vuPHX9L0W_Gv6JIEFBhkAcQSBipQcs_eWyYlAMTdJrAGJXHrgGoi_9ffooi4-i-ajaj7L5yNpfu6S_5-m_336Rh1QU76lg-30fSA5wDzuYKkrkb-WnfYbXwJ9ir2nes8CkvMWZw9a5JSGsY_BYMHhMqeej07LbZ7JycZT-holxsjzFDs-Ua_vUJTrDBXtlHqxIhicgu9Uo3WcfJ3UXZ5Jp4wbn5kF7nAKzwzVuQ0-wToeSiBqsYhSfMy-dT9v04YcOzGSqdIhS9sNyshfshP6k4Qu1TdTgntWCpPuc6kmN54JmwZKyDS87cCKgYtQCSghyiUKDMEEvBJcd9GXOw2o3pZJwT4LdwdxGsy8p0ingaj3AY-oJuhlOrdNwsbGNwernuH5gmbJNJBeDiDxBi8_9JYJBYEj-lKomlXhC4DraIdlSV3erPPWgV2OFnxIXtr4UWK5UzHZwTrSzIqdIo-LGWGwAh_jsUP4S5JYio-BiHvzFtOPFp0xPeOI2_fk5Dvk_gFeoybWYys8o_bSoA115Z1iHhXyQ2lu362b7R8hwkKQYElKAon597UuV_fvdD64lup-QJPLaJyS8HY9ult6GbON6zn6VecEsebpqqNvmCerDxPBbf9u5jeB2uaCRMIFhPaPy-BC4nLvpYZnv4ZxeTbfuZS_NcXZtIqyNk-6qUlTg2kxOsUWH0qapOFtRLs_ilerKvCOqR5c3ZFfz5BdOYWvHqyy8qrwsvkiShJN313sAqeIo04J-LwE2o3DsvP2VZ3U4QN-f95QdVcMmG3l9MSp42F1t_uWxtaytLh95wXflo3yQjb2nWeZqq0nrwSanlKIAOLGQyWhAf0K8Z6z6_1tGsxCtygtiWG_t1RdifYmQYz5D6jNHbVb11cN3_KwQRgnITwpxI-WGe5znvf_KN7_miNdRFHnZRbYsWM-t5Bo23qjwfjmayOTxpFi3wz65b9BzFMSD6Md1FZhDFdXE_eyNVZ3f7L3VWS7zHuZ7Z-jhjroPdtQUtX7sNjvQxWAAU-uWJIdj5iEQrBvL20mvEmCRagBrAOpi6utl5J7RUKizkSdbowyeIpmf27jdlafi0rSYbt8Zp2dETYtC4RrvyOvENUpQiKaYPqWq0434GPj6Qtk505J8Bj1m056owrFSYDnQTqsNN7wjtsCNneb3UtTS0t0Vl6NI7NAA5prh6upwODIah6MgPc1jq6HxVruVs5dr6oCG97bRI9qaC8E4-wK4PtTlkSnPqLo_rwYt3sLCnoJAOocmQdWP2R7ry34jm2zxWDi8C1VkvHdVu8yNFTMzJ2Erll3RSoJNlA9NgY8PmGw8tuPBazhS8Nqv58Hhz7VaGmOmSc2VS9JLPpLzQZln2em-DHj8af0s8__8D_lGCdE"
+    },
+    {
+     "title": "Prestige 2300 W Induction Cooktop Touch Panel",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiKE0RKYMN2oA_mWl8v9HZHiph-d2GlAuuTkPLOA2QU8Rupwp64dNUcvPbSrWd2JyJnUoLN37xacfpYsVL92zIDdyBwiah3bt5Ag9VapbUVJtIz_q7WGHB4g",
+     "price": "₹4,555",
+     "extracted_price": 4555,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2w1PKnicJVRJruNGFnTDF-hLFHrxoUImk8nBO4qDSH2RFEeJ3AgU53kUReo0xq-2AXtpG_DW17AXPoul8iYTiADiBeJF5t_f_Pcjzn_P5EIOemQd9duYH9QjRdXKjUt_6oY2uoVTHv0GISIpkkQEommGgZAELPNTGExB1aYvGrOYpQmEKZYhKIxJgmB_yeIgqvIm1pMkHoQ2zKNfIcCYYBiMEUQEYCiGxj_ndZDGX-nfICARZEiSYQjMYIpkaAL80N_iYf3zczfE45Sn8VuXh2-Q-gzeuuo2vhEAgPtb3nz12TZvYduWU9v9kHZfBREJMEGBpzfIYIBpiPGXOo9-wTRFUi8niAII0yRivnTz9JGlH2n1kTcfWfURNz-2QTcn4V__-SIOIc_P4dZwus4VTGCdI-OK1NUotNmo9rxde-AqYs2p_Vl1O80vxPtJNEeX2Mt2lQ26yM6m1M1eIXWqaJ5t1J2NEkNbkHyzrFrfgkpU4rvqurtYljKrTJELqsQ7K8S13vtRLd1sWZoP56yL6wwFcpdohb8ElUgGhXYzQEl4rgoDKUThLioCQarcUpv8GvemGy66Ey6-pNVnwlRdYW9ZVYq8ct8dXI5whEg61RnlSO6sOft328l8w4JrvJtsnzDLq5iNrizdPecOwtN4N0-VGwJz5xBRp4nZNnawGDykk1H4_ZOCUY0XfZe9W7YCXLnLtbKr3EoFdmkqVtWVYYkPJ1M5BzvcWztpObid7EvcFFiwcQRXt4R0NdwyUEpJDJGC_crcOg_fcqoSO6gTNdl0giZz3HKhQrC0sTMh3RX_v4xD8ifgJDxZOtmJ9MMBgdFxJGlPj3vO75mTAtvdI_0O0iwknzuHz0JQP74Kk8d_ffs_S-etT0jgOeUT2r5dLlYc3oZ4Y9nm8QlzWy3jqLzCt80CivNEcztn11rV1mqTrULCAJ6KFWWX-5ZN2NvhlCVHuIa9ZhWdaIdJFPeVFynjdLBkwUujQguuvk6dhE2Vs4Yk1Uv6mmqJnMnLF4tTRUuxxZed1FAuvbh9sZzIv5wEASvu-9mFOL2I1PYwZyDSvNPY2seeYw5wgI6zHrHh5cMmHrnDQ83hed8b3Etjp-u7g3jhto4lXsSzqB5tRdeesorwPJjgGmIMwJWBdEwB6hPibPWJ_xsZxUD0RF4mhuetvHIhnk8RsvRniD-zePNEXxm-R0uOIhSA5CoRN1Ks2Hu5Hp3XfO3rHL4feZ4TLWSIW33ZCZZqRBsZzvVFQxoXTZJ-Ox-DeYOWccufeccvclcbcq8g5tIe8yK5GUe91S36_ZQczaGDezwPhlelxeHSbvag9cEApsbKSDby6fuWYCxf3E2HPAA6KbuwAKBIp654jOziDam8qkmwUzN34cmkbPxmn13TumoiqnmnzY7mFcU7bXt_T_YTW0luymt8uAh5e1D9i-scHthI6IbkYmjTm-aKU1MPgW5CI8w37PCOmDSqjDCZM14JM2uf1hee2KMBrAXNFvn5fKEVNvLc8LqOjYLGW2Hl5lEs8BkN70118Ch9Tbdq6WxBf5cf91havHxeepXib6fUmFxXKE8agYv7aoxFfdyIGpPeH2y0P8lIfW_z5rFWuk-vrBDpvmjxeuBuvGSo0uhyh8HGZloOvJYjuK9-LWeTKws5U8dYEaqeDcI6Gcn1LK2raLZfhmj8_vlZJn_8A2P6DDs"
+    }
+   ]
+  }
+ }
+}

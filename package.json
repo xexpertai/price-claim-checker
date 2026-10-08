@@ -1,0 +1,28 @@
+{
+  "name": "price-claim-checker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Check Indian online deal claims against live Google Shopping prices via SerpApi, with a receipt for every number.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "node --import tsx src/server.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "record": "tsx scripts/record.ts",
+    "credits": "tsx scripts/credits.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "playwright": "^1.64.0",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  },
+  "dependencies": {
+    "tsx": "^4.23.15"
+  }
+}

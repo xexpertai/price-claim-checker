@@ -1,0 +1,284 @@
+{
+ "voice": "af_heart",
+ "speed": 1.0,
+ "gap": 0.12,
+ "zoom": 1.45,
+ "lines": [
+  {
+   "id": "s01",
+   "text": "Price-Claim Checker. Is that sale deal really a deal?",
+   "do": [
+    [
+     "card",
+     "intro"
+    ]
+   ]
+  },
+  {
+   "id": "s02",
+   "text": "Sale posts promise big discounts against an MRP, and call it the lowest price. One product page can't tell you if that's true.",
+   "say": "Sale posts promise big discounts against an M R P, and call it the lowest price. One product page can't tell you if that's true.",
+   "do": [
+    [
+     "card",
+     "problem"
+    ]
+   ]
+  },
+  {
+   "id": "s02b",
+   "text": "Under the hood, one check chains two SerpApi searches: Google Shopping for India, in rupees, then Google's product page for the matched item, which lists the same product at many stores. Fixed rules turn that into a verdict, with a receipt.",
+   "say": "Under the hood, one check chains two Serp A P I searches. Google Shopping for India, in rupees. Then Google's product page for the matched item, which lists the same product at many stores. Fixed rules turn that into a verdict, with a receipt.",
+   "do": [
+    [
+     "card",
+     "chain"
+    ]
+   ]
+  },
+  {
+   "id": "s03",
+   "text": "So paste the claim. This example, written for this demo, names one exact model; its name is hidden in this recording.",
+   "do": [
+    [
+     "app"
+    ],
+    [
+     "wait",
+     700
+    ],
+    [
+     "click",
+     "#exList .chip:nth-child(1)"
+    ]
+   ]
+  },
+  {
+   "id": "s04",
+   "text": "Fixed rules read the price, the discount, the MRP and the lowest-price promise. No AI model is involved, and every field can be corrected.",
+   "say": "Fixed rules read the price, the discount, the M R P, and the lowest price promise. No AI model is involved, and every field can be corrected.",
+   "do": [
+    [
+     "scrollTo",
+     "#step2",
+     "center"
+    ],
+    [
+     "highlight",
+     "#claimForm"
+    ]
+   ]
+  },
+  {
+   "id": "s05",
+   "text": "Check it. These are real searches, recorded on 8 October and replayed here.",
+   "say": "Check it. These are real searches, recorded on the eighth of October, and replayed here.",
+   "do": [
+    [
+     "click",
+     "#checkBtn"
+    ],
+    [
+     "waitFor",
+     ".verdict"
+    ],
+    [
+     "wait",
+     600
+    ],
+    [
+     "scrollTo",
+     ".verdict",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "s06",
+   "text": "The verdict: this claim does not hold. Eleven sellers list this model; two store rows that name a different model, or no model, are left out.",
+   "do": [
+    [
+     "highlight",
+     ".verdict"
+    ]
+   ]
+  },
+  {
+   "id": "s07",
+   "text": "One store sells it for ₹280 less, so it is not the lowest price.",
+   "say": "One store sells it for two hundred and eighty rupees less, so it is not the lowest price.",
+   "do": [
+    [
+     "scrollTo",
+     ".finding[data-id=lowest]",
+     "center"
+    ],
+    [
+     "highlight",
+     ".finding[data-id=lowest]"
+    ]
+   ]
+  },
+  {
+   "id": "s08",
+   "text": "And the 45% off? Against the median seller price, there is no saving at all.",
+   "say": "And the forty five percent off? Against the median seller price, there is no saving at all.",
+   "do": [
+    [
+     "highlight",
+     ".finding[data-id=discount]"
+    ]
+   ]
+  },
+  {
+   "id": "s09",
+   "text": "Only one seller charges the claimed MRP, so it is flagged as not confirmed, rather than failed.",
+   "say": "Only one seller charges the claimed M R P, so it is flagged as not confirmed, rather than failed.",
+   "do": [
+    [
+     "scrollTo",
+     ".finding[data-id=reference]",
+     "center"
+    ],
+    [
+     "highlight",
+     ".finding[data-id=reference]"
+    ]
+   ]
+  },
+  {
+   "id": "s10",
+   "text": "Here is every seller's price, with the claim and the median marked.",
+   "do": [
+    [
+     "scrollTo",
+     "#sellers",
+     "start"
+    ]
+   ]
+  },
+  {
+   "id": "s11",
+   "text": "Every number links to its listing, and the receipt shows each SerpApi search ID and fetch time, with the raw JSON one click away.",
+   "say": "Every number links to its listing, and the receipt shows each Serp A P I search I D and fetch time, with the raw Jason one click away.",
+   "do": [
+    [
+     "scrollTo",
+     "#receipt",
+     "center"
+    ],
+    [
+     "highlight",
+     "#receipt"
+    ]
+   ]
+  },
+  {
+   "id": "s12",
+   "text": "A second claim: 25% off a steam iron. The deal is real, but the saving against the market is 7.3%. Overstated.",
+   "say": "A second claim: twenty five percent off a steam iron. The deal is real, but the saving against the market is seven point three percent. Overstated.",
+   "do": [
+    [
+     "top"
+    ],
+    [
+     "click",
+     "#exList .chip:nth-child(2)"
+    ],
+    [
+     "wait",
+     900
+    ],
+    [
+     "click",
+     "#checkBtn"
+    ],
+    [
+     "waitFor",
+     ".verdict.overstated"
+    ],
+    [
+     "scrollTo",
+     ".verdict",
+     "start"
+    ],
+    [
+     "wait",
+     400
+    ],
+    [
+     "highlight",
+     ".finding[data-id=discount]"
+    ]
+   ]
+  },
+  {
+   "id": "s13",
+   "text": "And when a claim is honest, it says so. No seller undercuts this pressure cooker set's lowest-price claim.",
+   "say": "And when a claim is honest, it says so. No seller undercuts this pressure cooker set's lowest price claim.",
+   "do": [
+    [
+     "top"
+    ],
+    [
+     "click",
+     "#exList .chip:nth-child(3)"
+    ],
+    [
+     "click",
+     "#checkBtn"
+    ],
+    [
+     "waitFor",
+     ".verdict.holds"
+    ],
+    [
+     "scrollTo",
+     ".verdict",
+     "start"
+    ],
+    [
+     "highlight",
+     ".verdict"
+    ]
+   ]
+  },
+  {
+   "id": "s14",
+   "text": "A cache and a hard cap of 150 searches protect the credits; building this used 25 of the free plan's 250 monthly searches. Every result is labelled live, cached or recorded.",
+   "say": "A cache, and a hard cap of a hundred and fifty searches, protect the credits. Building this used twenty five of the free plan's two hundred and fifty monthly searches. Every result is labelled live, cached, or recorded.",
+   "do": [
+    [
+     "scrollTo",
+     "#sellers",
+     "start"
+    ],
+    [
+     "wait",
+     2500
+    ],
+    [
+     "scrollTo",
+     "#receipt",
+     "center"
+    ],
+    [
+     "highlight",
+     "#receipt"
+    ]
+   ]
+  },
+  {
+   "id": "s15",
+   "text": "Price-Claim Checker: open source, MIT licensed, built with AI assistance.",
+   "say": "Price-Claim Checker. Open source, M I T licensed, built with AI assistance.",
+   "do": [
+    [
+     "card",
+     "outro"
+    ]
+   ]
+  }
+ ],
+ "tail": 0.4
+}

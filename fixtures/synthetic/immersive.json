@@ -1,0 +1,14 @@
+{
+  "_synthetic": "SYNTHETIC TEST DATA - invented values, not a real SerpApi response",
+  "search_metadata": { "id": "synthetic-imm-0001", "status": "Success", "processed_at": "2026-10-08 06:00:05 UTC" },
+  "product_results": {
+    "title": "Test Kettle 1.5L Steel",
+    "stores": [
+      { "name": "Shop One", "price": "₹1,199", "extracted_price": 1199, "original_price": "₹1,999", "extracted_original_price": 1999, "link": "https://example.com/s1" },
+      { "name": "Shop Two", "price": "₹1,249", "extracted_price": 1249, "link": "https://example.com/s2" },
+      { "name": "Shop Five", "price": "₹1,299", "extracted_price": 1299, "link": "https://example.com/s5" },
+      { "name": "Shop Six", "price": "₹1,350", "extracted_price": 1350, "original_price": "₹1,500", "extracted_original_price": 1500, "link": "https://example.com/s6" },
+      { "name": "Shop One", "price": "₹1,229", "extracted_price": 1229, "link": "https://example.com/s1b" }
+    ]
+  }
+}

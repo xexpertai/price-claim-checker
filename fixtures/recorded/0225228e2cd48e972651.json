@@ -1,0 +1,576 @@
+{
+ "fetchedAt": "2026-10-08T13:38:37.241Z",
+ "params": {
+  "engine": "google_immersive_product",
+  "page_token": "Olun1XicbVTJrqvYFY2SH8ggH3DnT37i0HOvPAAMBkxjDq2ZIDqbzoAxvfI191WVVBlWIkXKKL9RNci3xC_KsKZ77a21tPZe-z9_-PNnVvwTVTYpmqYTp9znfhTOzygqWxb5uevbdEyGIv0HIHGCxBEckBQBEAJDMYD9nERDVLe3Iv079qoDnEExDCVwgJMMSfySZ1FaF01mXK9Zf2iTVxtASJohSIyhSArHMYQExN-Ke3TL_gf_wjAURgOCoZEXG46TBPjWp89f0TMfMiRC0ST9HacYwCAAx_56hsYh_H3sx8eY9eu_4qiMyi_p8gWALwBBkPlL2q9fir5tfrx13wX9zui3-0sJQZE4iRLEC35JxlGG-tZNw2d--2Ec6-zfn7f6s2g-8_oza35qo266Jr_98S9COx_458ybTte5B4hYfjC6WOAZviK56LBFAmMExzyIgOLBrbago8y6zc6epHtOaaLG0SFsJ79HSIpenArxJGXODq6Q1Qpu23oQCSKMauVyuYsPuOlXx2HK-B7ksIE6RJQ2PhJbfBBLza8NB6n9aOPkV58My8vsNcKg-YFhHeoNHjVClzg1cuBDc7ljijKF5i2zVS184ouRdsfXrKkDzxlgKupr4oE-weom8IjjxUlxy5uRaAuQCLRLinFucJ83S7phgcgSrqAYrzkyAgHhONVgOnWX1gHuec6qS657QfVAr7o88VzZxYQ1KpUqrt1r6ionQ4BNgOXXuFJKT4SjWwVB5rmC7Q2Kc1yeEchRr4HAdsVH7HdqgkE3LWUQr6CIhfSs28FsNrWZ3dOz6ouFdVQix1nwWGQgBO4UoOk985jTpclPkdehNqiXuIJdCmTckLrOul8scVNOWZXnaROoZtUNKaYA6HLbxXtxIsJ8LBQOSvpqeIFtekrhupBLRJg7DoFY1W113cA0nAqzkXrzVwB_WJ799VeEFYnBMsha2FKGVqFqQF-SLMu1lSEPg-n4MN-_HyBOvmL0ihbxU9K2VZH99ifJ0uXDnlUMgPqC9oAZh2L9fZSNJ0XvQquyzEWddMSX8VvtVe1QyMSlKwWEKK98YKjeM6RP4a6IbkUCg7EKfEtEuFiiBVObhG27SgIir6BW5o83y-CtPc_KH29haGXJ2Gc7y4bnPcvpOUsWY8pywSGz1MYGlEq27KLTQ3xA17igMtrQH06ZcAIF-6leQtVzNrYecEg-sTHkQowy3N20EKsguTWRxgjTgttgV1JITNztxS2wkJdCi9UES7aFPX8z5fAhcB9vrMDv2ShiBKX1_GvmkFXhTruRl8U8Z5lNBjs8l1TpdHfuLbUOVbJjVohVOTsZlF8hH29HwziqQshyjiWEwsvEsy0b-v7lKg1oAsQ0SWAZRiJ09m5r-_9vAceJd37fv8vnPQrIrwClvgLiK6DI3bu1P4hGi27IRtP6kGbq7hIccF3UPt6-r4p_0DzPChZuCpyxHA-WFMhjN4KnNgeFdnzFUoSh3_HXZVfqN0MGOsCEgpz0TDX8O9MGcsNxaHQV-pupcG5Xk9SJF-duiZKXA6gczwTS7hYidPu7fQhP9NhPU_D6xnjkurvsOB2W3lFZ9dpVDT9jtbZpZmihN0yOfFjKpVyzZmf3V_NRq9po52VT6k9tRAVLAyt5nGwizJdLnhG1eHvmxNSkK48Pncs9TVJmzLsCidmmRa8YPHsB0i5Or222NdmSmbfoaaFrkxwcZ1R0kl_qOgqM-Hw-upOi5dLpiafRVoVNoaJhfyQ7v-AwKym9ZOe0rK2IbHp6cjQDCspt1oN0DsjpqZwvGn2rKKQ0ahK0tMa0Se_1XU6ds-Gk6HfMFZOTMwJw2539mKh6ZMRW92LCxawcP-FC_HLpE_a_udZEgg",
+  "more_stores": "true"
+ },
+ "raw": {
+  "search_metadata": {
+   "id": "6ac79cd88c8a7e116cfe6591",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/CU0SKsi0VFXjcwqWzdGqL8ZToak7DuoR_Bn_vemw0S0/6ac79cd88c8a7e116cfe6591.json",
+   "markdown_endpoint": "https://serpapi.com/searches/CU0SKsi0VFXjcwqWzdGqL8ZToak7DuoR_Bn_vemw0S0/6ac79cd88c8a7e116cfe6591.md",
+   "created_at": "2026-10-08 13:38:32 UTC",
+   "processed_at": "2026-10-08 13:38:32 UTC",
+   "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=2JzHavvKBJmwruEPsaajoA0&q=bajaj+dx+11+1000w+dry+iron&gl=in&hl=en&cs=1&async=productid:16456404167510532313,catalogid:3167149233254146965,gpcid:9607868738179190143,headlineOfferDocid:1068956397674430615,rds:PC_9607868738179190143|PROD_PC_9607868738179190143,imageDocid:997381598064544651,isp:true,query:bajaj%20dx%2011%201000w%20dry%20iron,mid:576462556070684297,pvt:hg,oapvfc:EowDCswCQUppVDR0SXZuV3ZWOXJHV2tzaE9OZGhZa1JWRzlSRUJwNTAwWHNWUjQ2OGU5TUhma0d2YUk0WHJweDVEelJ4TTNZaEFRalJYYmFqRzNfUU9jbmZhRnRNR0JobG5zbDFjMXlOU0lXazBIRzNIRjYwWnEtMXZOSDlzRGM5NHBLaURqMVBGd29iMWxwSkxCcXFaMm4yenlZWUtRdFNycW1rc3lnZW5GYUd4SWw0azZ0a1oxd3BVZmwzSHg3ZFA5VEJOWUt6a1Z5UUktQUlpdlZ4WWUyNHVVY2NZNkphcWVIV3EyajJkblVfdVJKOERnZ3hfbkJjWFRuVkZZeWVETWtJUGxsa1h2WnR1TVFqbXpLc3RVdjI1by1ibEdPNTZwQnlQemdPLXFiSGJaUUx4bF9RR1VvZ2dmeW9KYnhKaWp2T1lxbkRpd1I4OHppSmYSFzJKekhhdnZLQkptd3J1RVBzYWFqb0EwGiJBRHNyOWZTQWJiVVRBcFRhUU50SkgyVVZQOUk3T0lzXy1R,xsrf:AF5tSO4EM3b17NHYvpVD6TtLTTRVdlC-bA%3A1791466197718,sori:0,mno:3,_fmt:jspb",
+   "raw_html_file": "https://serpapi.com/searches/CU0SKsi0VFXjcwqWzdGqL8ZToak7DuoR_Bn_vemw0S0/6ac79cd88c8a7e116cfe6591.html",
+   "prettify_html_file": "https://serpapi.com/searches/CU0SKsi0VFXjcwqWzdGqL8ZToak7DuoR_Bn_vemw0S0/6ac79cd88c8a7e116cfe6591.prettify",
+   "total_time_taken": 6.16
+  },
+  "search_parameters": {
+   "engine": "google_immersive_product",
+   "page_token": "Olun1XicbVTJrqvYFY2SH8ggH3DnT37i0HOvPAAMBkxjDq2ZIDqbzoAxvfI191WVVBlWIkXKKL9RNci3xC_KsKZ77a21tPZe-z9_-PNnVvwTVTYpmqYTp9znfhTOzygqWxb5uevbdEyGIv0HIHGCxBEckBQBEAJDMYD9nERDVLe3Iv079qoDnEExDCVwgJMMSfySZ1FaF01mXK9Zf2iTVxtASJohSIyhSArHMYQExN-Ke3TL_gf_wjAURgOCoZEXG46TBPjWp89f0TMfMiRC0ST9HacYwCAAx_56hsYh_H3sx8eY9eu_4qiMyi_p8gWALwBBkPlL2q9fir5tfrx13wX9zui3-0sJQZE4iRLEC35JxlGG-tZNw2d--2Ec6-zfn7f6s2g-8_oza35qo266Jr_98S9COx_458ybTte5B4hYfjC6WOAZviK56LBFAmMExzyIgOLBrbago8y6zc6epHtOaaLG0SFsJ79HSIpenArxJGXODq6Q1Qpu23oQCSKMauVyuYsPuOlXx2HK-B7ksIE6RJQ2PhJbfBBLza8NB6n9aOPkV58My8vsNcKg-YFhHeoNHjVClzg1cuBDc7ljijKF5i2zVS184ouRdsfXrKkDzxlgKupr4oE-weom8IjjxUlxy5uRaAuQCLRLinFucJ83S7phgcgSrqAYrzkyAgHhONVgOnWX1gHuec6qS657QfVAr7o88VzZxYQ1KpUqrt1r6ionQ4BNgOXXuFJKT4SjWwVB5rmC7Q2Kc1yeEchRr4HAdsVH7HdqgkE3LWUQr6CIhfSs28FsNrWZ3dOz6ouFdVQix1nwWGQgBO4UoOk985jTpclPkdehNqiXuIJdCmTckLrOul8scVNOWZXnaROoZtUNKaYA6HLbxXtxIsJ8LBQOSvpqeIFtekrhupBLRJg7DoFY1W113cA0nAqzkXrzVwB_WJ799VeEFYnBMsha2FKGVqFqQF-SLMu1lSEPg-n4MN-_HyBOvmL0ihbxU9K2VZH99ifJ0uXDnlUMgPqC9oAZh2L9fZSNJ0XvQquyzEWddMSX8VvtVe1QyMSlKwWEKK98YKjeM6RP4a6IbkUCg7EKfEtEuFiiBVObhG27SgIir6BW5o83y-CtPc_KH29haGXJ2Gc7y4bnPcvpOUsWY8pywSGz1MYGlEq27KLTQ3xA17igMtrQH06ZcAIF-6leQtVzNrYecEg-sTHkQowy3N20EKsguTWRxgjTgttgV1JITNztxS2wkJdCi9UES7aFPX8z5fAhcB9vrMDv2ShiBKX1_GvmkFXhTruRl8U8Z5lNBjs8l1TpdHfuLbUOVbJjVohVOTsZlF8hH29HwziqQshyjiWEwsvEsy0b-v7lKg1oAsQ0SWAZRiJ09m5r-_9vAceJd37fv8vnPQrIrwClvgLiK6DI3bu1P4hGi27IRtP6kGbq7hIccF3UPt6-r4p_0DzPChZuCpyxHA-WFMhjN4KnNgeFdnzFUoSh3_HXZVfqN0MGOsCEgpz0TDX8O9MGcsNxaHQV-pupcG5Xk9SJF-duiZKXA6gczwTS7hYidPu7fQhP9NhPU_D6xnjkurvsOB2W3lFZ9dpVDT9jtbZpZmihN0yOfFjKpVyzZmf3V_NRq9po52VT6k9tRAVLAyt5nGwizJdLnhG1eHvmxNSkK48Pncs9TVJmzLsCidmmRa8YPHsB0i5Or222NdmSmbfoaaFrkxwcZ1R0kl_qOgqM-Hw-upOi5dLpiafRVoVNoaJhfyQ7v-AwKym9ZOe0rK2IbHp6cjQDCspt1oN0DsjpqZwvGn2rKKQ0ahK0tMa0Se_1XU6ds-Gk6HfMFZOTMwJw2539mKh6ZMRW92LCxawcP-FC_HLpE_a_udZEgg",
+   "more_stores": true
+  },
+  "product_results": {
+   "thumbnails": [
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSEetz5buDITQ2E2UFlKrXPGzKdYItfTBvZ7pJQrHDTVgeBe1veiNe2U_QB8M5tv77hLx1Sq6y1b2SB8aMwNJAdjF5hwC7og",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyU67mWQfRRpEs_gUj3uhMBX61sfbwcnhQOXC-Qt8Yw6qIVAFL0gvcMiqBtbn6JzCmP1Fyn--B0Rp00f3hm8sX-3fFbCKRnVZHwMt-qeUU0qG961LFiD2Djg",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuLu0EGYgavOiK-4KwuSJj0256nu9ZYqCyIPYF20kQjJwwBAqNuqlbcFySExw-qbonR4yqlfAY_xjp3cj_FuWunfZs5kiL1K4KABKX_ImN",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStZr9Ju895vDd4B2oPHUlSnaMimOP14oNenamkxKPlEKVjoYLiHE5GrQE0MjS6TVisyb_uZErk_xT4QlIjI_bJLibrgrLbSzhoZ9ov-0c",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsaiYVWYdHZsmrsoNBUM8a9SHPH9Nckv7trQEK9eJpPRtmMCZn5kJqImv8u__TsN3WNkwUhnbpRNwEE3-GBiOcVGJbETqJH9o13BxITtXlO2N0yq7PsKvy",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFcAqW7baH5OFPNYD30VeQEajB_QVEXc_vNxuEvBNEkLh60KhCGJa_jdyRgprzhc9vhyLflLm8qltaYjK-yvKaJFGlmcdCCXjqx6bjgE53",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQzXG5593UMBJTzUEJ6AVkc_bxK-ZvYtddfq_UvLNmJDoauuNNAh7U-d2eeZanBuyBVyXzsOkx4EmoN9gEn7zAry1KzhuN0jz83RQLsZXDFz9LG08FNBoZM",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRu2TADINsWIjbo6UX72A9VXiQyS3NwID9DvNyRG35576jSY5l15SJ68aMsCVk4xuyfvaSca7OOBZDoFJNGlNKuMWBWT9me6sAiwYGxx2Y",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeNUBZZftDR_sG9_y9n5nDnFOSlrJZXV7aTpCddCLj3S-WttoyaWllSYb435Lvteo9nbrdYsifUmPO_kP3tvMzc7h_DYo7WWQCuXgaV5I",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZ0TgPWN7qEvklYV2OAVObSOA4PsNdiXyo3A6cBQWNcHbQDXaQMfrVvCjCa6N3kVt1hnyNjg8mq_038oFfiMfqRzn_kxAHZMIh7N5OD6GDjw4El6J90BxU8w",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFSGyNiMwbNHe6xJWk9fIJna_wwQwRCW6tXkv_rxtthNIlp1hjZyXXjR5OY6ZYFZGDSkUlHyJt0XfMNC2XRg8NHf4gg_RYP3-klByHsJjM",
+    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRljq2SDJxB0WOt50CGeQsc9ZsY9Su3DVRyfZfROj2VN5aDH3E5UtZuUFhruA-N5YDYr4trm_Le9KJj7moasYLXN5A09colnsX4C9cYXkzD3eX7fIyZQv9v"
+   ],
+   "title": "Bajaj Majesty Dx 11 1000 W Dry Iron",
+   "brand": "Bajaj",
+   "reviews": 100,
+   "rating": 4.6,
+   "price_range": "₹649-₹772",
+   "stores": [
+    {
+     "name": "Tradeindia.com",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tradeindia.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.tradeindia.com/products/bajaj-dx-11-1000w-white-blue-dry-iron-440203-7216113.html",
+     "title": "Bajaj Dx-11 1000w White &Amp; Blue Dry Iron, 440203",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery",
+      "Final sale"
+     ],
+     "price": "₹526.32",
+     "extracted_price": 526.32,
+     "shipping": "Free",
+     "total": "₹526.32",
+     "extracted_total": 526.32
+    },
+    {
+     "name": "Amazon.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amazon.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.amazon.in/Bajaj-Stainless-Soleplate-Anti-Bacterial-Technology/dp/B01C8P29T4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AXOGFIT0PZZ7G",
+     "title": "Bajaj Majesty DX-11 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White and Blue",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery"
+     ],
+     "price": "₹599",
+     "extracted_price": 599,
+     "shipping": "Free",
+     "total": "₹599",
+     "extracted_total": 599
+    },
+    {
+     "name": "Zepto",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.zepto.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.zepto.com/pn/bajaj-dx-11-stainless-steel-majesty-1000-watts-dry-iron-advance-soleplate-and-anti-bacterial-german-coating-technology-automatic-shut-off-thermal-safety-fuse-white-blue/pvid/3a5f0655-9016-42ef-944d-a0a414ae63dc?srsltid=AU7gw4VH-C7jFFsCzHi7S884iCLqK6-WgaP4C8sYFbc-0YG78phN2A-Am2I",
+     "title": "Bajaj DX-11 Stainless Steel Majesty 1000 Watts Dry Iron, Advance Soleplate And Anti-Bacterial German Coating Technology, Automatic Shut Off, Thermal ",
+     "details_and_offers": [
+      "In stock online",
+      "Free 10 min delivery"
+     ],
+     "price": "₹639",
+     "extracted_price": 639,
+     "shipping": "Free",
+     "total": "₹639",
+     "extracted_total": 639
+    },
+    {
+     "name": "Flipkart",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.flipkart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.flipkart.com/bajaj-majesty-dx-11-1000-w-dry-iron-white-blue/p/itmbcbe96ae82865?pid=IRNFJ2YMWAXKEQ6T&lid=LSTIRNFJ2YMWAXKEQ6TERQKTF&marketplace=FLIPKART&cmpid=content_iron_8965229628_gmc",
+     "title": "Bajaj Majesty Dx 11 1000 W Dry Iron White, Blue 1000 W Dry Iron",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery by Tue"
+     ],
+     "price": "₹687",
+     "extracted_price": 687,
+     "shipping": "Free",
+     "total": "₹687",
+     "extracted_total": 687
+    },
+    {
+     "name": "Bajaj Electricals India",
+     "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bajajelectricals.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.bajajelectricals.com/products/bajaj-majesty-dx-11-1000w-dry-iron?variant=49815052583212&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4Xf_zo_7PLbYdbXUJqAC5afyS1uwbCkAp8k8sntLMtB996tASetAwU",
+     "title": "Bajaj Majesty DX 11",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery"
+     ],
+     "price": "₹1,210",
+     "extracted_price": 1210,
+     "shipping": "Free",
+     "total": "₹1,210",
+     "extracted_total": 1210
+    },
+    {
+     "name": "mykit.in",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mykit.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://mykit.in/bajaj-majesty-dx-11-dry-iron-box?srsltid=AU7gw4UuE1BTMSicwUSIBMe0_jM_QKjWRcsdkAp7YNOR47AyWYxFsm_yV_I",
+     "title": "Majesty DX 11 Dry Iron Box",
+     "details_and_offers": [
+      "In stock online"
+     ],
+     "price": "₹681",
+     "extracted_price": 681,
+     "total": "₹681",
+     "extracted_total": 681
+    },
+    {
+     "name": "Gauryog",
+     "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gauryog.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.gauryog.in/Bajaj-Majesty-DX-11-1000-Watt-Iron-White?srsltid=AU7gw4V8_zD_dK-SunekNMfk7D6wNnjQoVQ1-W98S7GLGuA_04iJQOej2Cs",
+     "title": "Bajaj Majesty DX 11 1000-Watt Dry Iron (Blue/White)",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Fri–Tue",
+      "Free 14-day returns"
+     ],
+     "price": "₹685",
+     "extracted_price": 685,
+     "shipping": "Free",
+     "total": "₹685",
+     "extracted_total": 685
+    },
+    {
+     "name": "Shopsy By Flipkart",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.shopsy.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.shopsy.in/bajaj-dx-11-1000-w-dry-iron/p/itmf5e8958d51475?pid=IRNFHEGYMDHAC48S&lid=LSTIRNFHEGYMDHAC48SK5SVFO&marketplace=FLIPKART",
+     "title": "Bajaj Dx 11 1000 W Dry Iron",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 13–15 Oct",
+      "3-day returns"
+     ],
+     "price": "₹849",
+     "extracted_price": 849,
+     "shipping": "Free",
+     "total": "₹849",
+     "extracted_total": 849
+    },
+    {
+     "name": "ElectroConnect",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://electroconnect.in&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://electroconnect.in/bajaj-majesty-dx-11-1000w-dry-iron-with-advance-soleplate-and-anti-bacterial-ger",
+     "title": "Bajaj Majesty DX-11 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White and Blue",
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between 10–17 Oct",
+      "7-day returns"
+     ],
+     "price": "₹599",
+     "extracted_price": 599,
+     "shipping": "Free",
+     "total": "₹599",
+     "extracted_total": 599
+    },
+    {
+     "name": "Bestomart.com",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bestomart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.bestomart.com/products/bajaj-majesty-dx11-dry-iron-1000-w-1000140182?variant=47306786209986&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4W_1wpGHgjUjJYb5WmK7veEm6xM8JWWriocgR3cpZzzxA515wbIhw0",
+     "title": "Buy Bajaj Majesty DX11 Dry Iron 1000 W Online at Bestomart ...",
+     "rating": 4.6,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Delivery between 19–22 Oct ₹72"
+     ],
+     "price": "₹780",
+     "extracted_price": 780,
+     "shipping": "+ ₹72",
+     "shipping_extracted": 72,
+     "total": "₹852",
+     "extracted_total": 852
+    },
+    {
+     "name": "Bestomart.com",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bestomart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.bestomart.com/products/bajaj-majesty-dx11-dry-iron-1000-w-1000140182?variant=47306786209986currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4WcX6sSUE3IS3ZuQb03CUbDY4aKIhvVj_5YKHWHLwoEfsxADKAqQ7w",
+     "title": "Buy Bajaj Majesty DX11 Dry Iron 1000 W Online at Bestomart ...",
+     "rating": 4.6,
+     "reviews": 0,
+     "details_and_offers": [
+      "In stock online",
+      "Delivery between 19–22 Oct ₹72"
+     ],
+     "price": "₹780",
+     "extracted_price": 780,
+     "shipping": "+ ₹72",
+     "shipping_extracted": 72,
+     "total": "₹852",
+     "extracted_total": 852
+    },
+    {
+     "name": "IndustryBuying",
+     "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.industrybuying.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.industrybuying.com/iron-bajaj-OFF.IRO.105545952",
+     "title": "Bajaj Majesty DX-11 1000 W Blue, White Dry Iron",
+     "rating": 3.3,
+     "reviews": 18,
+     "details_and_offers": [
+      "In stock online",
+      "Free delivery between Fri–Sat",
+      "Not eligible for returns"
+     ],
+     "price": "₹1,179",
+     "extracted_price": 1179,
+     "shipping": "Free",
+     "total": "₹1,179",
+     "extracted_total": 1179
+    },
+    {
+     "name": "IGP",
+     "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.igp.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "link": "https://www.igp.com/p-bajaj-majesty-dx-11-dry-iron-113374",
+     "title": "Bajaj Majesty DX 11 Dry Iron",
+     "rating": 2.8,
+     "reviews": 12,
+     "details_and_offers": [
+      "In stock online",
+      "Free same-day delivery"
+     ],
+     "price": "₹846",
+     "extracted_price": 846,
+     "shipping": "Free",
+     "total": "₹846",
+     "extracted_total": 846
+    }
+   ],
+   "stores_next_page_token": "na_jVHica15aklmSk3pT2SkxKzFLwTcxK7W4pFLBpULB0FDB0MDAQCFcwaWoUsGzKD9vSXF-USbv4ty8fC4AMCwTPg",
+   "about_the_product": {
+    "description": "The Bajaj Majesty Dx-11 is a sleek and efficient dry iron designed for quick and effective ironing. Featuring a durable stainless steel soleplate, it glides smoothly over fabrics, ensuring a wrinkle-free finish. The iron is equipped with a temperature control dial for various fabric types, allowing you to customize the heat settings. Its compact design and lightweight build make it easy to handle, while the blue and white color scheme adds a modern touch to your laundry routine.",
+    "features": [
+     {
+      "title": "Brand",
+      "value": "Bajaj"
+     },
+     {
+      "title": "Wattage",
+      "value": "27 W"
+     }
+    ]
+   },
+   "ratings": [
+    {
+     "stars": 1,
+     "amount": 1
+    },
+    {
+     "stars": 2,
+     "amount": 0
+    },
+    {
+     "stars": 3,
+     "amount": 2
+    },
+    {
+     "stars": 4,
+     "amount": 30
+    },
+    {
+     "stars": 5,
+     "amount": 67
+    }
+   ],
+   "reviews_images": [
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdkf90TzPTPZY_b5ks-zj54XHWACnjzJUIctcAaAvZXmvcBCvKs5vXtd8XI5dpE8yMiEKKY1RtTq_PEqqDPVbMzosj9nwx",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIfrnopDmQI0ScG-ZGGq-fOBSnibtISl0ohWN2JhBC-_UAa8tEu-92mXlV6jDs2IJJ1NQBNg2Qy47Fo1iGtP-NC3iv3vbm",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-6K2CfuRPe7SPhZwZ1upALCmPWVw_WPI3jV6La-e_T9s4uEReusXnBiNYcOMLY4UUgciGnxZ5nEyFpIt8F4nz7eMI_Dth",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnhPOyWADHTtieYXzdnvKNvzXxR-lnPKmpnGnnevEixuqJFVadKLTLoTKyYQWwlrkKw5CeH56Nc53f4HepUGWtVqz4hUMh9A",
+    "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsRR65tu8i8XPUNZLDspjv3toCr550ojjJHPBOqA8hfD8VKc8utY4HkNQLUP_Y22kh_xgbeM4GS7jR9sJHDxd4pTh6lnMUMQ",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8gFwJOOjBY7k8NtrchC7zF8pIsKRaTEmvAZMIYoJLu0qZ1ZpsBc3IWTdut5sMfzexsX9UyCkM9AoonjmeggNTRjWtHRJGkQ",
+    "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXS89mu-118jGBCwwAVhDXoRNVG2lw4xYzbsJDzqHlEYLhmRYsDTUUttqBpA26sZyiSGxPA3UVsNOV2W5cdsC6-EbiDC1WeQ",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQr4o8bO_dnbcSHo0vZ1juWAFxElW1nT0bNce8GrqiUrg-Ohi4g3ZZA2lF-BPOsececcMC806uO0xIbu6-KG5Ayo0EUKIFJ",
+    "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3L2YYM2199XIE9JeVx9xOFh5QzLPkK2g9Wqn8wNOzkAn49J3JnVIl-9RwyD9ZOU9N4HyAMq_HGPoF--MVU0koZkZwKjM5"
+   ],
+   "user_reviews": [
+    {
+     "text": "I recently purchased the Bajaj Majesty DX11 Dry Iron and it has exceeded my expectations. The 1000W power ensures quick heating making ironing efficient. The non-stick soleplate glides smoothly over fabrics preventing any sticking or snagging. Its lightweight design and ergonomic handle make it comfortable to use for extended periods. Additionally the 360? swivel cord adds convenience allowing easy maneuverability. The thermal fuse provides added safety by preventing overheating. Overall it's a reliable and budget-friendly option for everyday ironing needs.",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 4,
+     "date": "11 months ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdkf90TzPTPZY_b5ks-zj54XHWACnjzJUIctcAaAvZXmvcBCvKs5vXtd8XI5dpE8yMiEKKY1RtTq_PEqqDPVbMzosj9nwx"
+     ]
+    },
+    {
+     "text": "I recently purchased the Bajaj Majesty DX11 Dry Iron and it has exceeded my expectations. The 1000W power ensures quick heating making ironing efficient. The non-stick soleplate glides smoothly over fabrics preventing any sticking or snagging. Its lightweight design and ergonomic handle make it comfortable to use for extended periods. Additionally the 360? swivel cord adds convenience allowing easy maneuverability. The thermal fuse provides added safety by preventing overheating. Overall it's a reliable and budget-friendly option for everyday ironing needs.",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 4,
+     "date": "11 months ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdkf90TzPTPZY_b5ks-zj54XHWACnjzJUIctcAaAvZXmvcBCvKs5vXtd8XI5dpE8yMiEKKY1RtTq_PEqqDPVbMzosj9nwx"
+     ]
+    },
+    {
+     "text": "I?ve been using this iron for about 2 months. The build quality is solid and the design is simple. It heats up quickly and the non-stick soleplate glides smoothly over clothes. Shirts and pants get nicely pressed without much effort.The 360? swivel cord is very handy ? it doesn?t get tangled. It also has an auto cut-off feature so there?s no worry about overheating.Only downside is that it?s a bit heavy and since it?s a dry iron there?s no steam function. For thick clothes it takes a little extra time",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 5,
+     "date": "11 months ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIfrnopDmQI0ScG-ZGGq-fOBSnibtISl0ohWN2JhBC-_UAa8tEu-92mXlV6jDs2IJJ1NQBNg2Qy47Fo1iGtP-NC3iv3vbm",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-6K2CfuRPe7SPhZwZ1upALCmPWVw_WPI3jV6La-e_T9s4uEReusXnBiNYcOMLY4UUgciGnxZ5nEyFpIt8F4nz7eMI_Dth",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnhPOyWADHTtieYXzdnvKNvzXxR-lnPKmpnGnnevEixuqJFVadKLTLoTKyYQWwlrkKw5CeH56Nc53f4HepUGWtVqz4hUMh9A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsRR65tu8i8XPUNZLDspjv3toCr550ojjJHPBOqA8hfD8VKc8utY4HkNQLUP_Y22kh_xgbeM4GS7jR9sJHDxd4pTh6lnMUMQ"
+     ]
+    },
+    {
+     "text": "Heats up quickly smooth glide and removes wrinkles effortlessly. Lightweight yet powerful. Great quality at an affordable price.",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 5,
+     "date": "a year ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8gFwJOOjBY7k8NtrchC7zF8pIsKRaTEmvAZMIYoJLu0qZ1ZpsBc3IWTdut5sMfzexsX9UyCkM9AoonjmeggNTRjWtHRJGkQ"
+     ]
+    },
+    {
+     "text": "I?m happy with the performance and would recommend it for daily home use.Thank You Myntra ??",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 5,
+     "date": "a year ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXS89mu-118jGBCwwAVhDXoRNVG2lw4xYzbsJDzqHlEYLhmRYsDTUUttqBpA26sZyiSGxPA3UVsNOV2W5cdsC6-EbiDC1WeQ"
+     ]
+    },
+    {
+     "text": "Good for iron cloth machine and durable iron for valuable money and easy to iron",
+     "source": "myntra.com",
+     "link": "https://www.myntra.com/reviews/27539116",
+     "rating": 5,
+     "date": "2 years ago",
+     "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK21xbPASPcQw9_rZuxWgPPa8s20iiSkV-g6SmRtp6s7--Qr8bhoSBlfFsqWtUvZLy8JTg=w40-h40-c0x00000000-cc",
+     "images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQr4o8bO_dnbcSHo0vZ1juWAFxElW1nT0bNce8GrqiUrg-Ohi4g3ZZA2lF-BPOsececcMC806uO0xIbu6-KG5Ayo0EUKIFJ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3L2YYM2199XIE9JeVx9xOFh5QzLPkK2g9Wqn8wNOzkAn49J3JnVIl-9RwyD9ZOU9N4HyAMq_HGPoF--MVU0koZkZwKjM5"
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "title": "Watch Bajaj Majesty DX-11 1000W Dry Iron on Amazon Live",
+     "link": "https://www.amazon.in/live/video/1fedd74f91364cdcbb00731a42fe138e",
+     "source": "Amazon.in",
+     "channel": "‘Fashionably Late!’ By Rahath Aaliya",
+     "duration": "1:26",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oEL716P0ZW5mSz7aflFkDG0sxhSQKIEMTE6bDwEOfwiDuA&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT5Z8tdgm3w0pHqvn1yOmS7R-_7P68bUFaLxA"
+    },
+    {
+     "title": "Bajaj majesty dx 11 1000-watt dry iron | ₹599",
+     "link": "https://www.youtube.com/watch?v=Z6SGdCp5SIQ",
+     "source": "YouTube",
+     "channel": "Tech Simple",
+     "duration": "2:33",
+     "thumbnail": "https://i.ytimg.com/vi/Z6SGdCp5SIQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mT3Y6M2zg275n3qgMZ0bzf_6Ieiw",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFNAK6Om3LvUddDAcAIA_Lo_dIJDPXVse1yQ"
+    },
+    {
+     "title": "Watch Bajaj Stainless Steel Majesty Dx-11 1000 Watts Dry Iron on ...",
+     "link": "https://www.amazon.in/live/video/10f207ab46474e8690741c26a6550ea4?ref_=dp_vse_rvc_2",
+     "source": "Amazon.in",
+     "channel": "Ateek Ahamad",
+     "duration": "1:51",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydePgaIh3FRWPiZZQhv4wd_TjNPeq3GbrTzwUubtLjtobNw&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSDWXLAYg7ySYH28tlVkL8zpjQO3rT9gCEkDw"
+    },
+    {
+     "title": "Watch Bajaj Majesty DX 11 Dry Iron Unboxing ...",
+     "link": "https://www.amazon.in/live/video/157f381a05dd404a82de931c14050543",
+     "source": "Amazon.in",
+     "channel": "Digit",
+     "duration": "2:20",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5O03pUIRXf53gYhnRoee6LZRN64SApK7p5Zapgbk_UaVgIQ&s",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMG27EyevHfTV8GyEB_hGRbNvOEBrIdb505w"
+    },
+    {
+     "title": "Bajaj Majesty DX11 1000 Watt | #shortsfeed #shortvideo #shorts ...",
+     "link": "https://www.youtube.com/shorts/X71JE0keJHk",
+     "source": "YouTube",
+     "channel": "Tech Simple",
+     "duration": "0:35",
+     "thumbnail": "https://i.ytimg.com/vi/X71JE0keJHk/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3ncdL8N5egHd5zsDuAIIOvaLclRJQ"
+    },
+    {
+     "title": "Bajaj Majesty DX-11 1000W Dry Iron with Advance Soleplate and ...",
+     "link": "https://www.youtube.com/watch?v=YX5YGdxeiO0",
+     "source": "YouTube",
+     "channel": "Info Academy",
+     "duration": "2:00",
+     "thumbnail": "https://i.ytimg.com/vi/YX5YGdxeiO0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3krX3lV3dh1ifs-dVQIfmFtEUaTYg",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR013J5SLQLv3lrD300mcUBTYrz_UZJk5lwpA"
+    },
+    {
+     "title": "Bajaj Majesty DX 11 Dry Iron Unboxing",
+     "link": "https://www.youtube.com/watch?v=tYT0t5HAxOQ",
+     "source": "YouTube",
+     "channel": "Unbox-d by Digit",
+     "duration": "2:21",
+     "thumbnail": "https://i.ytimg.com/vi/tYT0t5HAxOQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k3WgZIcjJQ0REAfaOJ3fUytwAROg"
+    },
+    {
+     "title": "Watch Bajaj Majesty DX-11 1000W Dry Iron with Advance Soleplate ...",
+     "link": "https://www.amazon.in/live/video/114b5286cd084653905af603381652b5",
+     "source": "Amazon.in",
+     "channel": "Amazon Videos",
+     "duration": "1:04",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThooYUKouC9M4HMQgl3A8dx3yjVNjRU6Y3V6VVgnAfuiLMQ&s"
+    },
+    {
+     "title": "Bajaj Majesty DX 11 Dry Iron Unboxing and Review | 2024 | Hindi",
+     "link": "https://www.youtube.com/watch?v=m5nYlgD-VSY",
+     "source": "YouTube",
+     "channel": "Chetan Technical",
+     "duration": "4:43",
+     "thumbnail": "https://i.ytimg.com/vi/m5nYlgD-VSY/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3momvOofoFe2jC94DbNOtkVouCo0w",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTBQL9u45OBNSIbUuzW6ZwvTNq78ZJ3k3TJEQ"
+    },
+    {
+     "title": "Bajaj Majesty DX 11 Dry Iron 1000W Advance Soleplate and Anti- ...",
+     "link": "https://www.youtube.com/watch?v=BHPpIO1Keto",
+     "source": "YouTube",
+     "channel": "Self Believe",
+     "duration": "1:04",
+     "thumbnail": "https://i.ytimg.com/vi/BHPpIO1Keto/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nN1RARXYySi4EzZRmSYcVFd1GPAA",
+     "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTfLYnJ7qitTT2CQmC-kbteFIBpncpx81DWDw"
+    },
+    {
+     "title": "Details & Review* 👔 Bajaj 1000W Dry Iron box బాగుంది బ్రదర్. ...",
+     "link": "https://www.instagram.com/reel/DaDGniQSKd7/",
+     "source": "Instagram",
+     "channel": "BALA DIGITAL XPRESS",
+     "duration": "2:41",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7NNmoUdBxh8WfCKBYuveeDk5g_9J9qjuFOG027_iSw4DaA&s"
+    },
+    {
+     "title": "Bajaj Majesty DX-11 1000W Dry Iron @500/-#viral",
+     "link": "https://www.youtube.com/watch?v=yWcW_6hDBus",
+     "source": "YouTube",
+     "channel": "Telugugamesexperiments",
+     "duration": "3:20",
+     "thumbnail": "https://i.ytimg.com/vi/yWcW_6hDBus/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kzvfFUtNNlnRKGhqC0bjnxwE_9dg"
+    }
+   ],
+   "more_options": [
+    {
+     "title": "Portable Iron DX-11 1000W Dry Iron with Advance Soleplate",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5WPIQ5wUJphkj9GiHXGcRoE_64tTRxRLBYMPITMC_4O0QNwAj6CTqKrfUlMbdgf27CbVDrr8xB9hVJwZz5SEEsWtB6T79U-v6_-d54lS4kmPR-gjkyUwR",
+     "price": "₹699",
+     "extracted_price": 699,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6k6oOXicLVTLrqvIFU2UH8hP3NGRryigCsiMp41twDwNTBAGzKt4GBuM-ZrWuemWOsPullrKKL-RHuRbgm8yKtVaW6tWrV21__Onv35m5e_kftnF03QQ9s1zGOXTPY6rjid-7ocuHZNHmf4GEA0RTdAAMRAQkCIpQP2cxI8Yd3mZ_kqtOKA5kqJISAMacQj-UmRxiss2M67XbJC6ZC1DLAIsAyAgOY5FkGBZ9I-yifPsO_0bYEiGpFlEM4hkOEivUujbkN5_-PE2ZsPrn5e4iquPdP4A4AMQBPH8SIfXRzl07Y95_9bnEMGwiGUoFjAc4AhAU9-aMv0FMohGJIQrTSCWJjnmWz89Pov8M8efZftZ4M-s_amL--ma_PHnSu6eonh_Cqbb955kEfaiQH3L3Yyt93Rb95nKaRmeFVmTsZi21uJTxVWvrOKyeLpV64NFFEaMPRiQUAscb68rupz5gmm1KUxrxfRcoF8wbi3FpRIvvVl-2voE1PUG-zrwrMzFuuULSrAElL21SnenV14DSQ2k56DRr9kWhJnngUz2sEbAfdruAwfrc4i5OPNYMqtxc5HCOsDCWtuHMU7DtEkNT_LOhmOud1BaS1Jmjww1vU1Ii0jrrFHuXq1TAcjJswuDS50aWqWElzpfPCV9rDq6XCTLue3VwFdc3WVBWOOnIVlmomAndULLs7rSdK0lqXDjba1buiixtZizQ-LS2-nIOae-7eRPw9PtxMVG-vz7fB-u_yZ4BT5sA818AmvDJpQRKrA_Okw3Jg2yS9HN__ZuKI3WV8bSkP0p6bq6zP74y8PWVekLJfF7A5C-rN2sTCCpoRlV486wm8iubXM-Tjrhq3SOz3X3KFUY9JVMwOoqhsbxfI_YQ7Qp47xMrHCsQ99WCOGyY2VTm-Rlue5kQn0BvH9-oYQP2xDt9TSRV9-7KLKzZByyje1Yp7cJQS94VI4pL4RSZh9bBzBH1PGzzj4uEvm6lEzGGvrNrRJBZqxhwnN0PLsLjx-0he7UGAkRxRjeZprhS955GKYXgutA_nDqXQQnIf_uQeYtcRfZvCbbqiO_7eSmGt1k4c3ysvh2EsecvO_O_jVzUV1602YUVaUoeG5RwYYudsfdoXGbjnk96mTDvSyqLvjJYPyaeItsDWN7lCNecG05ktdYT45q6Kvu96xZwEJwWb8vlVGIYLMvFO9oK_7_DtE0XJG3i2Fd1XcwJEBfAcl8BfArYNBmhd8pSorRkQuxsKz-SLPjJgglWle0t4H_NVW8saLIyzZtyoIxbyV7F6pjP4K79gxLbUtgX7Eivxev86bSc0MFOqDkEk16djT8hutCtRUEMr7KQ27uBa_HiDmIyrOf42TNhlQvT0h0mxlG3tA4UnRgx2GawnWw0bHnbbLtJM2De-SP175uxSeFtUUzI5vMKTX2rUqtVMybvTNczRs-aqNTVG2l37WRlG0NvNB2cmBUzEGRQazk9wJObfoS6UfvCXcTqZzZ7C34dFjlXD7Ozgx2m0t67bKlzebMzOO7Tb7aRHLdca8jccY4Do3L6bT1pr1W7A53Oo2XOmrLIxkNW9T7pUDZSXVONm7HO3uFTw93geVAyXjtS9qdQjTd96dAY_OaISoDI9CxGtclw3noC-aUPQ57vaE8JTm4IwD55uRfYD0QI_XyAtOazdr1EyGig2BI-HV2Xv_1X7gqCCk"
+    },
+    {
+     "title": "Bajaj Popular Dry Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDTMd4-FmfTkVJoOBorbJTZb4oOTk9UV5ObERiv6mVMBG1RbDq4VJtPej1SugvQQ6mo0GSMwKJgvGEn97aHmOzIBnrdDvbb30LqCMx-23hMrEJdcoiMDi_Rg",
+     "price": "₹681",
+     "extracted_price": 681,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PIbIsHicLZTLrqtGFobTygvkJc5oy0cURXHpGZfCgA2YO2aCMGDul40xxn6aaJ9OpGSYRGqpR3mNZJBniX06o1KtX_rr079Wrb---e4jr_5Lag8lWZadoHW36YoPlySpB574aZyG7JrOVfYboClEUwQFaAYBAkESAvhTmsxJOxQvGSEGIRJRFAAkRzAMB6hfyjzJ2qrPzfM5n6Qh_ceGQTRJI8CQAEAKQOLnqkuK_Kv-K8dBimY4hqERDSHLQYL-MmWX7394v-bT_X-npE7qt2x9A-ANEARxe8um-1s1Df0PxfjVn6FIlmWppztBIYphKYr-0lXZL4ihKZpkOZJmIOI4ioVfxmX-KIuPov2o-o-y_cj7H4dkXM7pn__6gqdUFJdUsLxx9CWbcLdtE-EIW6GNE2A0Jy-7uVi7pCJxc2Qh8hsWWP5IRNuVimCpR8FYJ76P7Ye2erV9z-vMtRVfd7zS0uWC1L1V8H0VprCcMqi1Rm2ICbSJXGpXH2adLcmhTtq150VUVEez36bo6AqCH_Io7yzo4Qs8-caQK-Xdqf0wBAM6gnQ9diXtdv7B9ApgyzoyMZAcXEZPL9XtjV225XaRW2KfMEAuebNf62vesXdnG4VBrd0MUmuPIQ91YO-NQBbToJxOrgqTIMMe2QIv8G6pMtqGItx0l0ceXi3b15LcPT4cP7IjclYM195nvQcS0n93HlkftH6XrGqog5F2tvLqS_7BCCItlQrCU4TIgx7p-V6iNjJOoYqi1gbZo61TL6WOJDrbWzk6dlmb4nJIFY0MAiRZMP3PepnOfxC8jGbHpCMlDoS9dy-XaHQEKe61JqIMlF7m27_BaxppmgEshbgf02FoqvzPb2fHUKVPUOI1E5Ah1t_tXCDh1F1V88Kwm9hpHGvdLwYRqlTRBs0wVyo6jjUmUH0WI3MfXGJ2F2-qpKhSO7o2UejIhHBSWGzpC348zgom1DtotdsnKLw5pug8XxN59XWLYydPr1O-cVz78IIQjJKnq2vGC5GUO_veBcyeHvjVYOeTRN5PFZOzpvHu1amAGXta2jXeB96Db2fKpi_wGgsxZEx_s6zojhW_RdmJ4AZQzG6jxGgRiq8MmLdFJXZ4HTuqi184haXG71h4qTwWXyRJwmFtCMJz7tFN5S-bq6jKZclzDxVsqFLZK7vO6wbmPjfphrvbsCn5xWTChniZbE1zu8cxL3gOjvEz1oOrmsbT92vWLGAROLE0gjmkCTb_BHlXf9b_6RBFoWflRTE9T_UVDAnoz4BkPgP0GTD05ll-pSjJ5kA-iAfLGnOW7zfHSKIMWX8B_L-p4jsrijx2KAsL5rqVHCVSr-MVXPRbVOlbog1lOw5H8bxuaqMwVWAAiCt6MfK9GXbcEKm9IJDJGU-FpQn-2NLMTpRv45qkz2xI9XRDxLBZUexPnSvFO_Y6LUv03InU89dv8u0irZO35_fnsenFG2z1h27FDllANQntWq3VlrdGdzpb7-1ev7pl3dfGRb-S2NHBnd4uLorL9VjmqJWLS4mWPruL1Dz6wsWiVc7qNBvdXFYOqjlwV6BsTtl5yB99vuZWkVwc8t6nkuddNYMW17ZNIvN0OGz9RdNLZXehsuTRxH21J-NpS49hJUAnrYN04w28q8l8trsILAcqxu_vknKI6OWiHY46WzQMUZstDQZW54Z0CqaxZA75vNOMDvpyuvOuABSbQ3hCzURc4d0_WvZqNV6YCjF1PE4p_1y659__BiHMF1c"
+    },
+    {
+     "title": "Bajaj 440311 1000 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQs-qFvmSbXn7Qi2shPQPy53f1P4OyXabKWxtMZECfjaL3dRgwiGGge_uA9HjyBHH3hQ1QPphEbe8E6b-m9ih5Dj07H57aEBfqhrDU_L-8",
+     "price": "₹1,371",
+     "extracted_price": 1371,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Eqw5u3icLVTLrqNGFEyUH8hPzOrKo26geWQHNhhsA-aN2SAMmKeBy8vA10R3MpGS5cxIkbLKb2QW-ZbgSVatrmrVqa5zdP757se3OPsDOyxiMI5H7nB_tAN_7oIgr1nwW9PW0RD2WfQFkgQiCUBAkkIQIBzDIf5bGPRBWSdZ9BlfcUgwGI5jiIAEyZDoUxoHUZlVsXq7xe2uDrPoE05gkKYRRa1KJM0wkP49uwdJ_I39AjEGIBriBKIgBJBEDGA-tFH388fXIW7nP69BHuQv0fQC4QsEADxeonZ-ydq6-pg0q8BnhgQUTdIUTkOKgQyABP7hvpZFFEmQGEIrDUiawBjqQzP2b2nylpRvWfWWlm9x9WsdNOMt_Pp9zteP7bZ7cJrVNPZOB4alQSs_LIrFTN79gkW8YsjALiJMH3TLU2w8hbHDiBZMO6dk8msVBdfFlqOCUez9NDu5BONKDyI-EsNiamOR010AyxBGlQyYynHr3hMbwyoE2buXqsfDbH1D6hhDxJVdRW5U6KXVG6AsbMx-hJbHyW6CXMwjLDx5aLY1y7uD4-1hc-UVLzRg7bjKHAjCYonR6WKnnnxPHcOVF82OTvp94lVeRh4g5ouz_snkxEjUX-VSeL1UCTSskleKQxbu0Wg4HuEJzUnG5J5Pw8WpGuniCpZi0dAryoe607VQKM3I9HRbrzPN0pcwL-8WgLoqRsbFtM9XC8o2hhqzigx9bwPVmcC1LI-W9svUtbe_ASug3lDRfnaw6-Jrdktu4g4d_U2SVdxMZ1ry07OhBLkOGU2Q4Newross_vpDbyjS7h2-Yw8qxFxeftVjDsPb-yCpHUVvfKMwtOk0KsCViKR0irrPJHRpch6g_Lb11JPT-fRaJwuSLNS9ofBcQwDcVaR5TR75ZbmJPJBmWB4e73DuxVC3xlpty0rPm-8bcTi08cYw9fPTBKekLJkNEct5u9g4VSakTmTNTgrdX3fYfM2omFaVVysPOZ7S27Gc_JNjLWzZEzrZ4YPP-Til2ptxQjMv2iWKroCpYdKbheijkUu-eeBZfSv6BivzhmTyTzuJJvmvPPdkWX77dBIEDH9YZ-AWW2SR2eNm2EpCmrLMIsENkYon8Xi37jU190W4YWYdL1J2VCm3AE-RvaruT7zPcpbB-_wa69mUVGXV_ZY1DWkErzSJ8BgnAR2_w1lTXvH_O0QQaEWeLtr1lJ7BYJB8DzHqPUTvIUVuVviZ4k5Qa2wBC00rfRSfNhdvRyiC_DTwX1O3r_R2y_IGofGcOu13huhJQzPATn54mbwHpSvovttsb9MmVxJVggrE-Ywclfikunem9qSK47DgxreJduDspiSp41Z4NFMQrtlg0vWBQL2ZkG-3d3PnH-mhHUdv3WtEYNubeD_uptY6sadbU1TbB17Ki6z5BpbgUuDquZRLJas1ZnvTXsuTPJhpXuVKJw8Yb8hwJvejifx0uqQxKoWkS9FYRfOW6Bub6zRSYrT7QUcPkxacrHfMCYqba3Sr46WKp1hLgs7A5ircWdZwUMjtVJaBp17P5709HuRUPHZEFCyFX2UnzG_3ZONmHG6EuRNurJo1DwIbHTuOZmBG2dW8E88eOXaH80Wmk4ICuVqSsKZlpg5bp21S6hz3x4Nyx20hPFoDhMnm7F5R0YIBn-2Lpk9aYbkh5xOXSxuy6-68_fUvgBYGPA"
+    },
+    {
+     "title": "1000W Aluminium Dry Iron",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7KGcrRxu5QMbYZrTT-HLNj17tUhFiRiRhyMQFPwDqLLatklaKDOXt3tFN9IMHKL4ojbj7HtBetM9KsnaWCFbg0hPTqW4Qzj9l7qOgFywJg5tSOqzeK-ulKg",
+     "price": "₹379",
+     "extracted_price": 379,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=m9gXL3icLZTLzqvIFYUT5QXyEmf0y0cURXHJDAzY2AbMpcqYCeJm7hdjG7CfpvWfdEudYXdLLWWU10gP8izBJxmUSrV2ae1Pa5fqP3_662da_E7vXttwHPfSrpmGh3K8hWHZidTP_dAlj_heJL8BlkEsQzGA5RCgEKQhgD_H4T2su6xIfoWLDhiBhpBGDGBYgUW_5GmY1EWbmpdLOshdvFzjOMghYVmIEzgWQiiAfxRNmKXfy78BHgKaggwDFweeZwHPg29Dcvvhx-sjHZ7_jMIyLD-S-QOAD0BR1PSRDM-PYujaH7P-7S-wFMezPAd5wAlAoAADvzVF8gviWIalEVrKFMsztMB968f7Z559ZvVn0X7m9Wfa_tSF_XiJ__hzqXTTen2bJAv3PZFtyjn56IB9HzdqeIa2TlxVi6HGRNVMdGCc3Q0zmV7tYKxRpLGptLTQyVNb3NqDTgkzhsYZN8gnsuS69Q6TVtq42wwZG3JNMQUNBwzR1tYxdb-GtYpIg5gQ5L7d5FNUV5TrnakIJkyyAWwi2wRvas1tFNoD3R3DBCVYRafWZowKsEQmmlGpY_RKGKOsz6ayG5x2YXTJ9eAl00lWQFSqm1Ndtz7pGxv3Bmnrp45V26lixoLG5IHcck8JiUhfJvQEyQaEB0w8JY9fp7bXzp6KDcwDv6onU7atWK3dxPVtYneFhe1XXNYNbv0rpsBwwokSKcQg1KwcMJ6c1p_cjbA1CJ6w9ff5Nlz-TYkqujsm2jxPdPQKLDKwq_SG9sEqK1rpyRdW9rf3QBl2eWU8w1I_xV1XFekff7k7hiZ_gbK4MwHtKfrVTiUaDs1DM28cvwqcyrHmw2hQnsZk9anq7oWGzn2pUKi8rH3zcLoF_NKnCLMitv1H5XuOSknRllcsfVRer8tWobQnqHfTFyh9OObaWbqtRe19CgInjR9DunJc-_iGkIxcZItHIkq-nDqH1gXcge3E2eDvkUw_o4JLedO44jKWFM4exnoODif8Eus7Y7M3-AikAHImWY0zeipbUqMkooQOZHe32gZolLLvDIpor7eBI-qKo7nKGyeztOCqSO-qqKzfJGEoKLvu5F1SzFYFGVePtabmuSi8NLBi8u1hu29w03HPexWvhKcNq1wcTc6rqLfJxjQ3ByUQJewogbLEenQ101h8v2fNAx6BiGcRTCFL8ekXKLr6ov9_QgyDFuVNMSy79g6GBuxXQHNfAfoKOHa1yO8UZdXs6Bf14nnjnqSH1dmXGUPV3wD_G-r6yq_XouIwliKZ80Z2tr726B_gpk9-oW-o2lPtwOvXl3lVGpmpAQNApWBHIz2YXiN0vtZKEh1elCGzdhLpa5bbr9Wpn8N4yYbWoglR3WpGARkaVw72_GMYR3_52JiQkFW6GeV5wAfxcOmrdj3BWn_pVuDQGdRCzy61UqtFq3eHi3WtD_rDzcu2NG76g1YcHTzZzeiiIJ_PeYpqNbvlaGyT55q590S6WawmWM3ORpPLq6fifnJnsF1FyaVLX206p1YW3hz62cYyxo-dwa7nug59MzoeN2Tc6fl2f2OS8FUFbXGgg2HD9l4hQScuT_EKd6K7U8Vkf5N4ARQcaZ_y9uiz4213POt8VnFUadYs6Hhd6OLhNPQ5d0zv-53RQKLGe_wAIFsdvQhVA_WAT3K27NmqsBdLAXM-D7G4_J2Xf_0XM_EFAQ"
+    },
+    {
+     "title": "IBELL PASSION 1000W Iron Box with 3 Years Warranty Non-Stick Soleplate Dry Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcST9wGpPOKwgh5hTMB47X4U0L8xcbRwvWn8aKnojuUdQQ6bT230gqg0CQ19xQXiiSHUaKmveyCbvHFTdfuZOCAyaOJ4BuHkrKNZ9T8VstML7nochH9qscU88w",
+     "price": "₹599",
+     "extracted_price": 599,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3bgSpHicLZTNrqtGEscnmheYl7irI19109DA7Pg22ID5aGyzQRgwYD4PNhj7aaJzJ5HuLO-MFCmrvEayyLMEJ1m1uqpU_at_Vdfv__jXR1b-RBnPdTxNG9Fo7sOo7K5xfOkE8LUfunRMbmX6f4hpBtOAhphlIGAQhSD6msS3uO7yMv0fh1mIGUQDiqUYDJYg_K3I4rQu28w-n7NB7pIlDDKQZxGiIM0hBADN0OC_ZRPn2d9uxALIUDRmWcwClgKI_zKk1-9_eB-z4fHzKb7El7d0foPwDQIA7m_p8Hgrh679Ie-TFyTEGPI8jygWUgyPaA7SX5oy_cawmMYLGORYGvCYo-GXfrp9FPlHXn-U7UdRf2Ttj13cT-fkt---KEMiSVMiOqTvA9kFHuR3XquerUbV4r2rByB5EmU2Et-SA614hnvV8FpR9CiVJKCYrCrEqRZuSU2okxbs3adrhiSkg70qen5gWg08O1TYeJeUEFCAWOUPYaBKaQVmv62D8BmaHqi9UHZLV3EfYW3gWOtnh_By1jB9qpjAq-YmU92agPyW1PwmUC3TIryaKb109I90tk77vaL6DkonsrY0oh7v6VMME02t0r1qucgwLLWuQlSobmMElpzGAcXBEIVeCEXrSAXYoW7mviHQaQrsogDHwKg8JaBTkECLGI8T6RhzHRyOzyBwKL60yLzUHxi2kgC3rRhPsW6pVt3TWT-YsMeeps6BHOysfWgkcg7IWgwJIhQJSKxXqpIgnQlrk7HlQIzbVE6Q-h6iGptVuHUIU2WtuHOhuvOJ8p_5Opx_BYLK3Dwb07bO9xu0yQ7yg7ejYSptKU_cnnaFf0OWhzRe5pOjMfwx6bqqzH77582zdPkTkgXDhtRBMd_dTKTQ0Iy6fWW5VeRVnjNvJwscdDqv91V3K3Xm2F8UwFzOUmhv99eI20SrMs7LxA3HKjx4KhBPa05xzEl5Ps9rBegPWBv3T0h882zJW16TBP11iyIvS8YhW3m-u3tBiFYh4HJMBTGUM2_b-pDd4k6YLe52kqnHqWQzzrbeySURFdYdpnqOtnvyFOob7eIrGiMxQqwdrKaZeSjroGbSE-A7mN_8ah0xk5j_yaAIrrSOPMFUPN1XXji5o0fvivjyCor0IoljXjG6_eGcEVyVwbQaJV0tCoF_6nBFF-vtetOQpmMftypZ8Q8XVYUw2eyhAq8kmm1rWyUSROIpkbLIuvN121ry_qk1BzkGnrhlT2QIAy77hATfXOx_d4immcXyohiWU38JQ0H8GVLsZ8h8hixeLeaXirJqd9QTPDluGa9suzqGMm2p5gvgr6ZK75wkCYpHO4poz5rsrUN97Ed4Ne9haWqgPqhudOil87y6WLmtQwsipcSTlW3tQ8N3ob58Zio-K0PuGGLQ15jdSOq9n-Nk0YbST3cGdKuZiYKh8eVow43DNIXLRqTjIFhl2iTPA9kK23NftdId1ebTdCKPypEeH9yLftFrwen94ey811tz9ItLe7Gu5kgpngkfWJt8JirmY5ExtZpfC2Zq04dE3_pAvDpY553GcJm7z6n78rb3Z7hendJzlz3bbM6cPL561KNNZEJGw8LSXNdxaJ92Oy2YDLNYb650Gj-rqC23VDRouD-UIvKSyz5ZkU7wDVVIN1eR42HJBu1DXu9CPF2N3dHk8ooFF7vGsONMvkuG_dAX7C67bQyrQYGabMgIYb7aHU5MNYARPYKj485ORQ6JGNHH45AIy9I9__IHuz8T7A"
+    },
+    {
+     "title": "Bajaj Popular 1000-watt Light Weight Dry Iron 1000 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHdleB0cboQk4-UJrnbqIOWc_Li5AS-ZHhzBE7hrtIXbuFiAXiYE_UgBAIj7muBF481XO4JLTRzR7XyacD9BcY9tc-Aot0afTUlOzLxVoKMzGW63wzjvZinw",
+     "price": "₹925",
+     "extracted_price": 925,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zP5N0XicLVTLrqtGFk2UH8hP3NGRr6oonj3j_bAB88ZMEAbM08ABg7F_IL8Rnds3UjJMIrXUo_6NzqC_pXGSUVWtVbX30tq19_---f4jr_6FaU8lWZY9p13v4ywepySpexb8PIx9Nqe3KvsdkjhB4gCHJEVAQCAMQfRzmtySti-q7De04RBnMIQwAoc4yZDEr2WeZG3V5eblko9Cn27XKApjAM4gHCACAJqACPxSXZMi_4tGGE4iCtI0RVAMtW0B_mXMph-_vs_5-Pj3OamT-i1b3yB8gwCA-1s2Pt6qse--FsPrPUMCiiZpCtGQYiADII6-XKvsV4IicRIjiI0GJI1jDPVlWG4fZfFRtB9V91G2H3n3U58MyyX949sfxHeV52eVs7xh8AUbOF225nWkOWBwLeDP3tUXTFniTRl_pIE2G6FPnOWsO0u-EIVZGUh24osFMCRJToPVDGSpz0NjdVHkp6CB0TVKvAoCG0SBrkjtGWqHFGmG_dSUE7KgIUhHt5lWNyBCWypR6sHaUyIxcO3RANMjaiMnhFFriiciAto1hNo9F4zGwaTKllUsA2XiPFsxCko3Cz0s8X2UexpmoOGqNzY4ub6Ydt5DbwfsLNm8HnJk7pZKqmSTe9Xe_QYit8kw_Tq4Uchx_lN66OA2pE3kWHUJDOwmO6LGe3XWJYL2dLDBy1Y11OFAOrK0-oJ_NIJIS4UCeAoXecjDPN9L1EYSU6QSUSvdE7GUg7DUbSHrUre8u8_yHkhGsuXxLSDedCj-c53Gy38BKxE3xyRxU2WGPdrnofBgzHhcKpMvUnvAbfYfr2rj5PYDaZyEP6V931T5H9_dHEMVPiGB1UyIhaL-bucchsbrrJoTRe9ip3Gs9bAYIFTxog2a_lapxGmoRUDUFz4yD8EU0_t4VyVFldrR3EShIwHurNCipS_i83lRRKA-YKvdPyHuzTF5Z8vGs-rrFMdOns5jvnNc-_gSwRklS1ZzxnKRkDuHzoXUgezZ1aBvZwF7nCsqp03j3atTTqTscWnX-BB4T7a94TY5oTnmYkSZ_m5ZiYeo-C2RnQHTw-LmNkpMLFzxpwaRtXkldlhddFRXfMkpLDV-F7kXy4r8S0mSMKLWB-El98im8pfdzKtSWbLMU4U7vFQOyv7qXXvqcWvSHfOwUVOyi0mFDXgFkU1TPogxy3mOGIubrUdXNY0t7p9e03Br6jNNEihHJKDzT4h19Q3_u0I4TmzIS8W4rerLGAySnyFGfYbEZ0iRuw1-uShIZo89wZOmjVuWH3anSMANSX8J-Kuo_DvN86zo4JbImassOEqkzsMMJ_0eVboM2lCy43DgL-uuNgpThQZEYkUuRn4wwyvTR2rHcVhyEcfC0jh_aElqz0v3YU3SzRtMPd8J0O9WIvbHqyvEe3oelyXahh6-ddMulxdhHb0De7gMTcffUas_dSt2sAKpSWjXaq22rDW448V6bw_67JZ1VxuTPmOio8MHKS8uEZfrqcyJViqmkli67MHjt8HnJotUGeuq2cTdpaWgugXuCpXdObv0-bPL19wqksnBHl0qeN6sGSS_tm0SmefjUfYXTS-V_YRnybOJu-qAxaNMDmHFISetg3Tn9ayrSWy2nziagRXldw9BOUbkMmnHk04XDQVqsyVhT-tMn47BOJTUMb_tNeOKfCndezOExe4YnolmBDN6-CfLXq3GC1Muxk-nMWW3wXr5z_8Bj-YMng"
+    },
+    {
+     "title": "Bajaj DX 15 440321 1000 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGXIRaref8NgkQxeaQkoKIvkwyfLXOB7z2TxIGY-GCkeH5ExwXXMQrinsIMBRWTAXAHm0ff9Y9JkbBl532uQqUx_XAtxIoV3v0j88DAOhknNSwhKMegr2u1Q",
+     "price": "₹625",
+     "extracted_price": 625,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yDNm-nicLVTLzqNGGp1oXmBeole_aFUBxWV2XA3YgLljNggDxkAZ-DFg7KeJ_k4i9SxbI400q7xGssizxO5kVapzVOc7Ol_p_PGPf32U9f9I46Fly7IVjcttnJX9NcuaXgBfh7Ev5nyqi_9ChkYMDWjIsAgCRJEUpL7m2ZThvnrREDAQ8IhiEMPSkOZ5lvp2LrMC111pn07lKPf5dxnEQZ7mmedzjgYUAAz_n_qSVeXfPKBZDnE8CVmGIymKZWn6y1hcf_z5fS7H-_-PWZM1b8X6BuEbBADc3orx_laPffdzNXwXYGmKoSkeUBzFsBTLQBp9udTFN8QyNENyLAKAZRmeI9kvwzJ9nKuPCn_U3ccZf5TdL302LKf89x--KGMuSUsuOsEwhLILvM51dhFUzEto-X7hHILEzqBxK8MBORFWs4CfbBnPvhySGQl9C4aWpbpMgA05kTHOWr4PA2VyKbzzu1CzWowtZfJcbLS5lkMnNJqwHSYf80lADvaRTKYodujkUmCX5OMcJ7i8GI8QWn0Ak4MvwcwnpyZTrEN0QVkO6MltQ7PY8CdPGaxjfD65frIvmxy6nUHackJGWkIeIqPLsfrUXT0zsiTz0YJEE8dC5XHQmCCBvFP64eQqIc5gsk2waj_nK9nDip1H4uSgvwUSRG4swjweQLGZkB8YmwKKcakV1rELQNSF-yAMt4kfdhk53CMFMoGrxyYcGG-jrqEc7q0oMXK5AoEmJgEVkEEYZHqrKjmlowS7tyM8e34TogN2966qKhZZWIGfPwo_lEwwXf0o_2m9jqffgKCiybPRydc3NdrTIupXIq-33jt-EHlJJWb1b8jykGYYFnLPL_BL3vdtXf7-z8mzdPkTJQuGDclYMd_dUiSp8TLr9pXliNRrPWfdLRaIdbrCUdtPtY4OQ6MA1JykxN5F15TbpkSdVXXuJnObxJ4KxKPGKY65KI_HSVOAfofYuH2ixDfPlrznNEnQX7c09cp8HkvC8939y4RonQWmngtBTOTS23U-ZHdML6wWNx1l8n6s2ZKzrfegyUWFdccFr-kuCh4CnmiXuVJzKqYUa4fEsqK7ooUYFUfA97Ca_FZL0SJW3z0ogitpqSeYiqf7ystO5ejpuyK-WEGRXk6yjFeMPopPZcC0dbgQs6Sr57PAP3RI0Gdtp20vwaVn71ObE_zdpdqzsNhs3IKXyMa2NzslFcTAU1LlGeve123rqfs9aw5yCB45BlElxQCu_EQJvvnE_94QTaMn8nIxPk_9FQwJmc-QZD9D9PnZCcQTfqUoq3ZPPsCD46ypKHfEIZFpSzVfBv5aqvTOSZKgeLSjiPa6kT0t0edhhlfzltTmBuBYddN4kE4r0ViVrUMLUkrNLFa5s-ML3yd6J4pkdlLGyjHEcMAMu5XU27Bm-TMbUj_eEOiJFaXhePHldMvN47Ikz1ajszAkys0ir2OwE3anoe2kG4XNh-mkHllReha7jd7oWHAGfzw573hnzv656Rrras6k4pnwzmwWH6Xn9XAuEVar6xktXXGX6GkIxavD6LxzMVx08zk1qqfIX6FGHItTXz66ci2dKrt65L3L5SCYDYuR1mf7JPZxv9-Ei2Gete2VLrJHm3b1jkzHDTPEtUh5eRPlRNALvqEKxfYqcjys2bC7y9o-YZarsT-YXNWyoLExA3vO5Pt8jMbhzO7LaWtYFypU820wQ1gR-_iI2hHM1D08OO7qtEGciyl9OIy58Czd069_AkvhFqY"
+    },
+    {
+     "title": "Bajaj Majesty DX 6 1000 Watts Dry Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvg0m5jz-qi1X8XJHHWK2J3kTYLl-G9gKgGK8Z6PLPOAYw4qlhy9arSvXQGV9dyX5369x12JSokEPsqRctqpSVWD7uM9ZBh21wIBbJWUEo92iJkFMQwhjqaw",
+     "price": "₹649",
+     "extracted_price": 649,
+     "reviews": 315,
+     "rating": 4.4,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PifEaHicdZTNrqtGEsej5AVmkVe4qyNf0UDzMTs-bWwD5qvBbBAGDJg2YGwwoDzNuZNIyTKJNNKs5jWSxTzL4JMsE6ml7q7q6vrVv1v1v6_-8Z6V_ya38yYehp24vT67Xjnc4_jSCMSPbdekffIo018BQ0OGJmjAsBAQkCIpQP2YxI8YN_nLDVmOIkmKZT5WHEcB4ucii1Nc1pl5Pmed3CRl-styYDlEUjxN8ACwkOPYn8prnGcf7l8BBUnAkfxr0AACjmLYL116_40-SBEgGcDSPMsSNM9RCwak2e8OtilHf-P8_tZn3fSfU3yJL2_p-AbAGyAI4vmWdtNb2TX193n7kfUvYr9cy_RnyDI0QzI8BZiFClAM_6UdHu9F_p7j97J-L_B7Vv_QxO1wTn7_-lulecrS_SlZXtsi2Sac2uiSWdVOaus4SluYrgBCbCNTaY8WgSf_gtwE4OkUhLTvY9Pe4DCrHti94odL2vbe48ERhbEri3tjg3WLUrvQswsH8XPmox7JYW_5iDFwQ8WeOureFpx8OzAIwz15WFry3wICHo4gFVPXMFIS3dy6fSKl9dNLKMduSoWYo1wqND0qZJCnQsPf4mPQMi4Qq0wWdeuqbk_YnrIar5d4Z6kBooqmbAf4R7JtUFXYVmVvLBzuEJmMdmXgcP24IVzgvRvO3rVwTK89GCQafaTqtm9TCGhThtIiVmCZAjH2Ats_AdFPZRG6OFRSD9uhD_S4ao9og6CJWg1t7OBVm31VCZ0Yd4mvaka9aBuEuq6kwz5YYgGmM1QcwgpWRyyuk1k8hmR7tjGaLQI9EmI72R5eOPkx9kLSrUMjnoUJLbW6iNdM7-6osxFnVVEkyALujK5OINCGKj59ZAADq2hdbkV7Y0ymH7rJOpXcugE6kY9pZU2mB4-uKuo2tZ2PuAXZGtn_Gu_d-TdCUOHDMeHZ1dYlPNAibMZVUu6cG55XSUaFev5PwPKAZhgWcMuf-yFpmqrMfv_m4Ria_ImSha0JyEDRb3YmklR37TXzznKryKkca9wPBhFodI79qnmUGjy2F4WAl7MUmnv_HnG7aFXGeZnYYV-FgaMS4mnDKZY-KPN83iiENgG8fX6ixDfHlJwlmyRor10UOVnSd9nKce3DC0I0CoEp-1QQQzlz9rUL2D3TCKPBPU4yOZ1KNuNM4-ZdElFh7W7AY7T3vVnAD9pm7lQfiRHFmmg1jHBSNgjD9ETwDcgfbrWJ4CDmHwyKYEubyBF0xdFc5YWTW1p0U8SXV1CkF0kc88q28YNz5jFViYZVL2lqUQj8rIEVXWz2m93Vuzbs9KiSFT_ZVFUIg8kGFfG6ZG2a670SCaLnKJGyyHpwNdNY7v3QmgMcBCeOgVRGMQSXfaIEV1_sf74QTcPF8qLolll7CUMC5jMg2c8AfgYss1rMLxVl1WzImZg5znik2X51DOXlL-kvgD8eVbpxkiQoDm0pojmuZWcTan3bg7v-DEt9TeBAtaOglc7j6mLkpgYMQCklMxjZ3gyufBNqtSiS8VnpcmsrohYz7E5Sn-0YJ4s2pHZ6QqJZjTBC3dWVox3Xd8MQLp2bjhFaZetBHjtvL-zPbVVLTwrrs25FDplTWhzYF-2iYcFq3e5s3fBe793iUl-Mu96TiqODiVkPLoyK8VhkEKv5vYBDnU4S_WiReLcYjbeuWxs-XU71y4fvjmCzOqXnJpvrbMysPL475FQnsuf1W4ORRozj0DwdDms0bPVis7vTaTxXUV3uyahbM21QipSTXPxk5TWCu1WFdHcXOR6ULKoneXMImeG-PRx1Lq9Y4mJiBjSczjdJ53dtwR6yx25rXCmkJjuvByBfHYITrDqipyZ0tOzRqrwgESP6eOwSYeny5__-H2pYSrc"
+    },
+    {
+     "title": "Bajaj Popular,1000w 750 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHjK7_46vDKs7c2mnzGvT_7cOJcLk7AejEYIg843i0Ir090b9fHqf4AXGj5RlpgdK_-PBUvHdsN5e7Uy3MqPe7HtBCSxTQR6A1rQh1H0m-vNXytT2TY-kV",
+     "price": "₹724",
+     "extracted_price": 724,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=z25paXicLZRLrqNGFIYTZQPZRI-uaFXxKCAzngZswJinmSAMGDAYuLyMvYFsI7qdROoMuyNFyijbSA-yluBORqX6j-rUr--vOv988_1bVv6Baw8lnuctr11v_STthzi-tBz42PVtOiVjmf4OEUkhEpAQ0RQEFIETkPiYxGNct3mZfiZWHZIsThA4RUISsYj6VGRxWpdNZp7PWS-2ybMLBBDQOEkCnKJpmsFJnP6tvMZ59rX-GQc0YhkSIAQYGjGIpdkPfTr89MvrlPX3P0_xJb68pMsLhC8QAHB7Sfv7S9m3zS959zzPIkAziKEJBtIsZAEkiQ_XMv1E0YhEOEWtZYAYEmfpD908vhX5W16_lc1bUb9lza9t3M3n5Mu3P0qvqiBMKm-5XeeJB2AD4-FL3WxfDmGidFXsqDdXOi5GnWquw-MWvtwMMNwNR8VT1zNjol1OvnfXiVD2oBecRK32iCN19Awtu4Rbx_cI67pATzTIlJBGz8tvqcyaYSMvyVWTw0r2baBT1rXQ0usSZ5sFhEE9-tc0PlSyYEsySKSwsivvYdfpzsXl0IH1eHQhMnCjS8GCTMWiLJA_0ib0DFBMFq5JBvDsxGfGE-h6XzJCx5XbVA6BAwvl4NexoxhbVzTuJ7kjdLcOM59dgfOlIYe88ZBD-yHLppeS_qUo_Sod9NqbwuBIJj4srIMa6LBD9kZePNHbG36oJWIOXIUPXcLFXc-N1UqWEkKlwnrl6cIpvbKW49VlimuB28ij23T4SWZ5G6aDW0k_L0N__htwMjXaJnV21E1J7UmeahcsKbf2a_3AkowI9fyHZ9okWp8gs8b8a9K2VZl9-W60DVV8R4icZkI8kPTXQ8bjRH-dVHOgGSyyK9tadrMBApXMa79qx1Kljt1FAtTlLITmzh8iZhthZZyXySGcqjCwZcCfFEay9Fl6PM6KBNQ7rLXbO4J_sU3BXm8TOPW5iyI7S6Y-w2znsH-a4I2CQ-WUcnwoZvaucSC9Qy23GGseIn4_lXTGmMare0l4iT70c71EO999cPVIHtBATBEfEbTpYfNC3SXFq6n0BNgW5qNTKRE18_lXDxJ3EJTI5nTJVh3paSe31OhV4p9VThKeTuKYlbTWD86Zi6rSm7FJUOWi4NiHCjGyUHbK9upeW_o-VgnG3g9EVXCzSQcVeDbZmOZmJ0Uc79pSJK1Y945qGmvfr6wZyFDwxCCKyIj1E2fvCM7RV_3_hEiSWpWni35d1ScYHKL3EKffQ-o9pBG2yk-Komy2-AM8GMYY02yHHUORNGT9aeC_UIVXRhA4ySYtiTeXjWgroTp1Exz0W1jqG1AH8iEKOuG8YBcjN1VoQEIq0WxkOzO4sm2oNjyPx2epzy2N97oa0VtBvnVLnKxscPV0o0CLLVTk9VdHjLbM1M9zuE49MvY8LNvM4tK7O2537qpGuBG1_tCtyMZzQo2Dw0W9qDVndU5_tl7rnT45xaW5GIM-4ZKtwzvazA4VFcuxyKhazoeCmpv0LpBj5_GDhVTWumoH6uYwsl-OvrNABTul5zZ7NNmSWXk82Pi9SUTXnTQDCUtdx6F52u833qzphbIdyDR-VFFT7vCo36AuKHnCTi5-grkt52gyl24HnmFhSXvNXVT2IZoHbX_UmbyiwcWsEWwZnW2T3u-7gt5n41YzroQnJ1t3gjDH9sGJqnowEXfvaB0Wq3KDhI_I47FPuHWwnv_6F2DCDh8"
+    },
+    {
+     "title": "Orient Electric Fabrijoy 1000 Watt Dry Iron for clothes with Weilburger Non Stick Soleplate coating",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyijD8ho8iU8uHeG5OjTvtxM-WMNe-kkFFSkk1yFMUGB3ubpwbO2lUeaZGNTc-A2Qr9XLQGIP8r_urUlyipitYTduohkizvxXQCcBmQX_cE5-hWB_jjpA2",
+     "price": "₹529",
+     "extracted_price": 529,
+     "reviews": 66,
+     "rating": 4.7,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TTzN5XicbVTNzqtGFhzNvEAW8wp39clXNNCAswMMNtg0hoYGs0EYMGB-PwwYrDzNd5NIyTKJFGlW8xrJYp5l7DuzzKrVVd3nlOoc1X_-9s1HWvxO649dNE17Sa_v_agcb1F0bUXqp65vkzEeiuQ3wLGQYykWcDwEFGRoBjA_xdEQVW1WJL-ykGEgoAEUAA15lltz_C95GiVV0aTm5ZL2mzZ-VaEEATIsD1iGpSmaoXmO-bmooyz9yv8qvB6wFAPhmuU4imco_kuf3P6gj3IIIEsJgKPXa55mGFrgOfjd0TY34V9zP7yPab_86xxdo-tbMr8B8AYoirq_Jf3yVvRt80PWvVr-xdcvdZH8AnmO5WhOgCzL8wIvMOsv3TR85NlHVn0UzUdefaTNj23UTZf4z7__U2nvG_l2ly2368jGprAbw9RRLwao2JTYcrwFrasMvkE_8WrdR_RtjkAGbT_wAyB5wVVlXYAudpkrQW2_o1pYcEVOmKDjgRDFIUHr0ifWLZFyAog1mLwPaOt-atrBoLu9Sbo2IWvjTOUPZ6ubCbCoiII4IpWXqt3V8BIa7apdWqHBa3SbXPUlbToS1_cBUdViqOhk1boTu6c7abQhYRJyrsnieqfHeVN1lovctNJhvOuWpFZY4tjIJUg-q-o9raQyKUGOGT1KiQadurohUPkuWbf2lrqnHnxHVbY4O0k972wXlUjGTcAYW723SDAlDokwTSpzOzSGGjCOn-C0CeiEgnbS2AamVPlEB7axBb7j3mcXZEzwQFJUqYtP6RB7ahBTwSF6JEfXDVhDXXuBky3udo4wldBpUyk2nUN7J-lxrauGOx99GkzRVeICF4241pFVlVh9oCgt8zwmFnAepMa-yCJVunsEAVSpZFvokr1Di-kFtteoHKbh7G2MxcOgiglqUNldAldhcd0xmArs7-dbf_mDElU4YJMfAB7Za6L15Hh5ZMRni8xD_MZUIvFbwK_Bc-F5ILAc82PctmWR_vmPASNt84nZiLoJaF8x3u1Uopm-HjXzxgurEJfYmg8TonyNzSqvbIdCg6fuqlDwepED8-DdQmEfroooK2I7GMvAxyolnXeCYhmT8nhcdgqlLaDS758Y6Q2bMn52k0XtdQtDnMZjn66wYx9fIiSUi1wxJqIUbFJ8aBzAH7hWnJEwnDf0ci74VDDRu3uNJYW3-6maw4PnPsRqYG3uxoyhFDK8SVbTDBdlRyqYnKl1C7LBKXchnKTsqwZFtOVdiEVDwZqjvORklha-K9KLFRX5pSSK1oreev4ldbmyINNqlDU1z8X1QwMrNt8ddvvarVt-Gcp4tV5spszFyeT9knoV2Zrm9qCEouRiJVSeth4dzUTPul-9FoAAwVngIJMyHCWknxjRMZ74_yfEsvCJvFT0z1N7GUMD7jOg-c8AfgY8t3rCLxc3qtnSD-ohCGhI0sPqFGyeu2S8BPxvqPK7IMuigllLkcx5u8G7QBu7EdyMe1AYW6ryVTv0O_kyr64oMzWAAKMU3ITSg-nX6zbQGkmio4vSZ5Yuka7i-L2s3rs5ip_e0Nr5Dql2NcOQ9LWzCffC2E9T8ExtNiJklW6nzdy7B_Fw6cpGvjOV8TCsENMZo0W-fdWuWiVandNfrPfqYIxOfm2u6GaMtIINsHDbyYFhPp_yFFZqdsvh1CSLzA4dkW4Wp62fUWLDuyOoXjF4zgx2q3NyadNHk86plUU3TC9NvHHdUUecPFdVFJjn43FLJt3Id_sbm0SPMmyKAx32W67zC4nB8dWLV24rOroqJvubJKxBwZNm2eyOATfd9OPJELKSp65mxYFWMNZt3Ht9l_PHdNjrqGaIGu_dEYBsdfTPsOypkVnIybJnq3T9WArZ06mPxWfKX_79X3EeSj4"
+    },
+    {
+     "title": "Bajaj By Bajaj Herculo 1100 Watts Dry Iron, Black & Grey, 1100 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLyHYe4gsYzpFtXgZ2id9uoNKExrj5viWgtc20K83SS8-NbwUszI84F_XCBKTm4g6RavQVhxCXCx1S74L2jnZHWCuV3xjSQymnosyMS3ZClErer0m2Tmcytik",
+     "price": "₹1,563",
+     "extracted_price": 1563,
+     "reviews": 16,
+     "rating": 5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=KMog4nicbVTLrqtGFu1W_0B-4o6OfFUFFI_MeBqwAfPGniBe5mnDwbyM-mvO7URKhkmkSBnlNxK1-lsaJxmmJqVaq2rvpbV37f_946uPrPwZU1c5mqYDp97mfhRPjyiqWhZ81_VtOiZDmf4ESQKRBCAgSSEIEI7hEP8uiYaoafMy_RHfcEgwGI5jiIAEyZDohyKL0qa8Z8b1mvVCm2zXMJqgKWZbOMJwxOAkRN-XtyjP_qRJjMAoRACcwiCiIAYg-NKnj9-wEx9iOIVwBDGENmp7RxDkv0-WIYR_z33zPmb985c4qqLqLV3eIHyDAID5Le2fb2Xf3r_Ju1dKhgQUTdIUTkOKgQyABP7lVqY_bHEIcgu40YCkCYyhvnTT8FHkH3nzUd4_iuYju3_bRt10TX7_53_FUeH5d4U33a7zBAs4e9WLG6-xBEnUqnR54ZFcGEdHA5pnmb47g3TvzbGI9posIgfrkI4NviNrIK3VYwIGP2vUxcWQlNhwf_SbfSwVirYW6hk7D74NMbvOn46rExZgDvZNefpiYXu4NWd7vXVqy8j8dM3cedUCvdOdBMVyQ2SuSiRBR7hB00SNrqd3TjdEb7qsnufvG5Dd6OcZLGLkqJh_s4wAU98jP51cj3FiYI3-rblb_lLGq27YIlPpnkTGgeRaPnJNXCJiiYtSyTqaviekuCrYcid4PJitvVrZYo1reGFrVdNbNvSzO4e5gIYWuHSxbNUmtOQE6nPsEvPlRi-6rHrmqguXIHX0hpv9igtMqPquc6nOuIbcKoGm311TcehsmZ3Ne1c4nmhLqx5ldVEkngmd1bvZAUvo0vbe06HeSN6-VDlL1p-Gf7FtR3x6q3U4B92sw-Ko37vFb9KDgw3Xi5P2UcVZ_1ke_fU3wEposA1qgPZIVKnSe6frmnsBUea-TgmGGLFfv1qIILefQBMk_m3StnWZ_f6vwdYV4RMusKoBsUDU3q2Mw_D-NirGg6J3oV3b5nKcdBAoRN74dTuUCjp3lQhQdeUvxtF_hPQh3JVRXibWZawvgS0BLpZp0dQmcV2vsgiUJ2zU-RPOvdkGb2_ZeFZ5ncLQzpKxz3a2Y51eIji9YMlyTFnuImT28e5A6ki27KLTQyxgz7ikMtrQ3zdzOZGy-qlZwqPvrmwzEBb5wMeQC3HK8HbTgp6i7DUojQHTwnxwajlEE5f_oUFkLV4ObVYTbcURX3JyUwnfRe7FsiL_UhJFjKi2fnDNXLIuvWk38opUFCyzKnBHFPJRPtzcW0s9hzrZMU8Lrwt2MqigBq8ge8PYH8WQ5VxbDMXN1pOjGPoW9w-vaUgjGNMkwjOcBHT2CWcdbcP_qhBBoA15qei3XXkZg0HyM8SozxB9hhS52-CXi4JktNgKVprWhzQ77s4XYesl7SXgz6Ly7zTPs6JNmCJnLPut4S_K2I3woc2XUtuDJpCsMOj467Kr9NxQoA5xsSQnPTsawY1pL8qd47DoKva5qXJe15DUgZfmbomSzRtMiWcE2t2CQq-_OUJ4oMd-mi7b8CUiz9tl-0lYevfIHq9dfednvNFWzQxtLMeVKLAqpVIa1uyc_mq-N0dtdIrqXukPbcREW4NPcj85KCyWc5GhRsofBZru6ZMnhs7jHiapMOZNtdDs0JJfbrNpgfIuTq9ttt6zJTPz6GFjz3siuO6o6iS_bCPlYsSn096bVK2QDw8ijdY6vJdHLOz3ZBeUHG4nlZ_s3JZ1VIlNDw-OZmBJefenIJ8u5PRQT2eNzmsKVEZDwpbWmDbp_b4rqFM2HFT9hntScnBHCPPdKYhR3YMRf3pn01rM2g0SLiTO5z5ht2l9_fX_1cw3Og"
+    },
+    {
+     "title": "Prestige Pdi 06 1000 W Dry Iron",
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLBnQERcXhJyGgwHUE_SAe4Y8eYeD2I25-zkWu8u_sxlcpPuAewdWyr_UQBkpOOUYX-NLMst6awBc3HECHgnF4lDkWxhTDdAWPPAbkca-ddtOjFPnCnAhL-sw",
+     "price": "₹1,395",
+     "extracted_price": 1395,
+     "reviews": 19,
+     "rating": 4.5,
+     "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Kf3Y83icbVTLsqvGFU0lP5CBf-GOTulWN81LmQECCSRAvBqJCYUA8X4cBAgof825vq5yhk6qUpVRfsMe-FuMrjP0aFfv1b322mt3929_-ftHnP2HUJZDMI5HXqme3SCeH0GQNxz4qe2aaAj7LPo3pEmKJgEJaYaCgEIEguinMOiDskleMGJZwGwZlqUYtIUkQbPbn9M4iMqsjvX7Pe52TfjaR7HslgYMIrcsjSBFMhT5z6wKkvgb_i-SRBRFsASAgGQBSUOa_dJFj1-Is-CvzAAAmoAAsGs1kgLs92dT3_l_jn19H-Ju_u8tyIP8LZreIHxbUfB8i7r5Leua-mvSvkr-ydEvVRb9TDE0SRNr0yS9hlUU-aUd-480-UjKj6z-SMuPuP6xCdrxHv761-_E5rkTHk_BcNoW70xgOVFuEsZiSioKi_SqS5GIkQFuiC9P2CSx0wtW4R2vuSabqHQuILKvuQyuDiVoNfd0amW65mmvgX7S3AK4RTp7Fcw1VxODug0cUJq40FS1SKUQeoSBUoRFD-i2uFxLRTFAKWoStrTK27t1SXoimK-2ifCFn9TKIW8WWDSilAJb6xx3SrFkII_onwaOMvMiQrOUZ6doO8txZhdj-gI9Iy4oO5RSpBVRHrhmeauiOnKxEuy9zq3U2a1xFS1a6e344VZpcwDSR4jMPgCtbUk89rBZmG6_jw8lH669R7kzh7UxWVWyqK4ZWERLY0mxNVsEt6ptzX1BOUBE1i6aNJAaVwJPboXPdi6Jt8N1NnDLW7Uz4VJETs7fY5ubrEs6aITW6dJWuOXXKUSp5a78AeF5Kmj7IE8Jd7_tA0fC9t7kPYQDtbqSERFa0qIFcZGmITagveDKunCkJvFPF2tQKyW8zxTePGiz7npmnJcnA0hZVCdrn_hgFMqiEv3u5qajiRXZqzD6YXp0918AJ1G9pdNQxOpYwBocYyZvTebJuS4k5j5Pk39AZn00NM1AlqTJH8OmKbL417_1libvPqEdp-iQuIjquxnzBOqqQdYfDLvxrcIyptOogYtMJqVbNH0mU9c2FwGV3wVPP7kPnz36myxIstD0hsK7WBLgbwdWNNRRXJb7QQTyDEvl-Qnxb5YuWGs1gZNfK9-34nDo4o1lm-eXCF5LOTobIo73drF1qm3InOiGmzS2v-2I-ZYxMatr704e8iJjdmM5-SfXWbiyJ036gQaf9xGj4804UbN4wCUV3cC2gUlvFwefGvnkmwaRM4WDb3GqaMm2-JKTGLL_LvIvlBOFl5Ig2IpK417usUMXGR43gyBLacptFxluyPRwOhwrp2qYuS_CzXY2UZFyo85cCvAi2ev6_iT6HO9Yoi-utp5tWddW3m9es5Cl4I2lKRQjGrDxJ8TZ6pr__4RIklozLxXdGuWXMQSkP0OC-Qypz5ChN2v65eJO0htiAQvLan0UnzZXb7feJfUl4I-hCu-sIHCiRRoir0_7nXXw5KEd4EN9epm6B-VFMv1LK9ynTa4lugw1iMSMHrX4pF-qbePJNc8TwV3sEkPhcVvSzFGQnu0UhKs3hHx7UqDZTJSPu8re-Ud26MbRW79tMsB4E-_H3dQ5J-50b4taeKJSXVTDt4gEycHFzOVcLjmjtbu78V6e1MFO8zrXHupAiJYKZ3o_2pSfTtc0pkopeaTUWEezQPYt5h8GLW-NSjGpp81Kbta79gQPm1t0b-KljqfYSIKHRcx1uHOcQdFoYSrLwNNv5_Mej4qaHo4PMgqWwq-zE-F3e7q9ZDyywtwNN07D2YrERccHz25hxuB63h3OHj0-lPNVZZOCAble0rBh1W0Tdm7Xpsw57o-KViEshUdngDDZnC83qujAgGZ8NczJKJxLyPvk9dqF3PrL3__3O4NJTIo"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;height:100%;background:#0f1513;color:#e6ece9;font-family:system-ui,"Segoe UI",Roboto,sans-serif}
+.c{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 160px}
+.logo{width:120px;height:120px;border-radius:26px;background:#2dd4bf;color:#062b27;display:grid;place-items:center;font-size:72px;font-weight:800;margin-bottom:36px}
+h1{font-size:88px;margin:0 0 18px} p{font-size:40px;color:#9aa8a2;margin:8px 0;line-height:1.35} .k{color:#2dd4bf}
+.q{font-size:52px;color:#e6ece9;max-width:1400px;margin:0 0 30px;line-height:1.3} .tag{font-size:28px;color:#9aa8a2;margin-top:40px}
+.fade{opacity:0;animation:in .7s ease forwards}.d1{animation-delay:.4s}.d2{animation-delay:1.6s}.d3{animation-delay:3s}
+@keyframes in{to{opacity:1}}
+.flow{display:flex;align-items:center;gap:18px;margin-top:30px}.box{border:2px solid #2dd4bf;border-radius:16px;padding:22px 26px;min-width:300px;max-width:420px;text-align:left}
+.box b{display:block;font:700 30px ui-monospace,Menlo,Consolas,monospace;color:#e6ece9;margin-bottom:8px}.box span{font-size:24px;color:#9aa8a2;line-height:1.35}
+.arr{font-size:54px;color:#2dd4bf;display:flex;flex-direction:column;align-items:center}.arr small{font:20px ui-monospace,monospace;color:#9aa8a2}
+</style></head><body><div class="c" id="c"></div><script>
+const card = new URLSearchParams(location.search).get("card");
+const C = {
+ intro: `<div class="logo fade">₹</div><h1 class="fade d1">Price-Claim Checker</h1><p class="fade d2">Is that sale deal really a deal?</p><p class="fade d3 tag">Checked against Google Shopping India data, fetched through SerpApi</p>`,
+ problem: `<p class="q fade">“₹X — 50% off! MRP ₹Y. Lowest price ever!”</p><p class="fade d1">Is the discount measured against a price anyone charges?</p><p class="fade d2">Is another store cheaper right now?</p><p class="fade d3 tag">Illustrative claim format, not a real ad</p>`,
+ chain: `<p class="q fade" style="font-size:44px">One check, two chained SerpApi searches</p>
+  <div class="flow fade d1"><div class="box"><b>google_shopping</b><span>q · gl=in · google.co.in · INR</span></div><div class="arr">→<small>page_token</small></div><div class="box"><b>google_immersive_product</b><span>more_stores=true · same product, many stores</span></div><div class="arr">→</div><div class="box"><b>fixed rules</b><span>verdict + receipt (search id, fetch time)</span></div></div>
+  <p class="fade d2 tag">No AI model at runtime · cache + hard credit cap</p>`,
+ outro: `<div class="logo fade">₹</div><h1 class="fade d1">Price-Claim Checker</h1><p class="fade d2">Deterministic rules · a receipt for every number · <span class="k">MIT licensed</span></p><p class="fade d3 tag">Built with AI assistance (Claude). Data: Google Shopping via SerpApi. Not affiliated with SerpApi or Google.</p>`,
+};
+document.getElementById("c").innerHTML = C[card] || "";
+</script></body></html>
